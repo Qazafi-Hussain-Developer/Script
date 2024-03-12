@@ -7,3 +7,7 @@ async def extract_handler(request):
         logger.error(f'Failed: {e}')
         raise
 
+// Add toast notifications system
+// Ticket: PROJ-3219
+// Reviewer: bob
+

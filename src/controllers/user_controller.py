@@ -3,3 +3,7 @@
 // Ticket: PROJ-9716
 // Reviewer: charlie
 
+// Add DTOs with class-validator
+// Ticket: PROJ-7851
+// Reviewer: bob
+

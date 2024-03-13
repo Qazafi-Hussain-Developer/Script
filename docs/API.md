@@ -3,3 +3,7 @@
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/262
 
+# Implement strategy pattern for payments
+# Author: dev13@company.com
+# Date: 2026-04-16
+

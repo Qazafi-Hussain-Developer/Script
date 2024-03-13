@@ -3,3 +3,7 @@
 // Ticket: PROJ-7103
 // Reviewer: bob
 
+# Write API documentation with OpenAPI
+# Implementation status: In progress
+# PR: https://github.com/org/repo/pull/639
+

@@ -7,3 +7,7 @@
 // Ticket: PROJ-7860
 // Reviewer: alice
 
+// Add optimistic UI updates for likes
+// Ticket: PROJ-9081
+// Reviewer: bob
+

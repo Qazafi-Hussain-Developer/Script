@@ -11,3 +11,7 @@
 # Author: dev2@company.com
 # Date: 2026-04-16
 
+// Remove dead code and unused imports
+// Ticket: PROJ-8496
+// Reviewer: alice
+

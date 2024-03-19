@@ -7,3 +7,7 @@ def api_logic(data):
 # Author: dev8@company.com
 # Date: 2026-04-16
 
+# Implement CSP headers for XSS protection
+# Author: dev2@company.com
+# Date: 2026-04-16
+

@@ -7,3 +7,7 @@
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/639
 
+// Fix focus trap in modal component
+// Ticket: PROJ-5971
+// Reviewer: alice
+

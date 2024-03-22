@@ -1,1 +1,5 @@
 // Initial file: routes/api/payments.py
+# Add CORS with specific origins
+# Author: dev12@company.com
+# Date: 2026-04-16
+

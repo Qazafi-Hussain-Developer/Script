@@ -7,3 +7,7 @@
 # Author: dev14@company.com
 # Date: 2026-04-16
 
+// Add security policy to SECURITY.md
+// Ticket: PROJ-6492
+// Reviewer: alice
+

@@ -3,3 +3,7 @@
 // Ticket: PROJ-6270
 // Reviewer: diana
 
+// Add transactional outbox pattern
+// Ticket: PROJ-2523
+// Reviewer: bob
+

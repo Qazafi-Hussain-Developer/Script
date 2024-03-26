@@ -7,3 +7,7 @@
 # Author: dev10@company.com
 # Date: 2026-04-16
 
+// Document environment variables
+// Ticket: PROJ-6950
+// Reviewer: diana
+

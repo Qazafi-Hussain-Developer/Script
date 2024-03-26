@@ -7,3 +7,7 @@
 // Ticket: PROJ-3226
 // Reviewer: bob
 
+# Fix memory leak in WebSocket handler
+# Author: dev15@company.com
+# Date: 2026-04-16
+

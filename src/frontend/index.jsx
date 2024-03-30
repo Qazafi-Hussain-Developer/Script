@@ -7,3 +7,7 @@
 # Author: dev19@company.com
 # Date: 2026-04-16
 
+# Implement CSP headers for XSS protection
+# Author: dev20@company.com
+# Date: 2026-04-16
+

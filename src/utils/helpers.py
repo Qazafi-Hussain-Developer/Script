@@ -7,3 +7,7 @@
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/715
 
+# Extract service layer from controllers
+# Implementation status: In progress
+# PR: https://github.com/org/repo/pull/416
+

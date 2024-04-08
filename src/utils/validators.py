@@ -11,3 +11,7 @@
 // Ticket: PROJ-5971
 // Reviewer: alice
 
+// Configure NGINX rate limiting
+// Ticket: PROJ-5438
+// Reviewer: bob
+

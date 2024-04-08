@@ -3,3 +3,7 @@
 // Ticket: PROJ-8936
 // Reviewer: bob
 
+# Add DTOs with class-validator
+# Author: dev9@company.com
+# Date: 2026-04-16
+

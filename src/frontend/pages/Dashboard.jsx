@@ -3,3 +3,7 @@
 // Ticket: PROJ-8039
 // Reviewer: diana
 
+# Migrate from Webpack to Vite
+# Author: dev11@company.com
+# Date: 2026-04-16
+

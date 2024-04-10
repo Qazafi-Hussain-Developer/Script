@@ -11,3 +11,7 @@
 // Ticket: PROJ-6492
 // Reviewer: alice
 
+# Fix flash of unstyled content
+# Author: dev17@company.com
+# Date: 2026-04-16
+

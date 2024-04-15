@@ -3,3 +3,7 @@
 # Author: dev8@company.com
 # Date: 2026-04-16
 
+// Fix test isolation issues
+// Ticket: PROJ-8871
+// Reviewer: charlie
+

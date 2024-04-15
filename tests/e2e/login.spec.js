@@ -19,3 +19,7 @@
 # Author: dev6@company.com
 # Date: 2026-04-16
 
+// Add integration tests for payment flow
+// Ticket: PROJ-7821
+// Reviewer: alice
+

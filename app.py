@@ -68,3 +68,5 @@
 # performance optimization @ 2024-04-06T11:10:48
 
 # add unit tests @ 2024-04-07T14:09:23
+
+# improve error handling @ 2024-04-15T10:38:08

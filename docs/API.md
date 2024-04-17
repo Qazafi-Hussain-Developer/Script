@@ -23,3 +23,7 @@
 // Ticket: PROJ-1563
 // Reviewer: alice
 
+// Add repository pattern for data layer
+// Ticket: PROJ-1044
+// Reviewer: charlie
+

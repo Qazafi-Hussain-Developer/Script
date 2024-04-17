@@ -19,3 +19,7 @@
 // Ticket: PROJ-7097
 // Reviewer: bob
 
+// Add performance tuning guide
+// Ticket: PROJ-1563
+// Reviewer: alice
+

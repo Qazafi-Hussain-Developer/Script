@@ -7,3 +7,7 @@
 // Ticket: PROJ-1820
 // Reviewer: alice
 
+// Fix flash of unstyled content
+// Ticket: PROJ-4790
+// Reviewer: charlie
+

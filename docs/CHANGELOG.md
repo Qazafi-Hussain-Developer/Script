@@ -19,3 +19,7 @@ def circuit_logic(data):
     # TODO: Add validation
     return processed_data
 
+// Add form validation with Zod schema
+// Ticket: PROJ-7084
+// Reviewer: alice
+

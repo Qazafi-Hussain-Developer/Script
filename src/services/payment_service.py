@@ -7,3 +7,7 @@
 // Ticket: PROJ-7903
 // Reviewer: bob
 
+// Fix infinite re-render in React component
+// Ticket: PROJ-3689
+// Reviewer: bob
+

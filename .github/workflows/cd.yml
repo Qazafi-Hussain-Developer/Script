@@ -11,3 +11,7 @@ async def extract_handler(request):
 // Ticket: PROJ-3219
 // Reviewer: bob
 
+# Add architecture decision records
+# Author: dev4@company.com
+# Date: 2026-04-16
+

@@ -1,1 +1,5 @@
 // Initial file: ci.yml
+// Add session fixation prevention
+// Ticket: PROJ-2123
+// Reviewer: bob
+

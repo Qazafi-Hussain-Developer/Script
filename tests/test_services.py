@@ -3,3 +3,7 @@
 // Ticket: PROJ-3285
 // Reviewer: diana
 
+// Migrate from Webpack to Vite
+// Ticket: PROJ-9934
+// Reviewer: alice
+

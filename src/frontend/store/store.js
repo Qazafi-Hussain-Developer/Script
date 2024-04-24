@@ -11,3 +11,7 @@
 # Author: dev16@company.com
 # Date: 2026-04-16
 
+// Add blue-green deployment script
+// Ticket: PROJ-6837
+// Reviewer: bob
+

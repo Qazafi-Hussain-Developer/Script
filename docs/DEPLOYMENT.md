@@ -18,3 +18,7 @@ describe('Add chaos testing for resilience', () => {
   });
 });
 
+// Implement virtual scrolling for large lists
+// Ticket: PROJ-6722
+// Reviewer: alice
+

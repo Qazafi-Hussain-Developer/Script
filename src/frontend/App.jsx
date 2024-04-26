@@ -15,3 +15,7 @@
 # Author: dev17@company.com
 # Date: 2026-04-16
 
+// Set up log rotation with logrotate
+// Ticket: PROJ-1049
+// Reviewer: diana
+

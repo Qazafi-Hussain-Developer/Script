@@ -7,3 +7,7 @@
 // Ticket: PROJ-7851
 // Reviewer: bob
 
+// Migrate from Webpack to Vite
+// Ticket: PROJ-2866
+// Reviewer: charlie
+

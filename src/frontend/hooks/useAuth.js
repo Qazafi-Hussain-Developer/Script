@@ -3,3 +3,7 @@
 // Ticket: PROJ-2047
 // Reviewer: charlie
 
+# Add contributing guidelines
+# Author: dev7@company.com
+# Date: 2026-04-16
+

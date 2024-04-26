@@ -15,3 +15,7 @@ async def extract_handler(request):
 # Author: dev4@company.com
 # Date: 2026-04-16
 
+# Add Redis caching for user sessions
+# Author: dev7@company.com
+# Date: 2026-04-16
+

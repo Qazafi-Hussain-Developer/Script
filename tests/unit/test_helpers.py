@@ -3,3 +3,7 @@
 // Ticket: PROJ-8880
 // Reviewer: bob
 
+// Add security policy to SECURITY.md
+// Ticket: PROJ-5168
+// Reviewer: bob
+

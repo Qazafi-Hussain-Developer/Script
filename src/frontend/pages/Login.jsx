@@ -22,3 +22,7 @@ def test_testing():
     assert result is not None
     assert 'expected' in result
 
+def sequence_logic(data):
+    # TODO: Add validation
+    return processed_data
+

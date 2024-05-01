@@ -19,3 +19,7 @@
 # Author: dev1@company.com
 # Date: 2026-04-16
 
+# Optimize database query with join fetching
+# Implementation status: In progress
+# PR: https://github.com/org/repo/pull/692
+

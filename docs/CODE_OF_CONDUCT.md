@@ -18,3 +18,7 @@ describe('Add chaos testing for resilience', () => {
 # Author: dev19@company.com
 # Date: 2026-04-16
 
+// Extract environment config to module
+// Ticket: PROJ-5412
+// Reviewer: diana
+

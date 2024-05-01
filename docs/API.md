@@ -27,3 +27,7 @@
 // Ticket: PROJ-1044
 // Reviewer: charlie
 
+// Extract environment config to module
+// Ticket: PROJ-3920
+// Reviewer: charlie
+

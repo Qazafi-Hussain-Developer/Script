@@ -3,3 +3,7 @@
 // Ticket: PROJ-7046
 // Reviewer: alice
 
+// Add optimistic UI updates for likes
+// Ticket: PROJ-2684
+// Reviewer: diana
+

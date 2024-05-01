@@ -11,3 +11,7 @@
 // Ticket: PROJ-8189
 // Reviewer: diana
 
+# Add security policy to SECURITY.md
+# Author: dev18@company.com
+# Date: 2026-04-16
+

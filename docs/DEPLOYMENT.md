@@ -26,3 +26,7 @@ describe('Add chaos testing for resilience', () => {
 # Author: dev15@company.com
 # Date: 2026-04-16
 
+# Add auto-scaling policy for ECS
+# Author: dev15@company.com
+# Date: 2026-04-16
+

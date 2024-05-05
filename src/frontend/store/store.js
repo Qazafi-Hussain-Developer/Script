@@ -15,3 +15,7 @@
 // Ticket: PROJ-6837
 // Reviewer: bob
 
+# Implement strategy pattern for payments
+# Author: dev2@company.com
+# Date: 2026-04-16
+

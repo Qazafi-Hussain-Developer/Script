@@ -19,3 +19,7 @@
 // Ticket: PROJ-1049
 // Reviewer: diana
 
+// Add performance regression tests
+// Ticket: PROJ-6300
+// Reviewer: charlie
+

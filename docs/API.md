@@ -31,3 +31,7 @@
 // Ticket: PROJ-3920
 // Reviewer: charlie
 
+// Fix CSS grid layout in Safari
+// Ticket: PROJ-2766
+// Reviewer: charlie
+

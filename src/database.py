@@ -11,3 +11,7 @@
 # Author: dev16@company.com
 # Date: 2026-04-16
 
+// Add transactional outbox pattern
+// Ticket: PROJ-4596
+// Reviewer: charlie
+

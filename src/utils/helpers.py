@@ -15,3 +15,7 @@
 // Ticket: PROJ-9332
 // Reviewer: charlie
 
+# Implement WebSocket reconnection logic
+# Author: dev4@company.com
+# Date: 2026-04-16
+

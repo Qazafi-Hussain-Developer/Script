@@ -7,3 +7,7 @@
 // Ticket: PROJ-8871
 // Reviewer: charlie
 
+// Add structured logging with JSON format
+// Ticket: PROJ-4703
+// Reviewer: alice
+

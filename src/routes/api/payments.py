@@ -11,3 +11,7 @@
 // Ticket: PROJ-7986
 // Reviewer: diana
 
+// Update changelog for recent releases
+// Ticket: PROJ-9875
+// Reviewer: charlie
+

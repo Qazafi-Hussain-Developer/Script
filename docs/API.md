@@ -35,3 +35,7 @@
 // Ticket: PROJ-2766
 // Reviewer: charlie
 
+# Add security tests with OWASP ZAP
+# Author: dev4@company.com
+# Date: 2026-04-16
+

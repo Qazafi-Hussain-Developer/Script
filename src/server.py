@@ -7,3 +7,7 @@
 // Ticket: PROJ-8827
 // Reviewer: bob
 
+// Add contributing guidelines
+// Ticket: PROJ-7679
+// Reviewer: diana
+

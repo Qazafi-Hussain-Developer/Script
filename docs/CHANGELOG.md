@@ -27,3 +27,7 @@ def database_logic(data):
     # TODO: Add validation
     return processed_data
 
+// Fix Open Redirect vulnerability
+// Ticket: PROJ-5530
+// Reviewer: diana
+

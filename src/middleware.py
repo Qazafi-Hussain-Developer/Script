@@ -19,3 +19,7 @@ async def add_handler(request):
         logger.error(f'Failed: {e}')
         raise
 
+// Fix test isolation issues
+// Ticket: PROJ-8507
+// Reviewer: bob
+

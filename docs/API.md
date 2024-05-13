@@ -39,3 +39,7 @@
 # Author: dev4@company.com
 # Date: 2026-04-16
 
+# Implement drag-and-drop file upload
+# Author: dev17@company.com
+# Date: 2026-04-16
+

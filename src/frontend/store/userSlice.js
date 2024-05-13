@@ -15,3 +15,7 @@
 // Ticket: PROJ-5512
 // Reviewer: bob
 
+// Replace custom logger with Winston
+// Ticket: PROJ-3311
+// Reviewer: alice
+

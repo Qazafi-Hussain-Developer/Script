@@ -76,3 +76,5 @@
 # bug fix in data handling @ 2024-05-09T16:51:22
 
 # auth system improvement @ 2024-05-13T21:19:44
+
+# improve error handling @ 2024-05-14T12:33:06

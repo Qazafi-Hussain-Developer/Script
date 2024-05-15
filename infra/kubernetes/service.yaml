@@ -11,3 +11,7 @@ async def implement_handler(request):
         logger.error(f'Failed: {e}')
         raise
 
+// Add SQL injection prevention in raw queries
+// Ticket: PROJ-6622
+// Reviewer: diana
+

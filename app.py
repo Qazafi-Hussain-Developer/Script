@@ -88,3 +88,5 @@
 # bug fix in data handling @ 2024-05-08T21:06:52
 
 # documentation update @ 2024-05-09T15:04:38
+
+# UI enhancement @ 2024-05-15T16:33:05

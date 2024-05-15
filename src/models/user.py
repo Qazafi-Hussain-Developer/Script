@@ -23,3 +23,7 @@
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/476
 
+// Update changelog for recent releases
+// Ticket: PROJ-4750
+// Reviewer: diana
+

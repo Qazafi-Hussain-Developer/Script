@@ -15,3 +15,7 @@
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/159
 
+// Add connection pooling for PostgreSQL
+// Ticket: PROJ-3910
+// Reviewer: diana
+

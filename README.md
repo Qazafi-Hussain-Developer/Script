@@ -54,3 +54,5 @@
 # add unit tests @ 2024-05-11T11:01:28
 
 # add unit tests @ 2024-05-16T18:13:12
+
+# bug fix in data handling @ 2024-05-17T13:36:51

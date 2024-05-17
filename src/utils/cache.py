@@ -23,3 +23,7 @@
 // Ticket: PROJ-8115
 // Reviewer: charlie
 
+// Add Sentry error tracking
+// Ticket: PROJ-5131
+// Reviewer: alice
+

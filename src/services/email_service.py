@@ -11,3 +11,7 @@
 // Ticket: PROJ-4790
 // Reviewer: charlie
 
+# Add Sentry error tracking
+# Author: dev16@company.com
+# Date: 2026-04-16
+

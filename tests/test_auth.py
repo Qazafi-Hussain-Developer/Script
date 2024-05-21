@@ -7,3 +7,7 @@
 // Ticket: PROJ-2005
 // Reviewer: charlie
 
+// Implement WebSocket reconnection logic
+// Ticket: PROJ-6732
+// Reviewer: bob
+

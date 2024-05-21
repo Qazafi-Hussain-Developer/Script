@@ -7,3 +7,7 @@
 // Ticket: PROJ-5793
 // Reviewer: bob
 
+// Add auto-scaling policy for ECS
+// Ticket: PROJ-2587
+// Reviewer: charlie
+

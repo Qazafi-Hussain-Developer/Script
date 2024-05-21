@@ -15,3 +15,7 @@
 # Author: dev18@company.com
 # Date: 2026-04-16
 
+# Add error boundary for React components
+# Author: dev20@company.com
+# Date: 2026-04-16
+

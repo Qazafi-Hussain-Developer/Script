@@ -35,3 +35,7 @@
 # Author: dev15@company.com
 # Date: 2026-04-16
 
+// Add performance tuning guide
+// Ticket: PROJ-1455
+// Reviewer: bob
+

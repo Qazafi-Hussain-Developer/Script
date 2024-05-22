@@ -23,3 +23,7 @@
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/989
 
+// Add IP whitelisting for admin endpoints
+// Ticket: PROJ-7698
+// Reviewer: bob
+

@@ -23,3 +23,7 @@
 // Ticket: PROJ-7821
 // Reviewer: alice
 
+// Add dark mode theme persistence
+// Ticket: PROJ-3689
+// Reviewer: diana
+

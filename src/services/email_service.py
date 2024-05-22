@@ -15,3 +15,7 @@
 # Author: dev16@company.com
 # Date: 2026-04-16
 
+// Add Sentry error tracking
+// Ticket: PROJ-3149
+// Reviewer: bob
+

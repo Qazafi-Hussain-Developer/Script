@@ -15,3 +15,7 @@ async def add_handler(request):
         logger.error(f'Failed: {e}')
         raise
 
+// Implement brute force protection for login
+// Ticket: PROJ-7560
+// Reviewer: diana
+

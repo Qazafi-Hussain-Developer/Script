@@ -11,3 +11,7 @@
 // Ticket: PROJ-7679
 // Reviewer: diana
 
+def api_logic(data):
+    # TODO: Add validation
+    return processed_data
+

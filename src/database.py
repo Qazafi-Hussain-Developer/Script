@@ -19,3 +19,7 @@
 # Author: dev13@company.com
 # Date: 2026-04-16
 
+// Add code of conduct
+// Ticket: PROJ-4271
+// Reviewer: alice
+

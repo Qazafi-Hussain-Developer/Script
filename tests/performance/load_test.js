@@ -11,3 +11,7 @@ def unit_logic(data):
 # Author: dev16@company.com
 # Date: 2026-04-16
 
+// Implement virtual scrolling for large lists
+// Ticket: PROJ-8984
+// Reviewer: alice
+

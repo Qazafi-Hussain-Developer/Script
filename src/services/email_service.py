@@ -27,3 +27,7 @@
 // Ticket: PROJ-7698
 // Reviewer: bob
 
+// Add Redis caching for user sessions
+// Ticket: PROJ-6675
+// Reviewer: alice
+

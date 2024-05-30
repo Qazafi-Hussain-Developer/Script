@@ -19,3 +19,7 @@
 # Author: dev20@company.com
 # Date: 2026-04-16
 
+// Fix insecure direct object references
+// Ticket: PROJ-5222
+// Reviewer: charlie
+

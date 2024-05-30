@@ -80,3 +80,5 @@
 # database schema update @ 2024-05-23T21:20:50
 
 # bug fix in data handling @ 2024-05-26T11:55:13
+
+# UI enhancement @ 2024-05-30T18:23:11

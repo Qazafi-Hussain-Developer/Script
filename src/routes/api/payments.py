@@ -23,3 +23,7 @@
 # Author: dev2@company.com
 # Date: 2026-04-16
 
+// Add Kubernetes liveness probes
+// Ticket: PROJ-6522
+// Reviewer: bob
+

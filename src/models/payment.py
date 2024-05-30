@@ -7,3 +7,7 @@
 // Ticket: PROJ-2684
 // Reviewer: diana
 
+// Add SQL injection prevention in raw queries
+// Ticket: PROJ-6296
+// Reviewer: diana
+

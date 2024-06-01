@@ -100,3 +100,5 @@
 # refactor service layer @ 2024-05-28T11:01:16
 
 # auth system improvement @ 2024-05-31T16:06:58
+
+# bug fix in data handling @ 2024-06-01T11:50:03

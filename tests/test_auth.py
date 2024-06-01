@@ -11,3 +11,7 @@
 // Ticket: PROJ-6732
 // Reviewer: bob
 
+// Add Prometheus metrics endpoint
+// Ticket: PROJ-4105
+// Reviewer: bob
+

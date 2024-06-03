@@ -82,3 +82,5 @@
 # bug fix in data handling @ 2024-05-26T11:55:13
 
 # UI enhancement @ 2024-05-30T18:23:11
+
+# auth system improvement @ 2024-06-03T18:23:37

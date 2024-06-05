@@ -23,3 +23,7 @@
 # Author: dev17@company.com
 # Date: 2026-04-16
 
+// Add snapshot tests for UI components
+// Ticket: PROJ-2074
+// Reviewer: charlie
+

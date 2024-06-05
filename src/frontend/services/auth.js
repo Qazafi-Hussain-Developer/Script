@@ -19,3 +19,7 @@
 # Author: dev8@company.com
 # Date: 2026-04-16
 
+# Implement strategy pattern for payments
+# Author: dev17@company.com
+# Date: 2026-04-16
+

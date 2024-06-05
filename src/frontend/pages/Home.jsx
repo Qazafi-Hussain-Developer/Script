@@ -27,3 +27,7 @@ async def standardize_handler(request):
 # Author: dev5@company.com
 # Date: 2026-04-16
 
+def api_logic(data):
+    # TODO: Add validation
+    return processed_data
+

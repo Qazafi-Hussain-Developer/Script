@@ -23,3 +23,7 @@
 # Author: dev4@company.com
 # Date: 2026-04-16
 
+// Add performance regression tests
+// Ticket: PROJ-2445
+// Reviewer: diana
+

@@ -15,3 +15,7 @@ def unit_logic(data):
 // Ticket: PROJ-8984
 // Reviewer: alice
 
+# Add security.txt with contact info
+# Author: dev4@company.com
+# Date: 2026-04-16
+

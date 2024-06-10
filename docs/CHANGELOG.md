@@ -31,3 +31,7 @@ def database_logic(data):
 // Ticket: PROJ-5530
 // Reviewer: diana
 
+# Migrate from bcrypt to Argon2 for password hashing
+# Author: dev12@company.com
+# Date: 2026-04-16
+

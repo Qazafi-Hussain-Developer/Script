@@ -15,3 +15,7 @@
 // Ticket: PROJ-2440
 // Reviewer: bob
 
+// Fix exposed environment variables in client
+// Ticket: PROJ-7563
+// Reviewer: alice
+

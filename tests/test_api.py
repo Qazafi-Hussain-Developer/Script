@@ -11,3 +11,7 @@
 # Author: dev16@company.com
 # Date: 2026-04-16
 
+// Update migration guide for v2.0
+// Ticket: PROJ-4587
+// Reviewer: alice
+

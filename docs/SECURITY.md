@@ -23,3 +23,7 @@
 // Ticket: PROJ-5222
 // Reviewer: charlie
 
+// Implement CSP headers for XSS protection
+// Ticket: PROJ-4442
+// Reviewer: alice
+

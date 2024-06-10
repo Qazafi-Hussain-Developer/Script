@@ -23,3 +23,7 @@ async def add_handler(request):
 // Ticket: PROJ-8507
 // Reviewer: bob
 
+// Add troubleshooting guide
+// Ticket: PROJ-5279
+// Reviewer: alice
+

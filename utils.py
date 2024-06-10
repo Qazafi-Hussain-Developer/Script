@@ -96,3 +96,5 @@
 # auth system improvement @ 2024-06-09T21:11:25
 
 # database schema update @ 2024-06-09T15:10:18
+
+# improve error handling @ 2024-06-10T20:22:52

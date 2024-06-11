@@ -15,3 +15,7 @@
 # Author: dev8@company.com
 # Date: 2026-04-16
 
+# Add lazy loading for images and routes
+# Author: dev3@company.com
+# Date: 2026-04-16
+

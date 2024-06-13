@@ -23,3 +23,7 @@
 # Author: dev14@company.com
 # Date: 2026-04-16
 
+# Add security.txt with contact info
+# Author: dev20@company.com
+# Date: 2026-04-16
+

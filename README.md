@@ -64,3 +64,5 @@
 # improve error handling @ 2024-05-25T15:34:52
 
 # documentation update @ 2024-06-03T10:34:25
+
+# auth system improvement @ 2024-06-14T16:11:10

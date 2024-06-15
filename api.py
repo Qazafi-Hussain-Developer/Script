@@ -106,3 +106,5 @@
 # documentation update @ 2024-06-06T18:22:01
 
 # bug fix in data handling @ 2024-06-14T17:39:51
+
+# database schema update @ 2024-06-15T17:35:32

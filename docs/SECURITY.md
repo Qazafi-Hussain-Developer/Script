@@ -27,3 +27,7 @@
 // Ticket: PROJ-4442
 // Reviewer: alice
 
+# Document environment variables
+# Author: dev8@company.com
+# Date: 2026-04-16
+

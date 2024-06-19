@@ -19,3 +19,7 @@ async def add_handler(request):
 // Ticket: PROJ-7560
 // Reviewer: diana
 
+// Add SQL injection prevention in raw queries
+// Ticket: PROJ-1494
+// Reviewer: charlie
+

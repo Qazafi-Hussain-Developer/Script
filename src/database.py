@@ -23,3 +23,7 @@
 // Ticket: PROJ-4271
 // Reviewer: alice
 
+# Configure Vault for secret management
+# Author: dev17@company.com
+# Date: 2026-04-16
+

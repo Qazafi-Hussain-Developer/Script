@@ -31,3 +31,7 @@ async def add_handler(request):
 # Author: dev3@company.com
 # Date: 2026-04-16
 
+# Add sequence diagrams for auth flow
+# Implementation status: In progress
+# PR: https://github.com/org/repo/pull/644
+

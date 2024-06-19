@@ -27,3 +27,7 @@
 // Ticket: PROJ-5131
 // Reviewer: alice
 
+def contract_logic(data):
+    # TODO: Add validation
+    return processed_data
+

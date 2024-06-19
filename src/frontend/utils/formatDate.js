@@ -26,3 +26,7 @@ def test_testing():
     assert result is not None
     assert 'expected' in result
 
+# Update README with setup instructions
+# Author: dev8@company.com
+# Date: 2026-04-16
+

@@ -34,3 +34,7 @@ describe('Add chaos testing for resilience', () => {
 # Author: dev20@company.com
 # Date: 2026-04-16
 
+// Add troubleshooting guide
+// Ticket: PROJ-1725
+// Reviewer: alice
+

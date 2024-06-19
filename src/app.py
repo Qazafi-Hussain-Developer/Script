@@ -19,3 +19,7 @@
 # Author: dev3@company.com
 # Date: 2026-04-16
 
+# Add DTOs with class-validator
+# Author: dev3@company.com
+# Date: 2026-04-16
+

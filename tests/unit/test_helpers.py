@@ -19,3 +19,7 @@ async def add_handler(request):
 // Ticket: PROJ-5063
 // Reviewer: bob
 
+// Add blue-green deployment script
+// Ticket: PROJ-4940
+// Reviewer: charlie
+

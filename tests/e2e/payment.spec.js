@@ -15,3 +15,7 @@
 # Author: dev11@company.com
 # Date: 2026-04-16
 
+// Add CSRF token validation
+// Ticket: PROJ-7018
+// Reviewer: bob
+

@@ -19,3 +19,7 @@ async def fix_handler(request):
         logger.error(f'Failed: {e}')
         raise
 
+// Add Prometheus metrics endpoint
+// Ticket: PROJ-4782
+// Reviewer: bob
+

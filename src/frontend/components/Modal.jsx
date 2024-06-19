@@ -19,3 +19,7 @@
 // Ticket: PROJ-8623
 // Reviewer: alice
 
+// Fix exposed environment variables in client
+// Ticket: PROJ-9790
+// Reviewer: bob
+

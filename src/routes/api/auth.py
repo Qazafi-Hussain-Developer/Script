@@ -27,3 +27,7 @@
 # Author: dev2@company.com
 # Date: 2026-04-16
 
+// Add security.txt with contact info
+// Ticket: PROJ-6285
+// Reviewer: alice
+

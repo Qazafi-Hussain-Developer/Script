@@ -11,3 +11,7 @@
 // Ticket: PROJ-1833
 // Reviewer: bob
 
+// Add security policy to SECURITY.md
+// Ticket: PROJ-2507
+// Reviewer: bob
+

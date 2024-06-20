@@ -7,3 +7,7 @@
 # Author: dev15@company.com
 # Date: 2026-04-16
 
+// Add Kubernetes liveness probes
+// Ticket: PROJ-4825
+// Reviewer: charlie
+

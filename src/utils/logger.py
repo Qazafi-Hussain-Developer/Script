@@ -19,3 +19,7 @@ def n+1_logic(data):
 # Author: dev7@company.com
 # Date: 2026-04-16
 
+# Add contributing guidelines
+# Author: dev3@company.com
+# Date: 2026-04-16
+

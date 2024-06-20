@@ -43,3 +43,7 @@
 # Author: dev17@company.com
 # Date: 2026-04-16
 
+// Write deployment checklist
+// Ticket: PROJ-4080
+// Reviewer: charlie
+

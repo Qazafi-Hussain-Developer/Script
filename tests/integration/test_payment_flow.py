@@ -19,3 +19,7 @@ async def add_handler(request):
         logger.error(f'Failed: {e}')
         raise
 
+// Add security tests with OWASP ZAP
+// Ticket: PROJ-9794
+// Reviewer: bob
+

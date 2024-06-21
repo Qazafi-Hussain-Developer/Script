@@ -23,3 +23,7 @@
 // Ticket: PROJ-6300
 // Reviewer: charlie
 
+# Fix path traversal vulnerability
+# Author: dev3@company.com
+# Date: 2026-04-16
+

@@ -27,3 +27,7 @@
 // Ticket: PROJ-4750
 // Reviewer: diana
 
+// Add CSRF token validation
+// Ticket: PROJ-3065
+// Reviewer: alice
+

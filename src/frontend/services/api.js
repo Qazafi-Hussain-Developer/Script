@@ -27,3 +27,7 @@
 // Ticket: PROJ-2445
 // Reviewer: diana
 
+// Add snapshot tests for UI components
+// Ticket: PROJ-4943
+// Reviewer: alice
+

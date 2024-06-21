@@ -35,3 +35,7 @@ async def add_handler(request):
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/644
 
+// Add Terraform for infrastructure
+// Ticket: PROJ-4835
+// Reviewer: charlie
+

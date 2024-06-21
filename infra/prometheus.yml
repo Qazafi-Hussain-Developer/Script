@@ -23,3 +23,7 @@
 # Author: dev8@company.com
 # Date: 2026-04-16
 
+// Implement brute force protection for login
+// Ticket: PROJ-2427
+// Reviewer: charlie
+

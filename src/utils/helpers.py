@@ -27,3 +27,7 @@ async def standardize_handler(request):
         logger.error(f'Failed: {e}')
         raise
 
+// Update migration guide for v2.0
+// Ticket: PROJ-4642
+// Reviewer: charlie
+

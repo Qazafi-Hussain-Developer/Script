@@ -39,3 +39,10 @@ async def fix_handler(request):
         logger.error(f'Failed: {e}')
         raise
 
+describe('Add mutation testing with Stryker', () => {
+  it('should work correctly', async () => {
+    const result = await myFunction();
+    expect(result).toBeDefined();
+  });
+});
+

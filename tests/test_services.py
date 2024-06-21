@@ -11,3 +11,7 @@ def database_logic(data):
     # TODO: Add validation
     return processed_data
 
+// Add contributing guidelines
+// Ticket: PROJ-8140
+// Reviewer: charlie
+

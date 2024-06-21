@@ -27,3 +27,7 @@
 // Ticket: PROJ-3689
 // Reviewer: diana
 
+// Implement CSP headers for XSS protection
+// Ticket: PROJ-1891
+// Reviewer: bob
+

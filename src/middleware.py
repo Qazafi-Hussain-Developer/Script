@@ -27,3 +27,7 @@ async def add_handler(request):
 // Ticket: PROJ-5279
 // Reviewer: alice
 
+// Replace callbacks with async/await
+// Ticket: PROJ-1549
+// Reviewer: charlie
+

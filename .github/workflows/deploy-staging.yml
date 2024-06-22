@@ -19,3 +19,7 @@
 // Ticket: PROJ-7563
 // Reviewer: alice
 
+// Implement brute force protection for login
+// Ticket: PROJ-7312
+// Reviewer: charlie
+

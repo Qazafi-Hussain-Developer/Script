@@ -15,3 +15,7 @@
 // Ticket: PROJ-2507
 // Reviewer: bob
 
+# Implement API key rotation mechanism
+# Implementation status: In progress
+# PR: https://github.com/org/repo/pull/609
+

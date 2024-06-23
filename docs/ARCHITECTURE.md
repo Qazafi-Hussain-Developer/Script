@@ -11,3 +11,7 @@
 // Ticket: PROJ-8835
 // Reviewer: diana
 
+// Fix focus trap in modal component
+// Ticket: PROJ-9884
+// Reviewer: alice
+

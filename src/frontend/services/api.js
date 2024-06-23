@@ -31,3 +31,7 @@
 // Ticket: PROJ-4943
 // Reviewer: alice
 
+// Replace custom logger with Winston
+// Ticket: PROJ-6822
+// Reviewer: diana
+

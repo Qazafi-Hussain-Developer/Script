@@ -110,3 +110,5 @@
 # database schema update @ 2024-06-15T17:35:32
 
 # improve error handling @ 2024-06-21T10:00:39
+
+# bug fix in data handling @ 2024-06-23T11:40:52

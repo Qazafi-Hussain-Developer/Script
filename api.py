@@ -112,3 +112,5 @@
 # improve error handling @ 2024-06-21T10:00:39
 
 # bug fix in data handling @ 2024-06-23T11:40:52
+
+# auth system improvement @ 2024-06-24T12:08:46

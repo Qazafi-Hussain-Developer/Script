@@ -23,3 +23,7 @@ async def add_handler(request):
 // Ticket: PROJ-1494
 // Reviewer: charlie
 
+// Add dark mode theme persistence
+// Ticket: PROJ-4015
+// Reviewer: charlie
+

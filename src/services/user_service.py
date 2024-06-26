@@ -15,3 +15,7 @@ def api_logic(data):
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/787
 
+# Add security.txt with contact info
+# Author: dev2@company.com
+# Date: 2026-04-16
+

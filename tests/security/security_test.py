@@ -19,3 +19,7 @@
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/609
 
+# Replace callbacks with async/await
+# Author: dev1@company.com
+# Date: 2026-04-16
+

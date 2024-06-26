@@ -27,3 +27,7 @@ async def add_handler(request):
 // Ticket: PROJ-4015
 // Reviewer: charlie
 
+// Add health check endpoint for k8s
+// Ticket: PROJ-2448
+// Reviewer: charlie
+

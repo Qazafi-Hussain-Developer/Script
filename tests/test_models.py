@@ -15,3 +15,7 @@
 // Ticket: PROJ-6058
 // Reviewer: bob
 
+// Add structured logging with JSON format
+// Ticket: PROJ-4544
+// Reviewer: alice
+

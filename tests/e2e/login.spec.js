@@ -31,3 +31,7 @@
 // Ticket: PROJ-1891
 // Reviewer: bob
 
+// Document environment variables
+// Ticket: PROJ-4709
+// Reviewer: alice
+

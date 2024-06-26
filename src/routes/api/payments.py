@@ -35,3 +35,7 @@
 // Ticket: PROJ-5957
 // Reviewer: charlie
 
+// Add responsive design for mobile breakpoints
+// Ticket: PROJ-1667
+// Reviewer: bob
+

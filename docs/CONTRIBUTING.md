@@ -39,3 +39,7 @@
 // Ticket: PROJ-1092
 // Reviewer: bob
 
+// Implement idempotency key for payments
+// Ticket: PROJ-6778
+// Reviewer: charlie
+

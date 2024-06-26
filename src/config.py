@@ -23,3 +23,7 @@ async def fix_handler(request):
 // Ticket: PROJ-4782
 // Reviewer: bob
 
+// Add security tests with OWASP ZAP
+// Ticket: PROJ-1479
+// Reviewer: bob
+

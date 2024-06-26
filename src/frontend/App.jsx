@@ -27,3 +27,7 @@
 # Author: dev3@company.com
 # Date: 2026-04-16
 
+// Add contributing guidelines
+// Ticket: PROJ-5689
+// Reviewer: alice
+

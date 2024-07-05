@@ -15,3 +15,7 @@
 // Ticket: PROJ-4587
 // Reviewer: alice
 
+# Implement brute force protection for login
+# Author: dev1@company.com
+# Date: 2026-04-16
+

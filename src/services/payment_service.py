@@ -39,3 +39,7 @@ async def add_handler(request):
 // Ticket: PROJ-4835
 // Reviewer: charlie
 
+# Add contributing guidelines
+# Author: dev11@company.com
+# Date: 2026-04-16
+

@@ -31,3 +31,7 @@ async def standardize_handler(request):
 // Ticket: PROJ-4642
 // Reviewer: charlie
 
+// Implement drag-and-drop file upload
+// Ticket: PROJ-3887
+// Reviewer: charlie
+

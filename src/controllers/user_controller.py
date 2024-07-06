@@ -19,3 +19,7 @@
 # Author: dev5@company.com
 # Date: 2026-04-16
 
+# Migrate from Webpack to Vite
+# Author: dev18@company.com
+# Date: 2026-04-16
+

@@ -31,3 +31,7 @@ async def add_handler(request):
 // Ticket: PROJ-2448
 // Reviewer: charlie
 
+# Add auto-scaling policy for ECS
+# Author: dev1@company.com
+# Date: 2026-04-16
+

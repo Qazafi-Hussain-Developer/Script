@@ -31,3 +31,7 @@
 // Ticket: PROJ-3065
 // Reviewer: alice
 
+# Implement rate limiting middleware
+# Author: dev4@company.com
+# Date: 2026-04-16
+

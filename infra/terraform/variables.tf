@@ -35,3 +35,7 @@ async def add_handler(request):
 # Author: dev1@company.com
 # Date: 2026-04-16
 
+// Add DTOs with class-validator
+// Ticket: PROJ-5700
+// Reviewer: alice
+

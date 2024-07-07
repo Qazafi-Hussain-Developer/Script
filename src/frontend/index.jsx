@@ -47,3 +47,7 @@ async def fix_handler(request):
         logger.error(f'Failed: {e}')
         raise
 
+// Add optimistic UI updates for likes
+// Ticket: PROJ-1651
+// Reviewer: alice
+

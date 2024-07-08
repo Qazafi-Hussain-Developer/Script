@@ -27,3 +27,7 @@ def n+1_logic(data):
     # TODO: Add validation
     return processed_data
 
+# Update migration guide for v2.0
+# Author: dev14@company.com
+# Date: 2026-04-16
+

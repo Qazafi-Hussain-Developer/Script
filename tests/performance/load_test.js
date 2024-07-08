@@ -27,3 +27,7 @@ def unit_logic(data):
 # Author: dev9@company.com
 # Date: 2026-04-16
 
+# Add transactional outbox pattern
+# Author: dev14@company.com
+# Date: 2026-04-16
+

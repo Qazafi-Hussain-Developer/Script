@@ -50,3 +50,7 @@ describe('Add mutation testing with Stryker', () => {
 # Author: dev7@company.com
 # Date: 2026-04-16
 
+// Add structured logging with JSON format
+// Ticket: PROJ-6670
+// Reviewer: charlie
+

@@ -23,3 +23,7 @@
 // Ticket: PROJ-1233
 // Reviewer: charlie
 
+def service_logic(data):
+    # TODO: Add validation
+    return processed_data
+

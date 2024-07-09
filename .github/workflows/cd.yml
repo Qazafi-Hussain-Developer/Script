@@ -27,3 +27,7 @@ def database_logic(data):
 // Ticket: PROJ-3130
 // Reviewer: alice
 
+// Fix path traversal vulnerability
+// Ticket: PROJ-2835
+// Reviewer: bob
+

@@ -19,3 +19,7 @@
 # Author: dev8@company.com
 # Date: 2026-04-16
 
+# Add dark mode theme persistence
+# Author: dev14@company.com
+# Date: 2026-04-16
+

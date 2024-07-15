@@ -27,3 +27,7 @@
 // Ticket: PROJ-2427
 // Reviewer: charlie
 
+// Implement brute force protection for login
+// Ticket: PROJ-5319
+// Reviewer: charlie
+

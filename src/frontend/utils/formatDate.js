@@ -30,3 +30,7 @@ def test_testing():
 # Author: dev8@company.com
 # Date: 2026-04-16
 
+# Add Terraform for infrastructure
+# Author: dev10@company.com
+# Date: 2026-04-16
+

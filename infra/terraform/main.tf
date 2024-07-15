@@ -15,3 +15,7 @@
 # Author: dev11@company.com
 # Date: 2026-04-16
 
+// Add performance regression tests
+// Ticket: PROJ-1097
+// Reviewer: alice
+

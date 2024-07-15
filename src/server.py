@@ -15,3 +15,7 @@ def api_logic(data):
     # TODO: Add validation
     return processed_data
 
+# Add Prometheus metrics endpoint
+# Author: dev11@company.com
+# Date: 2026-04-16
+

@@ -15,3 +15,7 @@
 // Ticket: PROJ-4164
 // Reviewer: diana
 
+# Fix flaky test in notification service
+# Implementation status: In progress
+# PR: https://github.com/org/repo/pull/401
+

@@ -54,3 +54,7 @@ describe('Add mutation testing with Stryker', () => {
 // Ticket: PROJ-6670
 // Reviewer: charlie
 
+// Add Terraform for infrastructure
+// Ticket: PROJ-3603
+// Reviewer: alice
+

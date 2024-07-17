@@ -23,3 +23,7 @@
 // Ticket: PROJ-7312
 // Reviewer: charlie
 
+// Add Prometheus metrics endpoint
+// Ticket: PROJ-1970
+// Reviewer: charlie
+

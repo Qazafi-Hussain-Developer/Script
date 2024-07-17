@@ -19,3 +19,7 @@
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/401
 
+// Convert to TypeScript strict mode
+// Ticket: PROJ-1641
+// Reviewer: charlie
+

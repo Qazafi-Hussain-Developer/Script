@@ -31,3 +31,7 @@
 // Ticket: PROJ-5689
 // Reviewer: alice
 
+# Update migration guide for v2.0
+# Author: dev1@company.com
+# Date: 2026-04-16
+

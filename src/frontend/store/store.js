@@ -34,3 +34,7 @@ def test_testing():
 // Ticket: PROJ-1725
 // Reviewer: diana
 
+# Add CSRF token validation
+# Author: dev19@company.com
+# Date: 2026-04-16
+

@@ -31,3 +31,7 @@ def database_logic(data):
 // Ticket: PROJ-2835
 // Reviewer: bob
 
+// Fix memory leak in WebSocket handler
+// Ticket: PROJ-2751
+// Reviewer: alice
+

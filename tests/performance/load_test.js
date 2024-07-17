@@ -31,3 +31,7 @@ def unit_logic(data):
 # Author: dev14@company.com
 # Date: 2026-04-16
 
+// Add blue-green deployment script
+// Ticket: PROJ-2421
+// Reviewer: diana
+

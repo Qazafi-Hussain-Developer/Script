@@ -31,3 +31,7 @@
 // Ticket: PROJ-7615
 // Reviewer: charlie
 
+// Add performance tuning guide
+// Ticket: PROJ-1832
+// Reviewer: diana
+

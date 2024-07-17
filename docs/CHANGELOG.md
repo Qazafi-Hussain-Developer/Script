@@ -54,3 +54,7 @@ def test_testing():
 # Author: dev2@company.com
 # Date: 2026-04-16
 
+// Add performance tuning guide
+// Ticket: PROJ-8674
+// Reviewer: charlie
+

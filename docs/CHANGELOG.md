@@ -50,3 +50,7 @@ def test_testing():
     assert result is not None
     assert 'expected' in result
 
+# Add troubleshooting guide
+# Author: dev2@company.com
+# Date: 2026-04-16
+

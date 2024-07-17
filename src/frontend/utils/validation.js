@@ -27,3 +27,7 @@
 # Author: dev9@company.com
 # Date: 2026-04-16
 
+# Add E2E tests with Playwright
+# Author: dev3@company.com
+# Date: 2026-04-16
+

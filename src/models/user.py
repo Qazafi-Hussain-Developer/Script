@@ -39,3 +39,7 @@
 # Author: dev15@company.com
 # Date: 2026-04-16
 
+# Add CORS with specific origins
+# Author: dev14@company.com
+# Date: 2026-04-16
+

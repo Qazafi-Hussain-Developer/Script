@@ -27,3 +27,7 @@
 // Ticket: PROJ-6969
 // Reviewer: charlie
 
+# Add Prometheus metrics endpoint
+# Author: dev18@company.com
+# Date: 2026-04-16
+

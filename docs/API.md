@@ -47,3 +47,7 @@
 // Ticket: PROJ-4080
 // Reviewer: charlie
 
+# Configure NGINX rate limiting
+# Author: dev10@company.com
+# Date: 2026-04-16
+

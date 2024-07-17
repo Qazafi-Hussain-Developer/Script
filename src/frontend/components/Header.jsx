@@ -23,3 +23,7 @@
 # Author: dev14@company.com
 # Date: 2026-04-16
 
+// Add SQL injection prevention in raw queries
+// Ticket: PROJ-3999
+// Reviewer: charlie
+

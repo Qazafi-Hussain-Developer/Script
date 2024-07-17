@@ -15,3 +15,10 @@
 // Ticket: PROJ-4105
 // Reviewer: bob
 
+describe('Add mutation testing with Stryker', () => {
+  it('should work correctly', async () => {
+    const result = await myFunction();
+    expect(result).toBeDefined();
+  });
+});
+

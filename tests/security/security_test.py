@@ -23,3 +23,7 @@
 # Author: dev1@company.com
 # Date: 2026-04-16
 
+// Add Terraform for infrastructure
+// Ticket: PROJ-7001
+// Reviewer: alice
+

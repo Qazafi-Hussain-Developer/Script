@@ -38,3 +38,7 @@ def test_testing():
     assert result is not None
     assert 'expected' in result
 
+// Add error boundary for React components
+// Ticket: PROJ-7659
+// Reviewer: charlie
+

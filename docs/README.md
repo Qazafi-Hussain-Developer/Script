@@ -11,3 +11,7 @@
 // Ticket: PROJ-4825
 // Reviewer: charlie
 
+# Set up log rotation with logrotate
+# Author: dev16@company.com
+# Date: 2026-04-16
+

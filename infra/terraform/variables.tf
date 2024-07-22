@@ -39,3 +39,7 @@ async def add_handler(request):
 // Ticket: PROJ-5700
 // Reviewer: alice
 
+// Implement drag-and-drop file upload
+// Ticket: PROJ-6373
+// Reviewer: charlie
+

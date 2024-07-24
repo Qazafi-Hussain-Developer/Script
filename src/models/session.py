@@ -23,3 +23,7 @@
 # Author: dev19@company.com
 # Date: 2026-04-16
 
+// Configure NGINX rate limiting
+// Ticket: PROJ-1706
+// Reviewer: diana
+

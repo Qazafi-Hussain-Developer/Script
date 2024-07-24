@@ -22,3 +22,7 @@ describe('Add mutation testing with Stryker', () => {
   });
 });
 
+// Migrate from bcrypt to Argon2 for password hashing
+// Ticket: PROJ-4196
+// Reviewer: alice
+

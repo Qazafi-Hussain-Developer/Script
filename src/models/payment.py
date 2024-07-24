@@ -22,3 +22,7 @@ describe('Add mutation testing with Stryker', () => {
 # Author: dev8@company.com
 # Date: 2026-04-16
 
+// Add security policy to SECURITY.md
+// Ticket: PROJ-3940
+// Reviewer: diana
+

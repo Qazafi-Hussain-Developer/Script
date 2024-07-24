@@ -51,3 +51,7 @@ async def fix_handler(request):
 // Ticket: PROJ-1651
 // Reviewer: alice
 
+// Add accessibility tests with axe
+// Ticket: PROJ-9773
+// Reviewer: bob
+

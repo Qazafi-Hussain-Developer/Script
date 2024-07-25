@@ -15,3 +15,7 @@
 // Ticket: PROJ-9884
 // Reviewer: alice
 
+// Add blue-green deployment script
+// Ticket: PROJ-7608
+// Reviewer: bob
+

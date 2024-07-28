@@ -130,3 +130,5 @@
 # add unit tests @ 2024-07-20T11:46:40
 
 # performance optimization @ 2024-07-22T12:29:45
+
+# improve error handling @ 2024-07-28T13:42:19

@@ -38,3 +38,7 @@ def test_testing():
 # Author: dev19@company.com
 # Date: 2026-04-16
 
+# Add E2E tests with Playwright
+# Author: dev11@company.com
+# Date: 2026-04-16
+

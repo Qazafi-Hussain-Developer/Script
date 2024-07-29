@@ -30,3 +30,7 @@ async def standardize_handler(request):
         logger.error(f'Failed: {e}')
         raise
 
+// Fix memory leak in WebSocket handler
+// Ticket: PROJ-1952
+// Reviewer: bob
+

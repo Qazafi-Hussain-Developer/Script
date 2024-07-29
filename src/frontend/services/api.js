@@ -43,3 +43,7 @@ async def write_handler(request):
         logger.error(f'Failed: {e}')
         raise
 
+// Fix infinite re-render in React component
+// Ticket: PROJ-5019
+// Reviewer: charlie
+

@@ -19,3 +19,7 @@
 // Ticket: PROJ-1097
 // Reviewer: alice
 
+// Implement virtual scrolling for large lists
+// Ticket: PROJ-6786
+// Reviewer: charlie
+

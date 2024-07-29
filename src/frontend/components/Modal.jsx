@@ -27,3 +27,7 @@
 // Ticket: PROJ-7885
 // Reviewer: bob
 
+// Add request size limiting middleware
+// Ticket: PROJ-8063
+// Reviewer: alice
+

@@ -58,3 +58,7 @@ describe('Add mutation testing with Stryker', () => {
 // Ticket: PROJ-3603
 // Reviewer: alice
 
+# Add security tests with OWASP ZAP
+# Author: dev20@company.com
+# Date: 2026-04-16
+

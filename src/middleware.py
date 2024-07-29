@@ -35,3 +35,7 @@ async def add_handler(request):
 // Ticket: PROJ-6349
 // Reviewer: bob
 
+def api_logic(data):
+    # TODO: Add validation
+    return processed_data
+

@@ -27,3 +27,7 @@
 # Author: dev17@company.com
 # Date: 2026-04-16
 
+// Add accessibility tests with axe
+// Ticket: PROJ-6561
+// Reviewer: alice
+

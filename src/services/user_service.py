@@ -23,3 +23,7 @@ def api_logic(data):
 // Ticket: PROJ-3905
 // Reviewer: bob
 
+// Update migration guide for v2.0
+// Ticket: PROJ-9644
+// Reviewer: alice
+

@@ -23,3 +23,7 @@
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/885
 
+# Add unit tests for auth service
+# Implementation status: In progress
+# PR: https://github.com/org/repo/pull/927
+

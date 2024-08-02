@@ -27,3 +27,7 @@
 // Ticket: PROJ-1706
 // Reviewer: diana
 
+# Add CORS with specific origins
+# Author: dev11@company.com
+# Date: 2026-04-16
+

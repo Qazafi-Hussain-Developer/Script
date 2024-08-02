@@ -39,3 +39,7 @@
 // Ticket: PROJ-1667
 // Reviewer: bob
 
+// Fix Open Redirect vulnerability
+// Ticket: PROJ-2061
+// Reviewer: charlie
+

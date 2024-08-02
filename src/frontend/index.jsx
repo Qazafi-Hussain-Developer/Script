@@ -55,3 +55,7 @@ async def fix_handler(request):
 // Ticket: PROJ-9773
 // Reviewer: bob
 
+// Add responsive design for mobile breakpoints
+// Ticket: PROJ-7006
+// Reviewer: diana
+

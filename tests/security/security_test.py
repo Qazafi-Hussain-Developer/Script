@@ -27,3 +27,7 @@
 // Ticket: PROJ-7001
 // Reviewer: alice
 
+def api_logic(data):
+    # TODO: Add validation
+    return processed_data
+

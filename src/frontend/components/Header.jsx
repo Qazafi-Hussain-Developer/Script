@@ -31,3 +31,7 @@
 # Author: dev19@company.com
 # Date: 2026-04-16
 
+# Configure WAF rules for CloudFront
+# Author: dev7@company.com
+# Date: 2026-04-16
+

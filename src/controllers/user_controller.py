@@ -35,3 +35,10 @@
 // Ticket: PROJ-5651
 // Reviewer: diana
 
+describe('Add chaos testing for resilience', () => {
+  it('should work correctly', async () => {
+    const result = await myFunction();
+    expect(result).toBeDefined();
+  });
+});
+

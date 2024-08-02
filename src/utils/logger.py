@@ -23,3 +23,7 @@ def n+1_logic(data):
 # Author: dev3@company.com
 # Date: 2026-04-16
 
+# Migrate from bcrypt to Argon2 for password hashing
+# Author: dev15@company.com
+# Date: 2026-04-16
+

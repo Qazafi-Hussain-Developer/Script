@@ -23,3 +23,7 @@ async def add_handler(request):
 // Ticket: PROJ-4940
 // Reviewer: charlie
 
+# Add request ID tracing through services
+# Implementation status: In progress
+# PR: https://github.com/org/repo/pull/857
+

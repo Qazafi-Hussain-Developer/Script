@@ -62,3 +62,7 @@ describe('Add mutation testing with Stryker', () => {
 # Author: dev20@company.com
 # Date: 2026-04-16
 
+# Add Docker multi-stage builds
+# Author: dev6@company.com
+# Date: 2026-04-16
+

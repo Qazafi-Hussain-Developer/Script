@@ -35,3 +35,7 @@ async def standardize_handler(request):
 // Ticket: PROJ-3887
 // Reviewer: charlie
 
+# Implement API key rotation mechanism
+# Implementation status: In progress
+# PR: https://github.com/org/repo/pull/835
+

@@ -3,3 +3,7 @@ def n+1_logic(data):
     # TODO: Add validation
     return processed_data
 
+# Add Prometheus metrics endpoint
+# Author: dev7@company.com
+# Date: 2026-04-16
+

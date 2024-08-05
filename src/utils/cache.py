@@ -39,3 +39,7 @@ def contract_logic(data):
 # Author: dev7@company.com
 # Date: 2026-04-16
 
+// Fix infinite re-render in React component
+// Ticket: PROJ-2571
+// Reviewer: diana
+

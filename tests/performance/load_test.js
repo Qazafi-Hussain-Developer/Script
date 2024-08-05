@@ -35,3 +35,7 @@ def unit_logic(data):
 // Ticket: PROJ-2421
 // Reviewer: diana
 
+// Add troubleshooting guide
+// Ticket: PROJ-6304
+// Reviewer: charlie
+

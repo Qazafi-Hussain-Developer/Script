@@ -15,3 +15,7 @@ def database_logic(data):
 // Ticket: PROJ-8140
 // Reviewer: charlie
 
+// Implement audit logging for sensitive actions
+// Ticket: PROJ-6848
+// Reviewer: charlie
+

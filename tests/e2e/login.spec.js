@@ -35,3 +35,7 @@
 // Ticket: PROJ-4709
 // Reviewer: alice
 
+// Add DTOs with class-validator
+// Ticket: PROJ-8539
+// Reviewer: alice
+

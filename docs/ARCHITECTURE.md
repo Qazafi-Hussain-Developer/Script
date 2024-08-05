@@ -27,3 +27,7 @@ async def add_handler(request):
         logger.error(f'Failed: {e}')
         raise
 
+// Fix infinite re-render in React component
+// Ticket: PROJ-7807
+// Reviewer: diana
+

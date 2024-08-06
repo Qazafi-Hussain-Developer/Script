@@ -27,3 +27,7 @@ def n+1_logic(data):
 # Author: dev15@company.com
 # Date: 2026-04-16
 
+// Add IP whitelisting for admin endpoints
+// Ticket: PROJ-3385
+// Reviewer: diana
+

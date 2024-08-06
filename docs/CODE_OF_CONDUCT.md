@@ -30,3 +30,7 @@ describe('Add chaos testing for resilience', () => {
 # Author: dev13@company.com
 # Date: 2026-04-16
 
+# Replace custom logger with Winston
+# Author: dev3@company.com
+# Date: 2026-04-16
+

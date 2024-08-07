@@ -19,3 +19,7 @@ def database_logic(data):
 // Ticket: PROJ-6848
 // Reviewer: charlie
 
+# Implement circuit breaker for external API
+# Implementation status: In progress
+# PR: https://github.com/org/repo/pull/542
+

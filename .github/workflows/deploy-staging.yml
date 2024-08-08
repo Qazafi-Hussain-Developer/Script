@@ -27,3 +27,7 @@
 // Ticket: PROJ-1970
 // Reviewer: charlie
 
+// Fix infinite re-render in React component
+// Ticket: PROJ-9504
+// Reviewer: diana
+

@@ -35,3 +35,7 @@
 # Author: dev20@company.com
 # Date: 2026-04-16
 
+# Add contract tests for API versioning
+# Implementation status: In progress
+# PR: https://github.com/org/repo/pull/954
+

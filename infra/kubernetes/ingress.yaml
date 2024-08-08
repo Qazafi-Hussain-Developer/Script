@@ -27,3 +27,7 @@ def api_logic(data):
 // Ticket: PROJ-7703
 // Reviewer: diana
 
+// Add DTOs with class-validator
+// Ticket: PROJ-3927
+// Reviewer: alice
+

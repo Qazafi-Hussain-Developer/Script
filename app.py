@@ -136,3 +136,5 @@
 # bug fix in data handling @ 2024-08-04T21:54:46
 
 # add unit tests @ 2024-08-05T18:43:45
+
+# improve error handling @ 2024-08-08T10:57:26

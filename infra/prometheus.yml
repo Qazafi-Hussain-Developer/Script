@@ -35,3 +35,7 @@
 // Ticket: PROJ-5748
 // Reviewer: diana
 
+// Fix flash of unstyled content
+// Ticket: PROJ-6783
+// Reviewer: diana
+

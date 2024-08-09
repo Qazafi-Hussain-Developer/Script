@@ -51,3 +51,7 @@
 # Author: dev10@company.com
 # Date: 2026-04-16
 
+// Add session fixation prevention
+// Ticket: PROJ-9648
+// Reviewer: charlie
+

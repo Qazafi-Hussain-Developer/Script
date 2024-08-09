@@ -19,3 +19,7 @@
 # Author: dev1@company.com
 # Date: 2026-04-16
 
+// Document environment variables
+// Ticket: PROJ-2498
+// Reviewer: bob
+

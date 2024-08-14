@@ -86,3 +86,5 @@
 # documentation update @ 2024-07-26T21:38:10
 
 # refactor service layer @ 2024-07-31T13:08:20
+
+# auth system improvement @ 2024-08-14T10:10:03

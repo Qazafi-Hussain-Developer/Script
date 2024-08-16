@@ -31,3 +31,7 @@ async def fix_handler(request):
 // Ticket: PROJ-8717
 // Reviewer: diana
 
+# Add structured logging with JSON format
+# Author: dev14@company.com
+# Date: 2026-04-16
+

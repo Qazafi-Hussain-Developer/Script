@@ -31,3 +31,7 @@ async def add_handler(request):
 # Author: dev11@company.com
 # Date: 2026-04-16
 
+# Implement strategy pattern for payments
+# Author: dev12@company.com
+# Date: 2026-04-16
+

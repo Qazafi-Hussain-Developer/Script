@@ -31,3 +31,7 @@ def api_logic(data):
 // Ticket: PROJ-3927
 // Reviewer: alice
 
+// Add CSRF token validation
+// Ticket: PROJ-4045
+// Reviewer: alice
+

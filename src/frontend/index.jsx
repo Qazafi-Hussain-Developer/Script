@@ -59,3 +59,7 @@ async def fix_handler(request):
 // Ticket: PROJ-7006
 // Reviewer: diana
 
+# Configure NGINX rate limiting
+# Author: dev5@company.com
+# Date: 2026-04-16
+

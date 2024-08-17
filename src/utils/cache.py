@@ -43,3 +43,7 @@ def contract_logic(data):
 // Ticket: PROJ-2571
 // Reviewer: diana
 
+// Fix flash of unstyled content
+// Ticket: PROJ-4810
+// Reviewer: diana
+

@@ -47,3 +47,7 @@ async def write_handler(request):
 // Ticket: PROJ-5019
 // Reviewer: charlie
 
+# Fix exposed environment variables in client
+# Author: dev13@company.com
+# Date: 2026-04-16
+

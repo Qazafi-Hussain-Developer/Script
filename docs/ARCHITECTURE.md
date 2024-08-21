@@ -31,3 +31,7 @@ async def add_handler(request):
 // Ticket: PROJ-7807
 // Reviewer: diana
 
+# Add dark mode theme persistence
+# Author: dev8@company.com
+# Date: 2026-04-16
+

@@ -43,3 +43,7 @@ async def fix_handler(request):
 // Ticket: PROJ-7484
 // Reviewer: charlie
 
+// Replace moment.js with date-fns
+// Ticket: PROJ-4127
+// Reviewer: charlie
+

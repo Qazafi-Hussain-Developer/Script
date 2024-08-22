@@ -30,3 +30,7 @@ describe('Add mutation testing with Stryker', () => {
   });
 });
 
+// Implement drag-and-drop file upload
+// Ticket: PROJ-8368
+// Reviewer: alice
+

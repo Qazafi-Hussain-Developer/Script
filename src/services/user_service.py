@@ -27,3 +27,7 @@ def api_logic(data):
 // Ticket: PROJ-9644
 // Reviewer: alice
 
+// Add Prometheus metrics endpoint
+// Ticket: PROJ-9149
+// Reviewer: bob
+

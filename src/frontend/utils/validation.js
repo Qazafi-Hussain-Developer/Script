@@ -35,3 +35,7 @@
 // Ticket: PROJ-4231
 // Reviewer: diana
 
+// Add blue-green deployment script
+// Ticket: PROJ-1625
+// Reviewer: diana
+

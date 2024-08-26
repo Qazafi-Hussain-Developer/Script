@@ -42,3 +42,7 @@ describe('Add chaos testing for resilience', () => {
   });
 });
 
+// Add dark mode theme persistence
+// Ticket: PROJ-2597
+// Reviewer: alice
+

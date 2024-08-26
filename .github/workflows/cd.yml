@@ -35,3 +35,7 @@ def database_logic(data):
 // Ticket: PROJ-2751
 // Reviewer: alice
 
+# Configure NGINX rate limiting
+# Author: dev16@company.com
+# Date: 2026-04-16
+

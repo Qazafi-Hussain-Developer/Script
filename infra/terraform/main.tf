@@ -23,3 +23,7 @@
 // Ticket: PROJ-6786
 // Reviewer: charlie
 
+// Fix focus trap in modal component
+// Ticket: PROJ-5480
+// Reviewer: diana
+

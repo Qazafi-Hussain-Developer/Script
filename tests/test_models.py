@@ -34,3 +34,7 @@ describe('Add mutation testing with Stryker', () => {
 // Ticket: PROJ-8368
 // Reviewer: alice
 
+# Fix memory leak in WebSocket handler
+# Author: dev8@company.com
+# Date: 2026-04-16
+

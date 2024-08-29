@@ -35,3 +35,7 @@ async def fix_handler(request):
 # Author: dev14@company.com
 # Date: 2026-04-16
 
+// Fix test isolation issues
+// Ticket: PROJ-4764
+// Reviewer: alice
+

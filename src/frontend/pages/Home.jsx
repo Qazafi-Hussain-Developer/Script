@@ -66,3 +66,7 @@ describe('Add mutation testing with Stryker', () => {
 # Author: dev6@company.com
 # Date: 2026-04-16
 
+# Add CSRF token validation
+# Author: dev2@company.com
+# Date: 2026-04-16
+

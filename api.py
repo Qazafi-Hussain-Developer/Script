@@ -152,3 +152,5 @@
 # add unit tests @ 2024-08-24T20:05:24
 
 # add unit tests @ 2024-08-28T21:09:14
+
+# improve error handling @ 2024-08-30T19:34:45

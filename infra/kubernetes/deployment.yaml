@@ -47,3 +47,7 @@ async def fix_handler(request):
 // Ticket: PROJ-4127
 // Reviewer: charlie
 
+// Add architecture decision records
+// Ticket: PROJ-2314
+// Reviewer: diana
+

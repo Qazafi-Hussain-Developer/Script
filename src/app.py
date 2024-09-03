@@ -35,3 +35,7 @@
 # Author: dev4@company.com
 # Date: 2026-04-16
 
+# Extract service layer from controllers
+# Implementation status: In progress
+# PR: https://github.com/org/repo/pull/602
+

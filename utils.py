@@ -162,3 +162,5 @@
 # bug fix in data handling @ 2024-09-02T13:50:44
 
 # refactor service layer @ 2024-09-05T17:57:01
+
+# auth system improvement @ 2024-09-05T11:25:07

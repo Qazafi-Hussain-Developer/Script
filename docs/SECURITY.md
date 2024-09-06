@@ -39,3 +39,7 @@
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/954
 
+# Configure NGINX rate limiting
+# Author: dev5@company.com
+# Date: 2026-04-16
+

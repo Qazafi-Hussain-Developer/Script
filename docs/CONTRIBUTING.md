@@ -47,3 +47,7 @@
 // Ticket: PROJ-6313
 // Reviewer: charlie
 
+// Implement WebSocket reconnection logic
+// Ticket: PROJ-5460
+// Reviewer: diana
+

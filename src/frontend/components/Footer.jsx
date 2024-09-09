@@ -35,3 +35,7 @@
 // Ticket: PROJ-6188
 // Reviewer: diana
 
+// Add auto-scaling policy for ECS
+// Ticket: PROJ-1937
+// Reviewer: diana
+

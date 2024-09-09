@@ -35,3 +35,7 @@
 # Author: dev4@company.com
 # Date: 2026-04-16
 
+// Add snapshot tests for UI components
+// Ticket: PROJ-8951
+// Reviewer: bob
+

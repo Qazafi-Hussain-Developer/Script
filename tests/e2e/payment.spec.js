@@ -27,3 +27,7 @@
 # Author: dev1@company.com
 # Date: 2026-04-16
 
+# Fix focus trap in modal component
+# Author: dev12@company.com
+# Date: 2026-04-16
+

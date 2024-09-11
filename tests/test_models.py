@@ -38,3 +38,7 @@ describe('Add mutation testing with Stryker', () => {
 # Author: dev8@company.com
 # Date: 2026-04-16
 
+// Implement virtual scrolling for large lists
+// Ticket: PROJ-2563
+// Reviewer: bob
+

@@ -35,3 +35,7 @@
 // Ticket: PROJ-9895
 // Reviewer: charlie
 
+// Implement brute force protection for login
+// Ticket: PROJ-7089
+// Reviewer: charlie
+

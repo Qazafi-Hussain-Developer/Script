@@ -38,3 +38,7 @@ describe('Add chaos testing for resilience', () => {
 # Author: dev14@company.com
 # Date: 2026-04-16
 
+# Add code of conduct
+# Author: dev16@company.com
+# Date: 2026-04-16
+

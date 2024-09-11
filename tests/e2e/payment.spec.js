@@ -31,3 +31,7 @@
 # Author: dev12@company.com
 # Date: 2026-04-16
 
+// Add E2E tests with Playwright
+// Ticket: PROJ-9547
+// Reviewer: alice
+

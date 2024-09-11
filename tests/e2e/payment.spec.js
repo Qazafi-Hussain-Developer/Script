@@ -35,3 +35,7 @@
 // Ticket: PROJ-9547
 // Reviewer: alice
 
+// Configure Vault for secret management
+// Ticket: PROJ-3179
+// Reviewer: bob
+

@@ -30,3 +30,7 @@ describe('Add mutation testing with Stryker', () => {
 // Ticket: PROJ-5303
 // Reviewer: bob
 
+# Add transactional outbox pattern
+# Author: dev20@company.com
+# Date: 2026-04-16
+

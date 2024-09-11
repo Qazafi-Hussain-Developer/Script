@@ -63,3 +63,7 @@ async def fix_handler(request):
 # Author: dev5@company.com
 # Date: 2026-04-16
 
+// Implement idempotency key for payments
+// Ticket: PROJ-6965
+// Reviewer: diana
+

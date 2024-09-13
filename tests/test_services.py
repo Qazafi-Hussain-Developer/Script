@@ -35,3 +35,7 @@ def database_logic(data):
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/431
 
+// Implement debounced search input
+// Ticket: PROJ-1235
+// Reviewer: bob
+

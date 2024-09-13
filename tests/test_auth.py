@@ -26,3 +26,7 @@ describe('Add mutation testing with Stryker', () => {
 // Ticket: PROJ-4196
 // Reviewer: alice
 
+// Add Sentry error tracking
+// Ticket: PROJ-2861
+// Reviewer: alice
+

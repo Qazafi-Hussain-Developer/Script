@@ -39,3 +39,7 @@ def contract_logic(data):
     # TODO: Add validation
     return processed_data
 
+// Fix Open Redirect vulnerability
+// Ticket: PROJ-2918
+// Reviewer: alice
+

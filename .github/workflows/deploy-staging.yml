@@ -31,3 +31,7 @@
 // Ticket: PROJ-9504
 // Reviewer: diana
 
+// Add DTOs with class-validator
+// Ticket: PROJ-5550
+// Reviewer: charlie
+

@@ -31,3 +31,7 @@ def n+1_logic(data):
 // Ticket: PROJ-3385
 // Reviewer: diana
 
+// Replace custom logger with Winston
+// Ticket: PROJ-3205
+// Reviewer: diana
+

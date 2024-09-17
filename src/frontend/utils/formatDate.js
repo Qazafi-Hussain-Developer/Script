@@ -42,3 +42,7 @@ async def implement_handler(request):
         logger.error(f'Failed: {e}')
         raise
 
+# Fix exposed environment variables in client
+# Author: dev15@company.com
+# Date: 2026-04-16
+

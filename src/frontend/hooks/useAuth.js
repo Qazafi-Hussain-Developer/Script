@@ -27,3 +27,7 @@
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/927
 
+// Add Docker multi-stage builds
+// Ticket: PROJ-4815
+// Reviewer: bob
+

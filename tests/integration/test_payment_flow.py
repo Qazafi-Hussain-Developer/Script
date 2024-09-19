@@ -31,3 +31,7 @@ def n+1_logic(data):
 # Author: dev14@company.com
 # Date: 2026-04-16
 
+def unit_logic(data):
+    # TODO: Add validation
+    return processed_data
+

@@ -35,3 +35,7 @@ def n+1_logic(data):
 // Ticket: PROJ-3205
 // Reviewer: diana
 
+// Implement WebSocket reconnection logic
+// Ticket: PROJ-6914
+// Reviewer: bob
+

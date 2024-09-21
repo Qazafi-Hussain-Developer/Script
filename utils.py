@@ -172,3 +172,5 @@
 # improve error handling @ 2024-09-12T16:50:08
 
 # documentation update @ 2024-09-21T10:41:50
+
+# auth system improvement @ 2024-09-21T14:08:11

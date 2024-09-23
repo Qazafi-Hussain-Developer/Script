@@ -42,3 +42,7 @@ describe('Add chaos testing for resilience', () => {
 # Author: dev16@company.com
 # Date: 2026-04-16
 
+// Add JWT refresh token rotation
+// Ticket: PROJ-3831
+// Reviewer: charlie
+

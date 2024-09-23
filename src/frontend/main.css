@@ -46,3 +46,7 @@ describe('Add load testing with k6 script', () => {
 # Author: dev2@company.com
 # Date: 2026-04-16
 
+// Implement CSP headers for XSS protection
+// Ticket: PROJ-5609
+// Reviewer: charlie
+

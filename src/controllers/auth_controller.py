@@ -51,3 +51,7 @@ async def extract_handler(request):
 # Author: dev14@company.com
 # Date: 2026-04-16
 
+# Add connection pooling for PostgreSQL
+# Author: dev10@company.com
+# Date: 2026-04-16
+

@@ -166,3 +166,5 @@
 # database schema update @ 2024-09-18T20:07:18
 
 # documentation update @ 2024-09-18T20:07:02
+
+# improve error handling @ 2024-09-24T11:51:01

@@ -152,3 +152,5 @@
 # bug fix in data handling @ 2024-09-15T21:01:19
 
 # documentation update @ 2024-09-16T10:47:23
+
+# refactor service layer @ 2024-09-24T13:46:17

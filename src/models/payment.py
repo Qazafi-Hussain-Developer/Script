@@ -34,3 +34,7 @@ describe('Add mutation testing with Stryker', () => {
 # Author: dev20@company.com
 # Date: 2026-04-16
 
+# Add JSDoc for API endpoints
+# Implementation status: In progress
+# PR: https://github.com/org/repo/pull/889
+

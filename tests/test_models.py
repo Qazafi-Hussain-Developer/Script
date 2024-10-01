@@ -42,3 +42,7 @@ describe('Add mutation testing with Stryker', () => {
 // Ticket: PROJ-2563
 // Reviewer: bob
 
+// Implement rate limiting middleware
+// Ticket: PROJ-2648
+// Reviewer: diana
+

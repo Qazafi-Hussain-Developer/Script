@@ -63,3 +63,7 @@
 // Ticket: PROJ-7114
 // Reviewer: diana
 
+// Add Kubernetes liveness probes
+// Ticket: PROJ-5697
+// Reviewer: charlie
+

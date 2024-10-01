@@ -27,3 +27,7 @@
 // Ticket: PROJ-5480
 // Reviewer: diana
 
+# Add health check endpoint for k8s
+# Author: dev4@company.com
+# Date: 2026-04-16
+

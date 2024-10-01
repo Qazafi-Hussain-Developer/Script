@@ -39,3 +39,7 @@ async def fix_handler(request):
 // Ticket: PROJ-4764
 // Reviewer: alice
 
+// Fix insecure direct object references
+// Ticket: PROJ-3537
+// Reviewer: bob
+

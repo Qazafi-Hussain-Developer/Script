@@ -35,3 +35,7 @@ async def add_handler(request):
 # Author: dev12@company.com
 # Date: 2026-04-16
 
+// Fix flash of unstyled content
+// Ticket: PROJ-1336
+// Reviewer: charlie
+

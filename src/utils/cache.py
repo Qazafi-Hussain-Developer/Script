@@ -47,3 +47,7 @@ def contract_logic(data):
 // Ticket: PROJ-4810
 // Reviewer: diana
 
+// Update migration guide for v2.0
+// Ticket: PROJ-2652
+// Reviewer: diana
+

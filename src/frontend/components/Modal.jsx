@@ -47,3 +47,7 @@
 # Author: dev9@company.com
 # Date: 2026-04-16
 
+// Implement CSP headers for XSS protection
+// Ticket: PROJ-6322
+// Reviewer: alice
+

@@ -50,3 +50,7 @@ describe('Add chaos testing for resilience', () => {
 # Author: dev2@company.com
 # Date: 2026-04-16
 
+# Add error boundary for React components
+# Author: dev13@company.com
+# Date: 2026-04-16
+

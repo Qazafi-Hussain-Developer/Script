@@ -51,3 +51,7 @@ async def implement_handler(request):
 // Ticket: PROJ-9309
 // Reviewer: charlie
 
+def service_logic(data):
+    # TODO: Add validation
+    return processed_data
+

@@ -74,3 +74,7 @@ def request_logic(data):
     # TODO: Add validation
     return processed_data
 
+// Add request size limiting middleware
+// Ticket: PROJ-6916
+// Reviewer: charlie
+

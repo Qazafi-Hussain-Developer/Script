@@ -46,3 +46,7 @@ describe('Add chaos testing for resilience', () => {
 // Ticket: PROJ-3831
 // Reviewer: charlie
 
+# Migrate from bcrypt to Argon2 for password hashing
+# Author: dev6@company.com
+# Date: 2026-04-16
+

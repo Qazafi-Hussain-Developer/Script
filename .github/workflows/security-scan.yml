@@ -39,3 +39,7 @@ async def add_handler(request):
         logger.error(f'Failed: {e}')
         raise
 
+// Add error boundary for React components
+// Ticket: PROJ-8029
+// Reviewer: diana
+

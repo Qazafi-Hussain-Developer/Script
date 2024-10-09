@@ -47,3 +47,7 @@
 // Ticket: PROJ-1862
 // Reviewer: bob
 
+// Split large component into hooks
+// Ticket: PROJ-1324
+// Reviewer: alice
+

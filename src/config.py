@@ -43,3 +43,7 @@ async def fix_handler(request):
 // Ticket: PROJ-3537
 // Reviewer: bob
 
+// Configure GitHub Actions for CI/CD
+// Ticket: PROJ-6078
+// Reviewer: diana
+

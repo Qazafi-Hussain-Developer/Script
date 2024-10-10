@@ -38,3 +38,7 @@ describe('Add mutation testing with Stryker', () => {
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/889
 
+# Fix exposed environment variables in client
+# Author: dev17@company.com
+# Date: 2026-04-16
+

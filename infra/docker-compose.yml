@@ -38,3 +38,7 @@ async def standardize_handler(request):
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/478
 
+// Extract environment config to module
+// Ticket: PROJ-3362
+// Reviewer: diana
+

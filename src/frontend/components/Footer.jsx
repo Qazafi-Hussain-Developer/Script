@@ -39,3 +39,7 @@
 // Ticket: PROJ-1937
 // Reviewer: diana
 
+// Add request size limiting middleware
+// Ticket: PROJ-8352
+// Reviewer: charlie
+

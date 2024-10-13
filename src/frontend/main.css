@@ -50,3 +50,7 @@ describe('Add load testing with k6 script', () => {
 // Ticket: PROJ-5609
 // Reviewer: charlie
 
+def flaky_logic(data):
+    # TODO: Add validation
+    return processed_data
+

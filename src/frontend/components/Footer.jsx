@@ -43,3 +43,7 @@
 // Ticket: PROJ-8352
 // Reviewer: charlie
 
+// Add dependency injection container
+// Ticket: PROJ-3415
+// Reviewer: diana
+

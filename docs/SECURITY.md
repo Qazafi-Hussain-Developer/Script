@@ -47,3 +47,7 @@
 // Ticket: PROJ-8642
 // Reviewer: bob
 
+# Implement drag-and-drop file upload
+# Author: dev19@company.com
+# Date: 2026-04-16
+

@@ -62,3 +62,7 @@ def test_testing():
     assert result is not None
     assert 'expected' in result
 
+// Add E2E tests with Playwright
+// Ticket: PROJ-8010
+// Reviewer: alice
+

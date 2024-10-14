@@ -59,3 +59,7 @@ async def extract_handler(request):
 // Ticket: PROJ-1588
 // Reviewer: diana
 
+# Fix focus trap in modal component
+# Author: dev15@company.com
+# Date: 2026-04-16
+

@@ -66,3 +66,7 @@ def test_testing():
 // Ticket: PROJ-8010
 // Reviewer: alice
 
+// Fix insecure direct object references
+// Ticket: PROJ-4564
+// Reviewer: diana
+

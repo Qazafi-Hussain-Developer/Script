@@ -42,3 +42,7 @@ def test_testing():
 # Author: dev11@company.com
 # Date: 2026-04-16
 
+# Add CSRF token validation
+# Author: dev11@company.com
+# Date: 2026-04-16
+

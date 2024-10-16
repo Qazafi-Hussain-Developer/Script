@@ -51,3 +51,11 @@ async def write_handler(request):
 # Author: dev13@company.com
 # Date: 2026-04-16
 
+async def extract_handler(request):
+    try:
+        result = await service.process(request)
+        return {'status': 'success', 'data': result}
+    except Exception as e:
+        logger.error(f'Failed: {e}')
+        raise
+

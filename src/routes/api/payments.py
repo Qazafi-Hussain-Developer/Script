@@ -51,3 +51,7 @@
 // Ticket: PROJ-6711
 // Reviewer: alice
 
+# Configure NGINX rate limiting
+# Author: dev4@company.com
+# Date: 2026-04-16
+

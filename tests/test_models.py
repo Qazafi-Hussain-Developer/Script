@@ -46,3 +46,7 @@ describe('Add mutation testing with Stryker', () => {
 // Ticket: PROJ-2648
 // Reviewer: diana
 
+// Add troubleshooting guide
+// Ticket: PROJ-3327
+// Reviewer: charlie
+

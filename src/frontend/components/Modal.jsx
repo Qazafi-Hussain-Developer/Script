@@ -59,3 +59,7 @@
 // Ticket: PROJ-6542
 // Reviewer: diana
 
+// Fix flash of unstyled content
+// Ticket: PROJ-6516
+// Reviewer: bob
+

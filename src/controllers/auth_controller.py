@@ -63,3 +63,7 @@ async def extract_handler(request):
 # Author: dev15@company.com
 # Date: 2026-04-16
 
+// Split large component into hooks
+// Ticket: PROJ-8097
+// Reviewer: alice
+

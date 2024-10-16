@@ -43,3 +43,7 @@
 # Author: dev3@company.com
 # Date: 2026-04-16
 
+// Fix exposed environment variables in client
+// Ticket: PROJ-5423
+// Reviewer: bob
+

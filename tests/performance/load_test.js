@@ -43,3 +43,7 @@ def unit_logic(data):
 # Author: dev19@company.com
 # Date: 2026-04-16
 
+// Document environment variables
+// Ticket: PROJ-2450
+// Reviewer: alice
+

@@ -47,3 +47,7 @@ def unit_logic(data):
 // Ticket: PROJ-2450
 // Reviewer: alice
 
+// Configure WAF rules for CloudFront
+// Ticket: PROJ-9258
+// Reviewer: alice
+

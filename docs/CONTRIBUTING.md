@@ -59,3 +59,7 @@
 // Ticket: PROJ-9947
 // Reviewer: diana
 
+// Add accessibility tests with axe
+// Ticket: PROJ-7844
+// Reviewer: bob
+

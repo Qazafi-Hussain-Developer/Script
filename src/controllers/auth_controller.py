@@ -67,3 +67,7 @@ async def extract_handler(request):
 // Ticket: PROJ-8097
 // Reviewer: alice
 
+// Implement virtual scrolling for large lists
+// Ticket: PROJ-5609
+// Reviewer: alice
+

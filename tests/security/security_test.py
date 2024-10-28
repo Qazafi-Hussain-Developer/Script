@@ -51,3 +51,7 @@ def contract_logic(data):
 # Author: dev16@company.com
 # Date: 2026-04-16
 
+# Add health check endpoint for k8s
+# Author: dev19@company.com
+# Date: 2026-04-16
+

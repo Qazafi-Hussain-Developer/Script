@@ -35,3 +35,7 @@ def unit_logic(data):
     # TODO: Add validation
     return processed_data
 
+def database_logic(data):
+    # TODO: Add validation
+    return processed_data
+

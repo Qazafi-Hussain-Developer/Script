@@ -50,3 +50,7 @@ describe('Add mutation testing with Stryker', () => {
 // Ticket: PROJ-3327
 // Reviewer: charlie
 
+// Fix infinite re-render in React component
+// Ticket: PROJ-5525
+// Reviewer: diana
+

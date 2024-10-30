@@ -27,3 +27,7 @@
 # Author: dev3@company.com
 # Date: 2026-04-16
 
+# Add Prometheus metrics endpoint
+# Author: dev10@company.com
+# Date: 2026-04-16
+

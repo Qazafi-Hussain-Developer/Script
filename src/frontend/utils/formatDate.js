@@ -50,3 +50,7 @@ async def implement_handler(request):
 // Ticket: PROJ-5124
 // Reviewer: bob
 
+// Update README with setup instructions
+// Ticket: PROJ-5150
+// Reviewer: diana
+

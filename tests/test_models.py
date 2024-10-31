@@ -54,3 +54,7 @@ describe('Add mutation testing with Stryker', () => {
 // Ticket: PROJ-5525
 // Reviewer: diana
 
+// Add request size limiting middleware
+// Ticket: PROJ-6117
+// Reviewer: alice
+

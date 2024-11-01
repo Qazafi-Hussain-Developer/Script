@@ -63,3 +63,7 @@ async def extract_handler(request):
 // Ticket: PROJ-4812
 // Reviewer: bob
 
+def flaky_logic(data):
+    # TODO: Add validation
+    return processed_data
+

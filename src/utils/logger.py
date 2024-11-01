@@ -39,3 +39,11 @@ def n+1_logic(data):
 // Ticket: PROJ-6914
 // Reviewer: bob
 
+async def standardize_handler(request):
+    try:
+        result = await service.process(request)
+        return {'status': 'success', 'data': result}
+    except Exception as e:
+        logger.error(f'Failed: {e}')
+        raise
+

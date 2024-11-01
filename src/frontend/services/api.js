@@ -59,3 +59,7 @@ async def extract_handler(request):
         logger.error(f'Failed: {e}')
         raise
 
+// Replace moment.js with date-fns
+// Ticket: PROJ-4812
+// Reviewer: bob
+

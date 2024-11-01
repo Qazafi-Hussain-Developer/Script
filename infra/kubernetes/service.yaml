@@ -27,3 +27,7 @@ def n+1_logic(data):
 // Ticket: PROJ-3453
 // Reviewer: bob
 
+// Add Kubernetes liveness probes
+// Ticket: PROJ-6544
+// Reviewer: diana
+

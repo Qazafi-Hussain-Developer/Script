@@ -35,3 +35,10 @@
 # Author: dev6@company.com
 # Date: 2026-04-16
 
+describe('Add mutation testing with Stryker', () => {
+  it('should work correctly', async () => {
+    const result = await myFunction();
+    expect(result).toBeDefined();
+  });
+});
+

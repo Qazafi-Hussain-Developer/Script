@@ -59,3 +59,7 @@ async def implement_handler(request):
 // Ticket: PROJ-3081
 // Reviewer: bob
 
+# Configure WAF rules for CloudFront
+# Author: dev9@company.com
+# Date: 2026-04-16
+

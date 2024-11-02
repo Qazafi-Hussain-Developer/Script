@@ -51,3 +51,7 @@
 // Ticket: PROJ-1324
 // Reviewer: alice
 
+// Write deployment checklist
+// Ticket: PROJ-1694
+// Reviewer: charlie
+

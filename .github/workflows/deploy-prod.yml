@@ -55,3 +55,7 @@ def service_logic(data):
     # TODO: Add validation
     return processed_data
 
+// Fix CSS grid layout in Safari
+// Ticket: PROJ-3374
+// Reviewer: diana
+

@@ -59,3 +59,7 @@ def service_logic(data):
 // Ticket: PROJ-3374
 // Reviewer: diana
 
+# Add health check endpoint for k8s
+# Author: dev11@company.com
+# Date: 2026-04-16
+

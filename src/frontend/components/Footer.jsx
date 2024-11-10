@@ -47,3 +47,10 @@
 // Ticket: PROJ-3415
 // Reviewer: diana
 
+describe('Add load testing with k6 script', () => {
+  it('should work correctly', async () => {
+    const result = await myFunction();
+    expect(result).toBeDefined();
+  });
+});
+

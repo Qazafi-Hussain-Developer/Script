@@ -19,3 +19,7 @@
 // Ticket: PROJ-2542
 // Reviewer: diana
 
+// Add accessibility tests with axe
+// Ticket: PROJ-9062
+// Reviewer: diana
+

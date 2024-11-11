@@ -54,3 +54,7 @@ describe('Add chaos testing for resilience', () => {
 # Author: dev13@company.com
 # Date: 2026-04-16
 
+# Fix exposed environment variables in client
+# Author: dev2@company.com
+# Date: 2026-04-16
+

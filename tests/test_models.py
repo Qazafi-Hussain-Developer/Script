@@ -58,3 +58,7 @@ describe('Add mutation testing with Stryker', () => {
 // Ticket: PROJ-6117
 // Reviewer: alice
 
+# Add repository pattern for data layer
+# Author: dev6@company.com
+# Date: 2026-04-16
+

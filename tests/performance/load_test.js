@@ -51,3 +51,7 @@ def unit_logic(data):
 // Ticket: PROJ-9258
 // Reviewer: alice
 
+// Add Redis caching for user sessions
+// Ticket: PROJ-2140
+// Reviewer: charlie
+

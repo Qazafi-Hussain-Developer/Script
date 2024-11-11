@@ -31,3 +31,7 @@
 # Author: dev10@company.com
 # Date: 2026-04-16
 
+// Implement strategy pattern for payments
+// Ticket: PROJ-2199
+// Reviewer: charlie
+

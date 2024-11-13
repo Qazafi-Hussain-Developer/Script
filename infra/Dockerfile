@@ -23,3 +23,7 @@
 // Ticket: PROJ-9062
 // Reviewer: diana
 
+# Replace custom logger with Winston
+# Author: dev3@company.com
+# Date: 2026-04-16
+

@@ -71,3 +71,7 @@ async def fix_handler(request):
 # Author: dev17@company.com
 # Date: 2026-04-16
 
+// Add JWT refresh token rotation
+// Ticket: PROJ-5832
+// Reviewer: bob
+

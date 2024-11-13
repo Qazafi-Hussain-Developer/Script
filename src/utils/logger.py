@@ -51,3 +51,7 @@ async def standardize_handler(request):
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/993
 
+// Replace moment.js with date-fns
+// Ticket: PROJ-1873
+// Reviewer: alice
+

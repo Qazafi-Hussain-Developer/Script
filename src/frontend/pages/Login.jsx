@@ -34,3 +34,7 @@ def sequence_logic(data):
 # Author: dev5@company.com
 # Date: 2026-04-16
 
+// Add code of conduct
+// Ticket: PROJ-1958
+// Reviewer: diana
+

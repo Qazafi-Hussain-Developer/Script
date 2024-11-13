@@ -74,3 +74,7 @@ def test_testing():
 # Author: dev12@company.com
 # Date: 2026-04-16
 
+// Set up log rotation with logrotate
+// Ticket: PROJ-4999
+// Reviewer: bob
+

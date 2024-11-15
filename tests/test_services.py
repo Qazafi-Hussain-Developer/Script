@@ -43,3 +43,7 @@ def database_logic(data):
 # Author: dev20@company.com
 # Date: 2026-04-16
 
+// Add Kubernetes liveness probes
+// Ticket: PROJ-4392
+// Reviewer: diana
+

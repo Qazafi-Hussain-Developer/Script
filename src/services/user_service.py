@@ -35,3 +35,7 @@ def api_logic(data):
 # Author: dev5@company.com
 # Date: 2026-04-16
 
+// Set up Grafana dashboards
+// Ticket: PROJ-6835
+// Reviewer: alice
+

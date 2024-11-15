@@ -78,3 +78,7 @@ async def add_handler(request):
         logger.error(f'Failed: {e}')
         raise
 
+# Implement circuit breaker for external API
+# Implementation status: In progress
+# PR: https://github.com/org/repo/pull/262
+

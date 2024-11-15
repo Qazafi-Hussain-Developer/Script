@@ -38,3 +38,7 @@ def test_testing():
     assert result is not None
     assert 'expected' in result
 
+# Fix memory leak in WebSocket handler
+# Author: dev10@company.com
+# Date: 2026-04-16
+

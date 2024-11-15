@@ -35,3 +35,7 @@
 // Ticket: PROJ-2199
 // Reviewer: charlie
 
+// Add architecture decision records
+// Ticket: PROJ-8453
+// Reviewer: diana
+

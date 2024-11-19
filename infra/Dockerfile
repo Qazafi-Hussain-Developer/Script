@@ -27,3 +27,7 @@
 # Author: dev3@company.com
 # Date: 2026-04-16
 
+// Add security tests with OWASP ZAP
+// Ticket: PROJ-7317
+// Reviewer: alice
+

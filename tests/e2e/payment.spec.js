@@ -47,3 +47,7 @@
 // Ticket: PROJ-6828
 // Reviewer: bob
 
+// Add connection pooling for PostgreSQL
+// Ticket: PROJ-6821
+// Reviewer: diana
+

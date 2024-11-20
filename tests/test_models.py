@@ -66,3 +66,7 @@ describe('Add mutation testing with Stryker', () => {
 # Author: dev17@company.com
 # Date: 2026-04-16
 
+// Add connection pooling for PostgreSQL
+// Ticket: PROJ-2431
+// Reviewer: alice
+

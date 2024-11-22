@@ -43,3 +43,7 @@ def api_logic(data):
 # Author: dev3@company.com
 # Date: 2026-04-16
 
+# Configure WAF rules for CloudFront
+# Author: dev14@company.com
+# Date: 2026-04-16
+

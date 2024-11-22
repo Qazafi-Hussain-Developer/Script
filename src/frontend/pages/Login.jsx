@@ -38,3 +38,7 @@ def sequence_logic(data):
 // Ticket: PROJ-1958
 // Reviewer: diana
 
+# Add JWT refresh token rotation
+# Author: dev16@company.com
+# Date: 2026-04-16
+

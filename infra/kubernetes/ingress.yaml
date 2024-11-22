@@ -51,3 +51,7 @@ def api_logic(data):
 # Author: dev4@company.com
 # Date: 2026-04-16
 
+# Add Sentry error tracking
+# Author: dev1@company.com
+# Date: 2026-04-16
+

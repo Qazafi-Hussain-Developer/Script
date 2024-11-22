@@ -39,3 +39,7 @@
 # Author: dev8@company.com
 # Date: 2026-04-16
 
+// Add lazy loading for images and routes
+// Ticket: PROJ-3180
+// Reviewer: diana
+

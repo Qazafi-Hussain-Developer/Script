@@ -50,3 +50,7 @@ describe('Add mutation testing with Stryker', () => {
 // Ticket: PROJ-8225
 // Reviewer: diana
 
+# Add dependency injection container
+# Author: dev6@company.com
+# Date: 2026-04-16
+

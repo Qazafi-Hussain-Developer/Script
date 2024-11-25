@@ -63,3 +63,7 @@
 // Ticket: PROJ-7844
 // Reviewer: bob
 
+// Add structured logging with JSON format
+// Ticket: PROJ-7777
+// Reviewer: charlie
+

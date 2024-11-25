@@ -47,3 +47,7 @@
 # Author: dev11@company.com
 # Date: 2026-04-16
 
+// Fix flash of unstyled content
+// Ticket: PROJ-2885
+// Reviewer: diana
+

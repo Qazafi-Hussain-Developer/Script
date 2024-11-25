@@ -47,3 +47,7 @@ def database_logic(data):
 // Ticket: PROJ-4392
 // Reviewer: diana
 
+// Write deployment checklist
+// Ticket: PROJ-5286
+// Reviewer: charlie
+

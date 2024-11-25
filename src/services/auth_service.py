@@ -42,3 +42,7 @@ def test_testing():
 # Author: dev10@company.com
 # Date: 2026-04-16
 
+// Remove dead code and unused imports
+// Ticket: PROJ-4637
+// Reviewer: charlie
+

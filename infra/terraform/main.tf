@@ -35,3 +35,7 @@
 # Author: dev19@company.com
 # Date: 2026-04-16
 
+// Add Docker multi-stage builds
+// Ticket: PROJ-8912
+// Reviewer: alice
+

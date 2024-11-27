@@ -73,3 +73,7 @@ def contract_logic(data):
 // Ticket: PROJ-8661
 // Reviewer: alice
 
+// Add transactional outbox pattern
+// Ticket: PROJ-3828
+// Reviewer: bob
+

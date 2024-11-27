@@ -71,3 +71,7 @@ async def extract_handler(request):
 // Ticket: PROJ-5609
 // Reviewer: alice
 
+// Fix Open Redirect vulnerability
+// Ticket: PROJ-5324
+// Reviewer: bob
+

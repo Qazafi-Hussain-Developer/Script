@@ -63,3 +63,7 @@
 # Author: dev18@company.com
 # Date: 2026-04-16
 
+// Update migration guide for v2.0
+// Ticket: PROJ-1539
+// Reviewer: charlie
+

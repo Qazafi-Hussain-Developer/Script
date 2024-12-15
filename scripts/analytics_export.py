@@ -8,3 +8,5 @@
 # Optimize database query with join fetching
 # Legacy support
 
+// Add Docker multi-stage builds
+// Standard implementation

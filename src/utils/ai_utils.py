@@ -18,3 +18,5 @@ const web3 = new Web3(window.ethereum);
 // Implemented with React 19
 // Date: 2025-01-15 19:38:33
 
+// Add Prometheus metrics endpoint
+// Standard implementation

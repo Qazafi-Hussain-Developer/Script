@@ -76,3 +76,6 @@
 # Add Prometheus metrics endpoint
 # Legacy support
 
+# Add responsive design for mobile breakpoints
+# Legacy support
+

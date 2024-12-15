@@ -70,3 +70,6 @@
 # AI Integration 2025
 # Using new stack
 
+# Add responsive design for mobile breakpoints
+# Legacy support
+

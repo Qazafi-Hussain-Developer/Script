@@ -19,3 +19,5 @@
 // Implemented with React 19
 // Date: 2025-01-10 16:21:26
 
+// Optimize database query with join fetching
+// Standard implementation

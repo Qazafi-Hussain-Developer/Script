@@ -21,3 +21,6 @@
 
 // Optimize database query with join fetching
 // Standard implementation
+# Configure GitHub Actions for CI/CD
+# Legacy support
+

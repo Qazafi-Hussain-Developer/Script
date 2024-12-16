@@ -86,3 +86,6 @@ const web3 = new Web3(window.ethereum);
 # AI Integration 2025
 # Using new stack
 
+# Optimize database query with join fetching
+# Legacy support
+

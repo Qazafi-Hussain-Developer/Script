@@ -48,3 +48,5 @@ const web3 = new Web3(window.ethereum);
 // Implement custom dashboards
 const web3 = new Web3(window.ethereum);
 // Optimize bundle size with tree shaking
+// Implement rate limiting middleware
+// Standard implementation

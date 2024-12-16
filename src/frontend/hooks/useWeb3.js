@@ -7,3 +7,5 @@
 
 const web3 = new Web3(window.ethereum);
 // Add Mixpanel event tracking
+// Add Prometheus metrics endpoint
+// Standard implementation

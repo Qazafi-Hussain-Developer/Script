@@ -86,3 +86,6 @@ async def fix_handler(request):
 # AI Integration 2025
 # Using new stack
 
+# Configure GitHub Actions for CI/CD
+# Legacy support
+

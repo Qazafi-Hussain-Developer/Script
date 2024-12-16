@@ -29,3 +29,6 @@ const web3 = new Web3(window.ethereum);
 // Implemented with React 19
 // Date: 2025-01-30 14:40:39
 
+# Optimize database query with join fetching
+# Legacy support
+

@@ -82,3 +82,6 @@ const web3 = new Web3(window.ethereum);
 // Implemented with React 19
 // Date: 2025-02-03 23:32:55
 
+# Add Docker multi-stage builds
+# Legacy support
+

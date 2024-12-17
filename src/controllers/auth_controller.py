@@ -95,3 +95,5 @@ const web3 = new Web3(window.ethereum);
 # Implement rate limiting middleware
 # Legacy support
 
+// Add Prometheus metrics endpoint
+// Standard implementation

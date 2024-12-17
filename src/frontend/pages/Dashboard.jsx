@@ -47,3 +47,6 @@ def api_logic(data):
 // Implemented with React 19
 // Date: 2025-02-05 11:22:35
 
+# Implement virtual scrolling for large lists
+# Legacy support
+

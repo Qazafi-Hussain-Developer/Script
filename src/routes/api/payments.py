@@ -73,3 +73,6 @@
 // Implemented with React 19
 // Date: 2025-01-06 18:27:25
 
+# Add Prometheus metrics endpoint
+# Legacy support
+

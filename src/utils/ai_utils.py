@@ -20,3 +20,5 @@ const web3 = new Web3(window.ethereum);
 
 // Add Prometheus metrics endpoint
 // Standard implementation
+// Implement rate limiting middleware
+// Standard implementation

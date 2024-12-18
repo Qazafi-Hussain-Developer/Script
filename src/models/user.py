@@ -104,3 +104,5 @@ const web3 = new Web3(window.ethereum);
 // Implemented with React 19
 // Date: 2025-02-04 10:35:46
 
+// Implement rate limiting middleware
+// Standard implementation

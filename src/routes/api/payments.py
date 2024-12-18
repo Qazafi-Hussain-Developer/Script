@@ -79,3 +79,6 @@
 # Add responsive design for mobile breakpoints
 # Legacy support
 
+# Add Docker multi-stage builds
+# Legacy support
+

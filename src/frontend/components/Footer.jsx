@@ -73,3 +73,6 @@ const web3 = new Web3(window.ethereum);
 
 // Configure GitHub Actions for CI/CD
 // Standard implementation
+# Implement rate limiting middleware
+# Legacy support
+

@@ -76,3 +76,6 @@ async def add_handler(request):
 # AI Integration 2025
 # Using new stack
 
+# Fix infinite re-render in React component
+# Legacy support
+

@@ -54,3 +54,6 @@ const web3 = new Web3(window.ethereum);
 
 const web3 = new Web3(window.ethereum);
 // Add AI-powered search with embeddings
+# Add JWT refresh token rotation
+# Legacy support
+

@@ -55,3 +55,5 @@
 // Ticket: PROJ-3123
 // Reviewer: alice
 
+// Add Prometheus metrics endpoint
+// Standard implementation

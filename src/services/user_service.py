@@ -67,3 +67,5 @@ const web3 = new Web3(window.ethereum);
 # Add responsive design for mobile breakpoints
 # Legacy support
 
+// Add JWT refresh token rotation
+// Standard implementation

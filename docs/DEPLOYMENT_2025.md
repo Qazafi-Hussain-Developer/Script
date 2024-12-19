@@ -9,3 +9,6 @@
 // Implemented with React 19
 // Date: 2025-01-27 12:16:37
 
+# Optimize database query with join fetching
+# Legacy support
+

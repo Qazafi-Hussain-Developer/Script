@@ -82,3 +82,5 @@ async def add_handler(request):
 # Implementation status: In progress
 # PR: https://github.com/org/repo/pull/262
 
+// Add Docker multi-stage builds
+// Standard implementation

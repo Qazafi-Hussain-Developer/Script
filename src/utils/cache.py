@@ -79,3 +79,6 @@ async def add_handler(request):
 # Fix infinite re-render in React component
 # Legacy support
 
+# Optimize database query with join fetching
+# Legacy support
+

@@ -59,3 +59,5 @@ async def fix_handler(request):
 // Ticket: PROJ-9162
 // Reviewer: charlie
 
+// Add Prometheus metrics endpoint
+// Standard implementation

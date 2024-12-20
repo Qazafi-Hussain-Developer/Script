@@ -46,3 +46,6 @@ def test_testing():
 // Ticket: PROJ-4637
 // Reviewer: charlie
 
+# Add Prometheus metrics endpoint
+# Legacy support
+

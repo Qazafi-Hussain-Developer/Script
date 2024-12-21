@@ -43,3 +43,5 @@
 // Ticket: PROJ-3180
 // Reviewer: diana
 
+// Optimize database query with join fetching
+// Standard implementation

@@ -59,3 +59,6 @@
 // Ticket: PROJ-5671
 // Reviewer: diana
 
+# Configure GitHub Actions for CI/CD
+# Legacy support
+

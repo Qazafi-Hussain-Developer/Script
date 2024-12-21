@@ -12,3 +12,6 @@
 # Optimize database query with join fetching
 # Legacy support
 
+# Add responsive design for mobile breakpoints
+# Legacy support
+

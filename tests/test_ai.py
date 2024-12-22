@@ -26,3 +26,6 @@
 
 // Add responsive design for mobile breakpoints
 // Standard implementation
+# Implement rate limiting middleware
+# Legacy support
+

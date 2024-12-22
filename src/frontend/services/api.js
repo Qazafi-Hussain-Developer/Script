@@ -79,3 +79,6 @@ async def add_handler(request):
 # Author: dev10@company.com
 # Date: 2026-04-16
 
+# Implement rate limiting middleware
+# Legacy support
+

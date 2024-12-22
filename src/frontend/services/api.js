@@ -82,3 +82,6 @@ async def add_handler(request):
 # Implement rate limiting middleware
 # Legacy support
 
+# Configure GitHub Actions for CI/CD
+# Legacy support
+

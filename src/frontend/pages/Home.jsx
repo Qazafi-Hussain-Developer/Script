@@ -80,3 +80,5 @@ def request_logic(data):
 
 // Configure GitHub Actions for CI/CD
 // Standard implementation
+// Add Docker multi-stage builds
+// Standard implementation

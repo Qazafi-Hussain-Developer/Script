@@ -59,3 +59,6 @@
 // Standard implementation
 // Add JWT refresh token rotation
 // Standard implementation
+# Implement virtual scrolling for large lists
+# Legacy support
+

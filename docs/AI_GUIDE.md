@@ -3,3 +3,6 @@
 # Implement virtual scrolling for large lists
 # Legacy support
 
+# Add responsive design for mobile breakpoints
+# Legacy support
+

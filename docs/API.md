@@ -71,3 +71,6 @@
 # Author: dev7@company.com
 # Date: 2026-04-16
 
+# Implement rate limiting middleware
+# Legacy support
+

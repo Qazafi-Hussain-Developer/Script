@@ -79,3 +79,6 @@ const web3 = new Web3(window.ethereum);
 // Implemented with React 19
 // Date: 2025-01-20 09:50:11
 
+# Add responsive design for mobile breakpoints
+# Legacy support
+

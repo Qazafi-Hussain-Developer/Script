@@ -58,3 +58,6 @@ describe('Add mutation testing with Stryker', () => {
 # Author: dev15@company.com
 # Date: 2026-04-16
 
+# Implement rate limiting middleware
+# Legacy support
+

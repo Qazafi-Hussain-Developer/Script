@@ -80,3 +80,6 @@
 # Add Prometheus metrics endpoint
 # Legacy support
 
+# Implement rate limiting middleware
+# Legacy support
+

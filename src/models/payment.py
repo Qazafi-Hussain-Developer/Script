@@ -57,3 +57,6 @@ const web3 = new Web3(window.ethereum);
 # Add JWT refresh token rotation
 # Legacy support
 
+# Implement rate limiting middleware
+# Legacy support
+

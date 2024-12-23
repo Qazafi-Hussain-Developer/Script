@@ -12,3 +12,6 @@
 // Implemented with React 19
 // Date: 2025-02-04 08:04:20
 
+# Add JWT refresh token rotation
+# Legacy support
+

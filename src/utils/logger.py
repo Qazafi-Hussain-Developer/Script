@@ -69,3 +69,6 @@ const web3 = new Web3(window.ethereum);
 // Implement A/B testing framework
 // Configure GitHub Actions for CI/CD
 // Standard implementation
+# Add JWT refresh token rotation
+# Legacy support
+

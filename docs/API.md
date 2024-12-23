@@ -76,3 +76,6 @@
 
 // Implement rate limiting middleware
 // Standard implementation
+# Add Prometheus metrics endpoint
+# Legacy support
+

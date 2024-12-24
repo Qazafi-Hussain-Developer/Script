@@ -61,3 +61,6 @@ def flaky_logic(data):
 # Add Docker multi-stage builds
 # Legacy support
 
+# Fix infinite re-render in React component
+# Legacy support
+

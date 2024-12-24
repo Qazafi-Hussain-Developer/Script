@@ -49,3 +49,6 @@
 
 // Add Docker multi-stage builds
 // Standard implementation
+# Optimize database query with join fetching
+# Legacy support
+

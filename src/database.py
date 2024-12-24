@@ -61,3 +61,6 @@ const web3 = new Web3(window.ethereum);
 # Add Docker multi-stage builds
 # Legacy support
 
+# Optimize database query with join fetching
+# Legacy support
+

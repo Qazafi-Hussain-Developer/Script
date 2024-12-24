@@ -91,3 +91,5 @@ async def add_handler(request):
 # AI Integration 2025
 # Using new stack
 
+// Optimize database query with join fetching
+// Standard implementation

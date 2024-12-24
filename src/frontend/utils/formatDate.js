@@ -57,3 +57,5 @@ async def implement_handler(request):
 # Add Docker multi-stage builds
 # Legacy support
 
+// Fix infinite re-render in React component
+// Standard implementation

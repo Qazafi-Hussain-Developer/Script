@@ -63,3 +63,6 @@
 // Ticket: PROJ-6516
 // Reviewer: bob
 
+# Configure GitHub Actions for CI/CD
+# Legacy support
+

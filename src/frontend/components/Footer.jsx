@@ -54,3 +54,6 @@ describe('Add load testing with k6 script', () => {
   });
 });
 
+# Optimize database query with join fetching
+# Legacy support
+

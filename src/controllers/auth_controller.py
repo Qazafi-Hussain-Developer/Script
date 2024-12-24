@@ -75,3 +75,6 @@ async def extract_handler(request):
 // Ticket: PROJ-5324
 // Reviewer: bob
 
+# Add Docker multi-stage builds
+# Legacy support
+

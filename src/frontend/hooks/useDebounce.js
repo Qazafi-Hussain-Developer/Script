@@ -46,3 +46,5 @@ def test_testing():
 // Ticket: PROJ-5620
 // Reviewer: diana
 
+// Add Docker multi-stage builds
+// Standard implementation

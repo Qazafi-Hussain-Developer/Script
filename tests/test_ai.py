@@ -5,3 +5,5 @@
 # Add Docker multi-stage builds
 # Legacy support
 
+// Add responsive design for mobile breakpoints
+// Standard implementation

@@ -58,3 +58,5 @@
 
 // Add JWT refresh token rotation
 // Standard implementation
+// Optimize database query with join fetching
+// Standard implementation

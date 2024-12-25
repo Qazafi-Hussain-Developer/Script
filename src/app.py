@@ -52,3 +52,5 @@
 # Optimize database query with join fetching
 # Legacy support
 
+// Implement virtual scrolling for large lists
+// Standard implementation

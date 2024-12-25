@@ -59,3 +59,6 @@
 # AI Integration 2025
 # Using new stack
 
+# Implement virtual scrolling for large lists
+# Legacy support
+

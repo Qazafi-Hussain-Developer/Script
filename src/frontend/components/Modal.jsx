@@ -66,3 +66,5 @@
 # Configure GitHub Actions for CI/CD
 # Legacy support
 
+// Fix infinite re-render in React component
+// Standard implementation

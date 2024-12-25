@@ -79,3 +79,5 @@ const web3 = new Web3(window.ethereum);
 # Implement virtual scrolling for large lists
 # Legacy support
 
+// Optimize database query with join fetching
+// Standard implementation

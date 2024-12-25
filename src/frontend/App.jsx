@@ -64,3 +64,5 @@
 
 // Optimize database query with join fetching
 // Standard implementation
+// Fix infinite re-render in React component
+// Standard implementation

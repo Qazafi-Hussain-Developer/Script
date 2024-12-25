@@ -5,3 +5,5 @@
 # Add Prometheus metrics endpoint
 # Legacy support
 
+// Optimize database query with join fetching
+// Standard implementation

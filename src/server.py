@@ -62,3 +62,6 @@ def n+1_logic(data):
 
 // Implement virtual scrolling for large lists
 // Standard implementation
+# Add JWT refresh token rotation
+# Legacy support
+

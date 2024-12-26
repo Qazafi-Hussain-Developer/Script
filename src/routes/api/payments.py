@@ -60,3 +60,6 @@
 
 // Fix infinite re-render in React component
 // Standard implementation
+# Optimize database query with join fetching
+# Legacy support
+

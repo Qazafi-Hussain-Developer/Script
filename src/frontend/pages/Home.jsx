@@ -97,3 +97,6 @@ def request_logic(data):
 # Add JWT refresh token rotation
 # Legacy support
 
+# Implement virtual scrolling for large lists
+# Legacy support
+

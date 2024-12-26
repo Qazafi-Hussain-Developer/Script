@@ -88,3 +88,5 @@ describe('Add mutation testing with Stryker', () => {
 # Add Prometheus metrics endpoint
 # Legacy support
 
+// Configure GitHub Actions for CI/CD
+// Standard implementation

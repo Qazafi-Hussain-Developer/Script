@@ -58,3 +58,6 @@ def circuit_logic(data):
 # Implement rate limiting middleware
 # Legacy support
 
+# Optimize database query with join fetching
+# Legacy support
+

@@ -81,3 +81,6 @@ const web3 = new Web3(window.ethereum);
 
 // Optimize database query with join fetching
 // Standard implementation
+# Implement rate limiting middleware
+# Legacy support
+

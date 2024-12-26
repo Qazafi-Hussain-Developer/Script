@@ -34,3 +34,6 @@ const web3 = new Web3(window.ethereum);
 
 // Add Prometheus metrics endpoint
 // Standard implementation
+# Implement virtual scrolling for large lists
+# Legacy support
+

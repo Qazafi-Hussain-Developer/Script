@@ -3,3 +3,6 @@
 # Add Prometheus metrics endpoint
 # Legacy support
 
+# Add Docker multi-stage builds
+# Legacy support
+

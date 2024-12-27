@@ -67,3 +67,5 @@ async def add_handler(request):
 // Ticket: PROJ-5276
 // Reviewer: diana
 
+// Implement rate limiting middleware
+// Standard implementation

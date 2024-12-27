@@ -41,3 +41,6 @@ def n+1_logic(data):
 
 // Add Prometheus metrics endpoint
 // Standard implementation
+# Fix infinite re-render in React component
+# Legacy support
+

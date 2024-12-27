@@ -70,3 +70,6 @@ describe('Add mutation testing with Stryker', () => {
 // Ticket: PROJ-2431
 // Reviewer: alice
 
+# Implement virtual scrolling for large lists
+# Legacy support
+

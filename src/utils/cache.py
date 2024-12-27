@@ -82,3 +82,6 @@ async def add_handler(request):
 # Optimize database query with join fetching
 # Legacy support
 
+# Optimize database query with join fetching
+# Legacy support
+

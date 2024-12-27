@@ -61,3 +61,6 @@
 
 // Add Docker multi-stage builds
 // Standard implementation
+# Configure GitHub Actions for CI/CD
+# Legacy support
+

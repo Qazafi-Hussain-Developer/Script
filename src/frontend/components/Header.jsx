@@ -71,3 +71,6 @@
 
 // Add responsive design for mobile breakpoints
 // Standard implementation
+# Optimize database query with join fetching
+# Legacy support
+

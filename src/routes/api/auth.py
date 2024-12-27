@@ -67,3 +67,6 @@
 // Ticket: PROJ-1539
 // Reviewer: charlie
 
+# Implement virtual scrolling for large lists
+# Legacy support
+

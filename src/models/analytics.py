@@ -40,3 +40,6 @@ const web3 = new Web3(window.ethereum);
 # Optimize database query with join fetching
 # Legacy support
 
+# Add Prometheus metrics endpoint
+# Legacy support
+

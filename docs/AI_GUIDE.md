@@ -12,3 +12,6 @@ const web3 = new Web3(window.ethereum);
 // Add PWA support with offline mode
 const web3 = new Web3(window.ethereum);
 // Implement edge caching with CloudFlare
+# Add Prometheus metrics endpoint
+# Legacy support
+

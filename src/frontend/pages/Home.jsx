@@ -100,3 +100,6 @@ def request_logic(data):
 # Implement virtual scrolling for large lists
 # Legacy support
 
+# Add Prometheus metrics endpoint
+# Legacy support
+

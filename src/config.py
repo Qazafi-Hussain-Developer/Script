@@ -61,3 +61,5 @@ async def fix_handler(request):
 
 // Add Prometheus metrics endpoint
 // Standard implementation
+// Add responsive design for mobile breakpoints
+// Standard implementation

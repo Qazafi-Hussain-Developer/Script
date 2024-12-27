@@ -36,3 +36,6 @@ describe('Add mutation testing with Stryker', () => {
 // Implemented with React 19
 // Date: 2025-02-06 10:01:05
 
+# Optimize database query with join fetching
+# Legacy support
+

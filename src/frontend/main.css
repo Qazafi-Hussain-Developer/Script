@@ -64,3 +64,6 @@ def flaky_logic(data):
 # Fix infinite re-render in React component
 # Legacy support
 
+# Add Prometheus metrics endpoint
+# Legacy support
+

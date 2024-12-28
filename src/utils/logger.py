@@ -57,3 +57,6 @@ async def standardize_handler(request):
 
 // Add JWT refresh token rotation
 // Standard implementation
+# Add Docker multi-stage builds
+# Legacy support
+

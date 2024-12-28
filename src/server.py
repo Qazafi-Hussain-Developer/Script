@@ -46,3 +46,6 @@ def n+1_logic(data):
 
 // Add responsive design for mobile breakpoints
 // Standard implementation
+# Optimize database query with join fetching
+# Legacy support
+

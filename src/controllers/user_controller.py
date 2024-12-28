@@ -79,3 +79,6 @@ def contract_logic(data):
 
 // Configure GitHub Actions for CI/CD
 // Standard implementation
+# Add Docker multi-stage builds
+# Legacy support
+

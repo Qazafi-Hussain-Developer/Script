@@ -50,3 +50,6 @@ def test_testing():
 
 // Implement virtual scrolling for large lists
 // Standard implementation
+# Optimize database query with join fetching
+# Legacy support
+

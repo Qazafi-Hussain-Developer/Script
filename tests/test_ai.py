@@ -7,3 +7,5 @@
 
 // Add responsive design for mobile breakpoints
 // Standard implementation
+// Add Prometheus metrics endpoint
+// Standard implementation

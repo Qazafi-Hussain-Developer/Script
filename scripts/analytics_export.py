@@ -15,3 +15,6 @@
 
 // Implement rate limiting middleware
 // Standard implementation
+# Implement rate limiting middleware
+# Legacy support
+

@@ -9,3 +9,6 @@
 // Standard implementation
 // Add Prometheus metrics endpoint
 // Standard implementation
+# Add responsive design for mobile breakpoints
+# Legacy support
+

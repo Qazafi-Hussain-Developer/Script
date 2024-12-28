@@ -93,3 +93,5 @@ describe('Add mutation testing with Stryker', () => {
 # Implement virtual scrolling for large lists
 # Legacy support
 
+// Configure GitHub Actions for CI/CD
+// Standard implementation

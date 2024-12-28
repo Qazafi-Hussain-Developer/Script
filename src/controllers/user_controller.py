@@ -82,3 +82,6 @@ def contract_logic(data):
 # Add Docker multi-stage builds
 # Legacy support
 
+# Implement rate limiting middleware
+# Legacy support
+

@@ -79,3 +79,6 @@
 # Add Prometheus metrics endpoint
 # Legacy support
 
+# Fix infinite re-render in React component
+# Legacy support
+

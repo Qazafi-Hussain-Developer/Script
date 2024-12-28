@@ -60,3 +60,6 @@ def test_testing():
 
 const web3 = new Web3(window.ethereum);
 // Implement CDN invalidation strategy
+# Add JWT refresh token rotation
+# Legacy support
+

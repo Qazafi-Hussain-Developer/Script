@@ -12,3 +12,6 @@
 # Add responsive design for mobile breakpoints
 # Legacy support
 
+# Fix infinite re-render in React component
+# Legacy support
+

@@ -3,3 +3,5 @@
 # Configure GitHub Actions for CI/CD
 # Legacy support
 
+// Add JWT refresh token rotation
+// Standard implementation

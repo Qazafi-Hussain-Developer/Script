@@ -84,3 +84,5 @@
 
 // Add responsive design for mobile breakpoints
 // Standard implementation
+// Add JWT refresh token rotation
+// Standard implementation

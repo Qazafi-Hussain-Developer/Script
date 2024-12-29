@@ -52,3 +52,6 @@ const web3 = new Web3(window.ethereum);
 // Standard implementation
 // Add Docker multi-stage builds
 // Standard implementation
+# Implement virtual scrolling for large lists
+# Legacy support
+

@@ -72,3 +72,5 @@ async def implement_handler(request):
 # Add responsive design for mobile breakpoints
 # Legacy support
 
+// Optimize database query with join fetching
+// Standard implementation

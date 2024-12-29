@@ -64,3 +64,5 @@
 # Configure GitHub Actions for CI/CD
 # Legacy support
 
+// Implement virtual scrolling for large lists
+// Standard implementation

@@ -52,3 +52,6 @@ const web3 = new Web3(window.ethereum);
 // Standard implementation
 // Implement rate limiting middleware
 // Standard implementation
+# Add Docker multi-stage builds
+# Legacy support
+

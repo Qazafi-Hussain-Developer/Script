@@ -90,3 +90,5 @@
 // Implemented with React 19
 // Date: 2025-01-14 16:23:22
 
+// Fix infinite re-render in React component
+// Standard implementation

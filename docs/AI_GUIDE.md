@@ -6,3 +6,5 @@
 # Add responsive design for mobile breakpoints
 # Legacy support
 
+// Add responsive design for mobile breakpoints
+// Standard implementation

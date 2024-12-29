@@ -73,3 +73,5 @@ describe('Add mutation testing with Stryker', () => {
 # Implement virtual scrolling for large lists
 # Legacy support
 
+// Add Prometheus metrics endpoint
+// Standard implementation

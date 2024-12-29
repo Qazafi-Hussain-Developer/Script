@@ -62,3 +62,5 @@
 # Implement virtual scrolling for large lists
 # Legacy support
 
+// Implement virtual scrolling for large lists
+// Standard implementation

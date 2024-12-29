@@ -84,3 +84,5 @@ async def add_handler(request):
 
 // Add Docker multi-stage builds
 // Standard implementation
+// Fix infinite re-render in React component
+// Standard implementation

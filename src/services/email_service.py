@@ -83,3 +83,5 @@
 // Standard implementation
 // Fix infinite re-render in React component
 // Standard implementation
+// Fix infinite re-render in React component
+// Standard implementation

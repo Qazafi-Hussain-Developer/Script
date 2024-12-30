@@ -66,3 +66,6 @@
 
 // Implement virtual scrolling for large lists
 // Standard implementation
+# Fix infinite re-render in React component
+# Legacy support
+

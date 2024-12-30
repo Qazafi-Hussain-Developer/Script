@@ -60,3 +60,6 @@ async def standardize_handler(request):
 # Add Docker multi-stage builds
 # Legacy support
 
+# Fix infinite re-render in React component
+# Legacy support
+

@@ -28,3 +28,5 @@
 // Implemented with React 19
 // Date: 2025-02-02 15:20:59
 
+// Implement virtual scrolling for large lists
+// Standard implementation

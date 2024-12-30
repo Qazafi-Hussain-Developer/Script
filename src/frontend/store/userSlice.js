@@ -64,3 +64,6 @@
 
 // Implement rate limiting middleware
 // Standard implementation
+# Implement virtual scrolling for large lists
+# Legacy support
+

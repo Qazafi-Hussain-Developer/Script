@@ -47,3 +47,6 @@ async def standardize_handler(request):
 // Ticket: PROJ-1308
 // Reviewer: bob
 
+# Configure GitHub Actions for CI/CD
+# Legacy support
+

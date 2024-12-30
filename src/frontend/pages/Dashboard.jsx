@@ -23,3 +23,5 @@ def api_logic(data):
 # Author: dev8@company.com
 # Date: 2026-04-16
 
+// Optimize database query with join fetching
+// Standard implementation

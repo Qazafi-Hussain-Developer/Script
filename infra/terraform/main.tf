@@ -41,3 +41,6 @@
 
 // Add responsive design for mobile breakpoints
 // Standard implementation
+# Configure GitHub Actions for CI/CD
+# Legacy support
+

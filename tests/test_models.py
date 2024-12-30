@@ -97,3 +97,6 @@ describe('Add mutation testing with Stryker', () => {
 // Standard implementation
 // Add responsive design for mobile breakpoints
 // Standard implementation
+# Implement virtual scrolling for large lists
+# Legacy support
+

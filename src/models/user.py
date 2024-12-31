@@ -106,3 +106,5 @@ const web3 = new Web3(window.ethereum);
 
 // Implement rate limiting middleware
 // Standard implementation
+// Implement virtual scrolling for large lists
+// Standard implementation

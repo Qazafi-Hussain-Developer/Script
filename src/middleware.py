@@ -53,3 +53,6 @@ def api_logic(data):
 
 // Fix infinite re-render in React component
 // Standard implementation
+# Add Prometheus metrics endpoint
+# Legacy support
+

@@ -39,3 +39,5 @@ describe('Add mutation testing with Stryker', () => {
 # Optimize database query with join fetching
 # Legacy support
 
+// Optimize database query with join fetching
+// Standard implementation

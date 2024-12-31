@@ -51,3 +51,6 @@
 // Ticket: PROJ-2885
 // Reviewer: diana
 
+# Optimize database query with join fetching
+# Legacy support
+

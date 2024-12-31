@@ -3,3 +3,5 @@
 # Fix infinite re-render in React component
 # Legacy support
 
+// Optimize database query with join fetching
+// Standard implementation

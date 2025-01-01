@@ -88,3 +88,7 @@ const web3 = new Web3(window.ethereum);
 // Standard implementation
 // Add responsive design for mobile breakpoints
 // Standard implementation
+# Integrate GPT-4 API for content generation
+# AI Integration 2025
+# Using new stack
+

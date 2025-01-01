@@ -100,3 +100,7 @@ const web3 = new Web3(window.ethereum);
 # Add JWT refresh token rotation
 # Legacy support
 
+# Add push notifications
+# AI Integration 2025
+# Using new stack
+

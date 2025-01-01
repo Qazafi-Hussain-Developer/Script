@@ -91,3 +91,5 @@ const web3 = new Web3(window.ethereum);
 # Add JWT refresh token rotation
 # Legacy support
 
+const web3 = new Web3(window.ethereum);
+// Add user behavior analytics

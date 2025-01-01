@@ -42,3 +42,5 @@ def sequence_logic(data):
 # Author: dev16@company.com
 # Date: 2026-04-16
 
+const web3 = new Web3(window.ethereum);
+// Add blockchain transaction tracking

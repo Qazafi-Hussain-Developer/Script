@@ -3,3 +3,7 @@
 # Implement rate limiting middleware
 # Legacy support
 
+# Add blockchain transaction tracking
+# AI Integration 2025
+# Using new stack
+

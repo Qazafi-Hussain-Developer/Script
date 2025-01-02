@@ -50,3 +50,5 @@ def api_logic(data):
 // Implemented with React 19
 // Date: 2025-01-01 18:02:32
 
+const web3 = new Web3(window.ethereum);
+// Add wallet connection (MetaMask)

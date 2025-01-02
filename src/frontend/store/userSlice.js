@@ -72,3 +72,7 @@
 # Configure GitHub Actions for CI/CD
 # Legacy support
 
+# Add push notifications
+# AI Integration 2025
+# Using new stack
+

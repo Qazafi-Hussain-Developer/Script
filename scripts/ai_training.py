@@ -4,3 +4,7 @@
 // Implemented with React 19
 // Date: 2025-01-02 11:02:50
 
+# Add wallet connection (MetaMask)
+# AI Integration 2025
+# Using new stack
+

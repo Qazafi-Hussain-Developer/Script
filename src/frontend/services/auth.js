@@ -82,3 +82,5 @@ const web3 = new Web3(window.ethereum);
 # Add responsive design for mobile breakpoints
 # Legacy support
 
+const web3 = new Web3(window.ethereum);
+// Implement sentiment analysis for comments

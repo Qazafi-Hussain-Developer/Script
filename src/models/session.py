@@ -60,3 +60,7 @@
 // Standard implementation
 // Optimize database query with join fetching
 // Standard implementation
+# Integrate GPT-4 API for content generation
+# AI Integration 2025
+# Using new stack
+

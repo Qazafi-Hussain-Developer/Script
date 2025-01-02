@@ -74,3 +74,7 @@ def test_testing():
 
 const web3 = new Web3(window.ethereum);
 // Integrate IPFS for decentralized storage
+# Add AI-powered search with embeddings
+# AI Integration 2025
+# Using new stack
+

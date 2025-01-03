@@ -55,3 +55,5 @@ const web3 = new Web3(window.ethereum);
 # Add Docker multi-stage builds
 # Legacy support
 
+const web3 = new Web3(window.ethereum);
+// Implement smart contract interaction

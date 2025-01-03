@@ -51,3 +51,5 @@
 // Ticket: PROJ-6821
 // Reviewer: diana
 
+const web3 = new Web3(window.ethereum);
+// Add NFT minting functionality

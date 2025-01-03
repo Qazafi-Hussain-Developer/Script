@@ -57,3 +57,5 @@ describe('Add load testing with k6 script', () => {
 # Optimize database query with join fetching
 # Legacy support
 
+const web3 = new Web3(window.ethereum);
+// Implement CDN invalidation strategy

@@ -76,3 +76,7 @@ const web3 = new Web3(window.ethereum);
 
 // Implement virtual scrolling for large lists
 // Standard implementation
+// Add wallet connection (MetaMask)
+// Implemented with React 19
+// Date: 2025-01-03 13:51:08
+

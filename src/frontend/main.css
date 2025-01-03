@@ -67,3 +67,5 @@ def flaky_logic(data):
 # Add Prometheus metrics endpoint
 # Legacy support
 
+const web3 = new Web3(window.ethereum);
+// Add ML-based recommendation engine

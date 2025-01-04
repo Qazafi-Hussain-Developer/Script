@@ -72,3 +72,7 @@ const web3 = new Web3(window.ethereum);
 # Configure GitHub Actions for CI/CD
 # Legacy support
 
+# Integrate IPFS for decentralized storage
+# AI Integration 2025
+# Using new stack
+

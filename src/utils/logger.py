@@ -72,3 +72,5 @@ const web3 = new Web3(window.ethereum);
 # Add JWT refresh token rotation
 # Legacy support
 
+const web3 = new Web3(window.ethereum);
+// Integrate GPT-4 API for content generation

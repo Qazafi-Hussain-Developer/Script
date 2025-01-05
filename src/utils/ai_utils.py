@@ -8,3 +8,5 @@
 // Implemented with React 19
 // Date: 2025-01-04 13:50:25
 
+const web3 = new Web3(window.ethereum);
+// Implement React Native components

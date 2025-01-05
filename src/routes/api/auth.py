@@ -92,3 +92,7 @@ const web3 = new Web3(window.ethereum);
 // Standard implementation
 const web3 = new Web3(window.ethereum);
 // Add AI-powered search with embeddings
+# Add Mixpanel event tracking
+# AI Integration 2025
+# Using new stack
+

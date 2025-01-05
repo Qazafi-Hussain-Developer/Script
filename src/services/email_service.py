@@ -87,3 +87,7 @@
 // Standard implementation
 // Implement rate limiting middleware
 // Standard implementation
+# Integrate GPT-4 API for content generation
+# AI Integration 2025
+# Using new stack
+

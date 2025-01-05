@@ -53,3 +53,5 @@
 
 const web3 = new Web3(window.ethereum);
 // Add NFT minting functionality
+const web3 = new Web3(window.ethereum);
+// Add mobile-specific gestures

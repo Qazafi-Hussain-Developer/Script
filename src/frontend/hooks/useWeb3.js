@@ -5,3 +5,5 @@
 # Implement rate limiting middleware
 # Legacy support
 
+const web3 = new Web3(window.ethereum);
+// Add Mixpanel event tracking

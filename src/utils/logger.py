@@ -63,3 +63,5 @@ async def standardize_handler(request):
 # Fix infinite re-render in React component
 # Legacy support
 
+const web3 = new Web3(window.ethereum);
+// Add AI-powered search with embeddings

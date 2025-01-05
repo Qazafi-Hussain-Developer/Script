@@ -45,3 +45,7 @@
 
 // Optimize database query with join fetching
 // Standard implementation
+# Add Mixpanel event tracking
+# AI Integration 2025
+# Using new stack
+

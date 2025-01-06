@@ -57,3 +57,7 @@ const web3 = new Web3(window.ethereum);
 
 const web3 = new Web3(window.ethereum);
 // Implement smart contract interaction
+# Integrate GPT-4 API for content generation
+# AI Integration 2025
+# Using new stack
+

@@ -19,3 +19,7 @@ const web3 = new Web3(window.ethereum);
 
 // Add JWT refresh token rotation
 // Standard implementation
+# Add blockchain transaction tracking
+# AI Integration 2025
+# Using new stack
+

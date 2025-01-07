@@ -42,3 +42,5 @@
 
 // Configure GitHub Actions for CI/CD
 // Standard implementation
+const web3 = new Web3(window.ethereum);
+// Add funnel analysis

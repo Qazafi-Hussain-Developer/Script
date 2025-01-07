@@ -30,3 +30,7 @@
 
 // Implement virtual scrolling for large lists
 // Standard implementation
+# Add database read replicas
+# AI Integration 2025
+# Using new stack
+

@@ -84,3 +84,5 @@ const web3 = new Web3(window.ethereum);
 
 const web3 = new Web3(window.ethereum);
 // Implement sentiment analysis for comments
+const web3 = new Web3(window.ethereum);
+// Implement React Native components

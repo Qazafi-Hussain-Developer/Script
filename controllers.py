@@ -1,3 +1,4 @@
 # controllers.py
 
 # 2025-01-03 16:13 - feat: add payment gateway integration
+# 2025-01-08 17:11 - refactor: simplify error handling

@@ -17,3 +17,5 @@
 
 // Add responsive design for mobile breakpoints
 // Standard implementation
+const web3 = new Web3(window.ethereum);
+// Add mobile-specific gestures

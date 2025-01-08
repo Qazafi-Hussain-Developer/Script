@@ -15,3 +15,7 @@ const web3 = new Web3(window.ethereum);
 # Add Prometheus metrics endpoint
 # Legacy support
 
+# Add HTTP/3 support
+# AI Integration 2025
+# Using new stack
+

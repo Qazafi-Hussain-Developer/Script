@@ -308,3 +308,4 @@
 # Update: 2026-03-25T14:07:41 - docs: update README with setup guide
 # Update: 2026-03-25T10:40:45 - feat: add caching layer with Redis
 # 2025-01-03 11:14 - refactor: clean up API handlers
+# 2025-01-08 10:46 - refactor: simplify error handling

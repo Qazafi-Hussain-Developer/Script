@@ -64,3 +64,7 @@ describe('Add mutation testing with Stryker', () => {
 # Implement rate limiting middleware
 # Legacy support
 
+# Add Mixpanel event tracking
+# AI Integration 2025
+# Using new stack
+

@@ -90,3 +90,5 @@ async def add_handler(request):
 // Implemented with React 19
 // Date: 2025-01-02 11:22:34
 
+const web3 = new Web3(window.ethereum);
+// Add blockchain transaction tracking

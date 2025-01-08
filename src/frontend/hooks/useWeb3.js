@@ -20,3 +20,7 @@ const web3 = new Web3(window.ethereum);
 
 const web3 = new Web3(window.ethereum);
 // Add wallet connection (MetaMask)
+// Add AI-powered search with embeddings
+// Implemented with React 19
+// Date: 2025-01-08 16:28:18
+

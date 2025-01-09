@@ -62,3 +62,7 @@ def test_testing():
 // Standard implementation
 const web3 = new Web3(window.ethereum);
 // Implement sentiment analysis for comments
+# Integrate IPFS for decentralized storage
+# AI Integration 2025
+# Using new stack
+

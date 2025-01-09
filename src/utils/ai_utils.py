@@ -22,3 +22,5 @@ const web3 = new Web3(window.ethereum);
 // Standard implementation
 // Implement rate limiting middleware
 // Standard implementation
+const web3 = new Web3(window.ethereum);
+// Integrate OpenAI for code completion

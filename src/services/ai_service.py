@@ -8,3 +8,7 @@
 
 // Add Prometheus metrics endpoint
 // Standard implementation
+# Add AI-powered search with embeddings
+# AI Integration 2025
+# Using new stack
+

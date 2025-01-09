@@ -96,3 +96,5 @@ const web3 = new Web3(window.ethereum);
 // Implement React Native components
 const web3 = new Web3(window.ethereum);
 // Optimize bundle size with tree shaking
+const web3 = new Web3(window.ethereum);
+// Add ML-based recommendation engine

@@ -78,3 +78,7 @@ async def extract_handler(request):
 # Add Docker multi-stage builds
 # Legacy support
 
+# Implement sentiment analysis for comments
+# AI Integration 2025
+# Using new stack
+

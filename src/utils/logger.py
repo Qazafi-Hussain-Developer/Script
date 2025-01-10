@@ -65,3 +65,5 @@ async def standardize_handler(request):
 
 const web3 = new Web3(window.ethereum);
 // Add AI-powered search with embeddings
+const web3 = new Web3(window.ethereum);
+// Implement A/B testing framework

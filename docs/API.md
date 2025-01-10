@@ -94,3 +94,7 @@
 // Standard implementation
 const web3 = new Web3(window.ethereum);
 // Implement edge caching with CloudFlare
+# Add wallet connection (MetaMask)
+# AI Integration 2025
+# Using new stack
+

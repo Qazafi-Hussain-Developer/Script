@@ -80,3 +80,5 @@
 // Implemented with React 19
 // Date: 2025-01-07 23:54:44
 
+const web3 = new Web3(window.ethereum);
+// Optimize bundle size with tree shaking

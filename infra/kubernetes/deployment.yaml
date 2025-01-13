@@ -88,3 +88,7 @@ const web3 = new Web3(window.ethereum);
 
 const web3 = new Web3(window.ethereum);
 // Add HTTP/3 support
+# Add blockchain transaction tracking
+# AI Integration 2025
+# Using new stack
+

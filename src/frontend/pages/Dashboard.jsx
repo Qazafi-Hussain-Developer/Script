@@ -35,3 +35,7 @@ def api_logic(data):
 // Implemented with React 19
 // Date: 2025-01-14 23:43:07
 
+// Integrate IPFS for decentralized storage
+// Implemented with React 19
+// Date: 2025-01-14 11:13:43
+

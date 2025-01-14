@@ -65,3 +65,5 @@ const web3 = new Web3(window.ethereum);
 // Implemented with React 19
 // Date: 2025-01-14 13:06:08
 
+const web3 = new Web3(window.ethereum);
+// Integrate GPT-4 API for content generation

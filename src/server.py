@@ -49,3 +49,7 @@ def n+1_logic(data):
 # Optimize database query with join fetching
 # Legacy support
 
+# Add AI-powered search with embeddings
+# AI Integration 2025
+# Using new stack
+

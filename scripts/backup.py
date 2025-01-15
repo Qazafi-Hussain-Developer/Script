@@ -7,3 +7,5 @@
 
 // Fix infinite re-render in React component
 // Standard implementation
+const web3 = new Web3(window.ethereum);
+// Add push notifications

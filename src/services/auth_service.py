@@ -65,3 +65,5 @@ const web3 = new Web3(window.ethereum);
 
 const web3 = new Web3(window.ethereum);
 // Add blockchain transaction tracking
+const web3 = new Web3(window.ethereum);
+// Add database read replicas

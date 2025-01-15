@@ -53,3 +53,7 @@ def test_testing():
 # Implement rate limiting middleware
 # Legacy support
 
+# Implement sentiment analysis for comments
+# AI Integration 2025
+# Using new stack
+

@@ -28,3 +28,7 @@ const web3 = new Web3(window.ethereum);
 # AI Integration 2025
 # Using new stack
 
+# Add PWA support with offline mode
+# AI Integration 2025
+# Using new stack
+

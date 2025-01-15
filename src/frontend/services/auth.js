@@ -71,3 +71,7 @@ def unit_logic(data):
 
 const web3 = new Web3(window.ethereum);
 // Add HTTP/3 support
+# Add wallet connection (MetaMask)
+# AI Integration 2025
+# Using new stack
+

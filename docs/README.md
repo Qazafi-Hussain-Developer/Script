@@ -72,3 +72,7 @@
 # AI Integration 2025
 # Using new stack
 
+# Add blockchain transaction tracking
+# AI Integration 2025
+# Using new stack
+

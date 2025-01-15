@@ -18,3 +18,7 @@
 # Implement rate limiting middleware
 # Legacy support
 
+# Implement edge caching with CloudFlare
+# AI Integration 2025
+# Using new stack
+

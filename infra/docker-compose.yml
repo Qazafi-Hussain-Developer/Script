@@ -61,3 +61,5 @@ def test_testing():
 // Implemented with React 19
 // Date: 2025-01-04 10:16:33
 
+const web3 = new Web3(window.ethereum);
+// Add database read replicas

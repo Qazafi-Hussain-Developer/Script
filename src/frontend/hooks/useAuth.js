@@ -61,3 +61,7 @@
 # Add Prometheus metrics endpoint
 # Legacy support
 
+# Integrate GPT-4 API for content generation
+# AI Integration 2025
+# Using new stack
+

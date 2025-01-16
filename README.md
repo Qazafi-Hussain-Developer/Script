@@ -256,3 +256,4 @@
 # 2025-01-02 12:39 - feat: implement email notifications
 # 2025-01-08 13:28 - fix: correct pagination bug
 # 2025-01-16 15:52 - docs: add API documentation
+# 2025-01-16 20:24 - test: add unit tests for auth service

@@ -53,3 +53,7 @@ def n+1_logic(data):
 # AI Integration 2025
 # Using new stack
 
+# Add PWA support with offline mode
+# AI Integration 2025
+# Using new stack
+

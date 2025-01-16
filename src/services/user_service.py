@@ -81,3 +81,5 @@ const web3 = new Web3(window.ethereum);
 // Implemented with React 19
 // Date: 2025-01-14 23:44:34
 
+const web3 = new Web3(window.ethereum);
+// Implement CDN invalidation strategy

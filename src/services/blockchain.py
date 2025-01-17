@@ -16,3 +16,7 @@
 # AI Integration 2025
 # Using new stack
 
+# Add wallet connection (MetaMask)
+# AI Integration 2025
+# Using new stack
+

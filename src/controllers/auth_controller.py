@@ -82,3 +82,7 @@ async def extract_handler(request):
 # AI Integration 2025
 # Using new stack
 
+# Implement CDN invalidation strategy
+# AI Integration 2025
+# Using new stack
+

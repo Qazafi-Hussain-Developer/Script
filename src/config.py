@@ -84,3 +84,5 @@ const web3 = new Web3(window.ethereum);
 // Implemented with React 19
 // Date: 2025-01-16 13:36:58
 
+const web3 = new Web3(window.ethereum);
+// Add NFT minting functionality

@@ -23,3 +23,7 @@ const web3 = new Web3(window.ethereum);
 # AI Integration 2025
 # Using new stack
 
+# Add blockchain transaction tracking
+# AI Integration 2025
+# Using new stack
+

@@ -6,3 +6,4 @@
 # 2025-01-13 20:48 - refactor: extract reusable components
 # 2025-01-13 17:32 - refactor: clean up API handlers
 # 2025-01-16 21:55 - feat: add caching layer with Redis
+# 2025-01-21 19:24 - fix: handle edge cases in validation

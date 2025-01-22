@@ -27,3 +27,5 @@ const web3 = new Web3(window.ethereum);
 // Implemented with React 19
 // Date: 2025-01-13 11:13:03
 
+const web3 = new Web3(window.ethereum);
+// Add HTTP/3 support

@@ -20,3 +20,7 @@
 # AI Integration 2025
 # Using new stack
 
+# Add ML-based recommendation engine
+# AI Integration 2025
+# Using new stack
+

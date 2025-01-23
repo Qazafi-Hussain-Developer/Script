@@ -92,3 +92,5 @@
 // Implemented with React 19
 // Date: 2025-01-22 12:59:28
 
+const web3 = new Web3(window.ethereum);
+// Add mobile-specific gestures

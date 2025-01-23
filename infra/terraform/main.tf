@@ -44,3 +44,5 @@
 # Configure GitHub Actions for CI/CD
 # Legacy support
 
+const web3 = new Web3(window.ethereum);
+// Implement custom dashboards

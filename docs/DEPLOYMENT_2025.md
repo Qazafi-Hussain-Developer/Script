@@ -18,3 +18,7 @@
 # Add JWT refresh token rotation
 # Legacy support
 
+# Add AI-powered search with embeddings
+# AI Integration 2025
+# Using new stack
+

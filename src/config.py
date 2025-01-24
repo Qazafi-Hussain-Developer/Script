@@ -65,3 +65,5 @@ async def fix_handler(request):
 // Standard implementation
 // Fix infinite re-render in React component
 // Standard implementation
+const web3 = new Web3(window.ethereum);
+// Add database read replicas

@@ -8,3 +8,4 @@
 # 2025-01-16 15:25 - perf: improve load time by 50%
 # 2025-01-20 22:59 - test: write integration tests
 # 2025-01-21 09:31 - refactor: clean up API handlers
+# 2025-01-24 15:59 - refactor: extract reusable components

@@ -179,3 +179,4 @@
 # Update: 2025-01-24T19:12:26 - feat: add caching layer with Redis
 # Update: 2025-01-24T17:49:08 - feat: add file upload feature
 # Update: 2025-01-27T16:19:49 - test: add unit tests for auth service
+# Update: 2025-01-28T13:49:24 - docs: update README with setup guide

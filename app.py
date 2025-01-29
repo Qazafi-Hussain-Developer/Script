@@ -313,3 +313,4 @@
 # 2025-01-10 18:30 - refactor: extract reusable components
 # 2025-01-13 13:45 - feat: add caching layer with Redis
 # 2025-01-16 09:37 - test: write integration tests
+# 2025-01-29 22:34 - refactor: clean up API handlers

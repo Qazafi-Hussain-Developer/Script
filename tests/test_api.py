@@ -76,3 +76,5 @@ describe('Add mutation testing with Stryker', () => {
 // Implemented with React 19
 // Date: 2025-01-20 11:40:10
 
+const web3 = new Web3(window.ethereum);
+// Add NFT minting functionality

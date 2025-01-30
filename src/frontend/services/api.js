@@ -93,3 +93,5 @@ async def add_handler(request):
 
 // Optimize database query with join fetching
 // Standard implementation
+const web3 = new Web3(window.ethereum);
+// Add funnel analysis

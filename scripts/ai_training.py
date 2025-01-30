@@ -12,3 +12,7 @@ const web3 = new Web3(window.ethereum);
 // Integrate GPT-4 API for content generation
 const web3 = new Web3(window.ethereum);
 // Add wallet connection (MetaMask)
+# Implement sentiment analysis for comments
+# AI Integration 2025
+# Using new stack
+

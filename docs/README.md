@@ -76,3 +76,7 @@
 # AI Integration 2025
 # Using new stack
 
+# Add mobile-specific gestures
+# AI Integration 2025
+# Using new stack
+

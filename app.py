@@ -181,3 +181,4 @@
 # Update: 2025-01-27T16:19:49 - test: add unit tests for auth service
 # Update: 2025-01-28T13:49:24 - docs: update README with setup guide
 # Update: 2025-02-03T10:14:24 - fix: resolve login token bug
+# Update: 2025-02-03T19:50:49 - docs: update README with setup guide

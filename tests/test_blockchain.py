@@ -20,3 +20,7 @@ const web3 = new Web3(window.ethereum);
 # AI Integration 2025
 # Using new stack
 
+# Add NFT minting functionality
+# AI Integration 2025
+# Using new stack
+

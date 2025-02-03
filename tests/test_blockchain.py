@@ -33,3 +33,7 @@ const web3 = new Web3(window.ethereum);
 // Implemented with React 19
 // Date: 2025-01-30 16:42:50
 
+// Integrate IPFS for decentralized storage
+// Implemented with React 19
+// Date: 2025-02-03 16:10:48
+

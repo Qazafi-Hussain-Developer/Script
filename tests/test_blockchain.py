@@ -16,3 +16,7 @@ const web3 = new Web3(window.ethereum);
 # AI Integration 2025
 # Using new stack
 
+# Integrate OpenAI for code completion
+# AI Integration 2025
+# Using new stack
+

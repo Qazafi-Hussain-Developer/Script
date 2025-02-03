@@ -49,3 +49,7 @@
 # AI Integration 2025
 # Using new stack
 
+# Implement biometric authentication
+# AI Integration 2025
+# Using new stack
+

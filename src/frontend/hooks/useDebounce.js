@@ -65,3 +65,7 @@ def test_testing():
 # AI Integration 2025
 # Using new stack
 
+# Add database read replicas
+# AI Integration 2025
+# Using new stack
+

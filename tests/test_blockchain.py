@@ -37,3 +37,7 @@ const web3 = new Web3(window.ethereum);
 // Implemented with React 19
 // Date: 2025-02-03 16:10:48
 
+// Add wallet connection (MetaMask)
+// Implemented with React 19
+// Date: 2025-02-07 15:25:14
+

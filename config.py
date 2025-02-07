@@ -140,3 +140,4 @@
 # 2025-01-22 09:57 - test: write integration tests
 # 2025-02-03 15:59 - fix: resolve memory leak issue
 # 2025-02-04 22:19 - fix: resolve memory leak issue
+# 2025-02-07 21:10 - feat: add search functionality

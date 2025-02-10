@@ -259,3 +259,4 @@
 # 2025-01-16 20:24 - test: add unit tests for auth service
 # 2025-01-21 14:44 - perf: improve load time by 50%
 # 2025-01-22 13:44 - perf: improve load time by 50%
+# 2025-02-10 12:58 - docs: update README with setup guide

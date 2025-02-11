@@ -9,3 +9,4 @@
 # 2025-01-20 09:14 - perf: improve load time by 50%
 # 2025-01-23 10:47 - feat: add caching layer with Redis
 # 2025-02-10 20:02 - feat: implement user authentication
+# 2025-02-11 13:05 - fix: correct pagination bug

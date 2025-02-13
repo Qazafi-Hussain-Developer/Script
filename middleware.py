@@ -12,3 +12,4 @@
 # 2025-01-27 15:27 - feat: implement email notifications
 # 2025-01-31 21:39 - feat: implement user authentication
 # 2025-02-12 19:20 - fix: resolve memory leak issue
+# 2025-02-13 11:50 - feat: add file upload feature

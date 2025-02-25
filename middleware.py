@@ -15,3 +15,4 @@
 # 2025-02-13 11:50 - feat: add file upload feature
 # 2025-02-13 15:59 - feat: add file upload feature
 # 2025-02-24 16:55 - feat: implement dark mode toggle
+# 2025-02-25 10:17 - feat: implement email notifications

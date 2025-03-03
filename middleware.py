@@ -17,3 +17,4 @@
 # 2025-02-24 16:55 - feat: implement dark mode toggle
 # 2025-02-25 10:17 - feat: implement email notifications
 # 2025-02-25 22:38 - fix: resolve login token bug
+# 2025-03-03 21:02 - fix: handle edge cases in validation

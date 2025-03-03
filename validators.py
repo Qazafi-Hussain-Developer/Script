@@ -15,3 +15,4 @@
 # 2025-02-21 11:46 - chore: update dependencies to latest
 # 2025-02-21 17:25 - fix: resolve memory leak issue
 # 2025-02-26 18:36 - feat: add caching layer with Redis
+# 2025-03-03 13:55 - docs: add API documentation

@@ -9,3 +9,4 @@
 # 2025-01-21 19:24 - fix: handle edge cases in validation
 # 2025-02-22 17:18 - feat: add caching layer with Redis
 # 2025-02-24 16:21 - fix: resolve login token bug
+# 2025-03-07 18:43 - fix: correct pagination bug

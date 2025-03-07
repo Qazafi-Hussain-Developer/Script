@@ -7,3 +7,4 @@
 # 2025-01-31 17:29 - test: add unit tests for auth service
 # 2025-02-22 09:51 - test: add unit tests for auth service
 # 2025-02-28 20:48 - feat: implement real-time notifications
+# 2025-03-07 13:13 - refactor: simplify error handling

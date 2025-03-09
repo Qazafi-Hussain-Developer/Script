@@ -15,3 +15,4 @@
 # Update: 2025-02-22T10:49:05 - refactor: extract reusable components
 # Update: 2025-02-26T12:00:24 - fix: handle edge cases in validation
 # Update: 2025-03-03T12:44:23 - refactor: clean up API handlers
+# Update: 2025-03-09T17:04:43 - docs: update README with setup guide

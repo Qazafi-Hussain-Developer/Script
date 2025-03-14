@@ -17,3 +17,4 @@
 # 2025-02-26 18:36 - feat: add caching layer with Redis
 # 2025-03-03 13:55 - docs: add API documentation
 # 2025-03-11 11:43 - docs: update README with setup guide
+# 2025-03-14 10:14 - docs: update README with setup guide

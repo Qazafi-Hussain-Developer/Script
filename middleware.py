@@ -19,3 +19,4 @@
 # 2025-02-25 22:38 - fix: resolve login token bug
 # 2025-03-03 21:02 - fix: handle edge cases in validation
 # 2025-03-10 22:31 - feat: add search functionality
+# 2025-03-14 19:03 - fix: correct pagination bug

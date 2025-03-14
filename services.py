@@ -9,3 +9,4 @@
 # 2025-01-21 20:09 - feat: add caching layer with Redis
 # 2025-01-24 09:04 - chore: update dependencies to latest
 # 2025-03-07 14:34 - feat: implement user authentication
+# 2025-03-14 18:14 - feat: implement email notifications

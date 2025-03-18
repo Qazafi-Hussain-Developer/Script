@@ -18,3 +18,4 @@
 # 2025-03-03 13:55 - docs: add API documentation
 # 2025-03-11 11:43 - docs: update README with setup guide
 # 2025-03-14 10:14 - docs: update README with setup guide
+# 2025-03-18 13:06 - feat: add file upload feature

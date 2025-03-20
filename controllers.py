@@ -12,3 +12,4 @@
 # 2025-03-07 18:43 - fix: correct pagination bug
 # 2025-03-07 09:47 - docs: update deployment guide
 # 2025-03-16 10:48 - test: write integration tests
+# 2025-03-20 12:54 - fix: resolve login token bug

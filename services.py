@@ -10,3 +10,4 @@
 # 2025-01-24 09:04 - chore: update dependencies to latest
 # 2025-03-07 14:34 - feat: implement user authentication
 # 2025-03-14 18:14 - feat: implement email notifications
+# 2025-03-20 13:05 - docs: add API documentation

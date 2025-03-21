@@ -146,3 +146,4 @@
 # 2025-03-05 16:16 - refactor: simplify error handling
 # 2025-03-14 21:12 - fix: correct pagination bug
 # 2025-03-20 20:03 - fix: handle edge cases in validation
+# 2025-03-21 21:02 - feat: add caching layer with Redis

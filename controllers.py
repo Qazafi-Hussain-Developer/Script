@@ -13,3 +13,4 @@
 # 2025-03-07 09:47 - docs: update deployment guide
 # 2025-03-16 10:48 - test: write integration tests
 # 2025-03-20 12:54 - fix: resolve login token bug
+# 2025-03-21 15:37 - feat: implement real-time notifications

@@ -12,3 +12,4 @@
 # 2025-03-20 10:43 - fix: correct pagination bug
 # 2025-03-20 12:40 - fix: correct CSS responsive layout
 # 2025-03-20 15:11 - fix: correct CSS responsive layout
+# 2025-04-01 12:23 - feat: add caching layer with Redis

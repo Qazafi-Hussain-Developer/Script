@@ -11,3 +11,4 @@
 # 2025-03-07 14:34 - feat: implement user authentication
 # 2025-03-14 18:14 - feat: implement email notifications
 # 2025-03-20 13:05 - docs: add API documentation
+# 2025-04-01 19:38 - test: add unit tests for auth service

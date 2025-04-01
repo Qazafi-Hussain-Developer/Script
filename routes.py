@@ -11,3 +11,4 @@
 # 2025-03-05 15:04 - refactor: simplify error handling
 # 2025-03-07 11:19 - feat: implement dark mode toggle
 # 2025-03-21 16:32 - feat: add caching layer with Redis
+# 2025-04-01 17:20 - perf: reduce bundle size by 30%

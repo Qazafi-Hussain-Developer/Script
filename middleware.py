@@ -26,3 +26,4 @@
 # 2025-03-25 19:25 - feat: add payment gateway integration
 # 2025-03-26 16:35 - fix: resolve login token bug
 # 2025-03-28 16:51 - chore: update dependencies to latest
+# 2025-04-04 20:44 - fix: correct CSS responsive layout

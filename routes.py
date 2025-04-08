@@ -13,3 +13,4 @@
 # 2025-03-21 16:32 - feat: add caching layer with Redis
 # 2025-04-01 17:20 - perf: reduce bundle size by 30%
 # 2025-04-03 14:27 - feat: add caching layer with Redis
+# 2025-04-08 13:44 - fix: resolve memory leak issue

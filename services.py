@@ -17,3 +17,4 @@
 # 2025-04-09 16:19 - chore: update dependencies to latest
 # 2025-04-11 22:47 - feat: add caching layer with Redis
 # 2025-04-11 11:33 - feat: add search functionality
+# 2025-04-11 20:38 - docs: add API documentation

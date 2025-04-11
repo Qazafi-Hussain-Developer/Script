@@ -271,3 +271,4 @@
 # 2025-04-10 21:24 - fix: correct pagination bug
 # 2025-04-11 13:38 - feat: add search functionality
 # 2025-04-11 12:38 - perf: improve load time by 50%
+# 2025-04-11 14:05 - refactor: simplify error handling

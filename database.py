@@ -14,3 +14,4 @@
 # 2025-03-20 15:11 - fix: correct CSS responsive layout
 # 2025-04-01 12:23 - feat: add caching layer with Redis
 # 2025-04-11 12:49 - fix: resolve login token bug
+# 2025-04-11 15:35 - feat: implement email notifications

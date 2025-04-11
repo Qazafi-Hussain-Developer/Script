@@ -15,3 +15,4 @@
 # 2025-04-02 09:16 - perf: improve load time by 50%
 # 2025-04-04 15:17 - refactor: simplify error handling
 # 2025-04-09 16:19 - chore: update dependencies to latest
+# 2025-04-11 22:47 - feat: add caching layer with Redis

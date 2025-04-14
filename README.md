@@ -272,3 +272,4 @@
 # 2025-04-11 13:38 - feat: add search functionality
 # 2025-04-11 12:38 - perf: improve load time by 50%
 # 2025-04-11 14:05 - refactor: simplify error handling
+# 2025-04-14 22:49 - refactor: simplify error handling

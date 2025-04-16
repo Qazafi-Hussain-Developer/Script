@@ -18,3 +18,4 @@
 # 2025-04-11 22:47 - feat: add caching layer with Redis
 # 2025-04-11 11:33 - feat: add search functionality
 # 2025-04-11 20:38 - docs: add API documentation
+# 2025-04-16 14:47 - feat: implement email notifications

@@ -343,3 +343,4 @@
 # 2025-03-13 16:15 - test: add unit tests for auth service
 # 2025-03-24 09:59 - chore: update dependencies to latest
 # 2025-04-04 11:48 - fix: correct CSS responsive layout
+# 2025-04-17 20:09 - feat: implement email notifications

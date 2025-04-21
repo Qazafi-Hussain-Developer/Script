@@ -20,3 +20,4 @@
 # 2025-04-11 20:38 - docs: add API documentation
 # 2025-04-16 14:47 - feat: implement email notifications
 # 2025-04-17 12:27 - fix: correct CSS responsive layout
+# 2025-04-21 20:36 - feat: add file upload feature

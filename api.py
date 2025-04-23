@@ -181,3 +181,4 @@
 # Update: 2025-04-10T20:01:36 - docs: add API documentation
 # Update: 2025-04-11T10:26:54 - perf: reduce bundle size by 30%
 # Update: 2025-04-11T19:18:20 - fix: resolve login token bug
+# Update: 2025-04-23T20:00:57 - refactor: clean up API handlers

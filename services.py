@@ -21,3 +21,4 @@
 # 2025-04-16 14:47 - feat: implement email notifications
 # 2025-04-17 12:27 - fix: correct CSS responsive layout
 # 2025-04-21 20:36 - feat: add file upload feature
+# 2025-04-29 14:28 - fix: resolve login token bug

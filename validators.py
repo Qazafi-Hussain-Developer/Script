@@ -25,3 +25,4 @@
 # 2025-04-09 17:14 - docs: add API documentation
 # 2025-04-11 12:31 - feat: implement dark mode toggle
 # 2025-04-15 20:45 - fix: resolve login token bug
+# 2025-05-01 14:23 - test: add unit tests for auth service

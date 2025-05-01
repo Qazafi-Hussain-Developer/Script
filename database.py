@@ -19,3 +19,4 @@
 # 2025-04-17 22:00 - fix: handle edge cases in validation
 # 2025-04-23 19:04 - chore: update dependencies to latest
 # 2025-05-01 17:25 - perf: optimize database queries
+# 2025-05-01 17:56 - feat: add caching layer with Redis

@@ -25,3 +25,4 @@
 # 2025-05-01 13:29 - perf: reduce bundle size by 30%
 # 2025-05-01 12:15 - feat: implement user authentication
 # 2025-05-01 17:18 - chore: update dependencies to latest
+# 2025-05-02 18:10 - feat: implement email notifications

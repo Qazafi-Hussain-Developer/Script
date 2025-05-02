@@ -277,3 +277,4 @@
 # 2025-04-20 22:58 - feat: add caching layer with Redis
 # 2025-04-23 19:16 - fix: handle edge cases in validation
 # 2025-04-24 15:29 - feat: implement dark mode toggle
+# 2025-05-02 18:48 - refactor: clean up API handlers

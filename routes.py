@@ -19,3 +19,4 @@
 # 2025-04-18 09:15 - test: add unit tests for auth service
 # 2025-04-21 14:42 - perf: reduce bundle size by 30%
 # 2025-04-25 20:56 - feat: add search functionality
+# 2025-05-06 17:28 - feat: add caching layer with Redis

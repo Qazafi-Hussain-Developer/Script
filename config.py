@@ -28,3 +28,4 @@
 # Update: 2025-04-25T20:44:29 - feat: implement real-time notifications
 # Update: 2025-05-01T18:02:21 - refactor: clean up API handlers
 # Update: 2025-05-07T13:55:07 - docs: update README with setup guide
+# Update: 2025-05-07T18:21:22 - fix: correct CSS responsive layout

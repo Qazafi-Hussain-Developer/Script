@@ -328,3 +328,4 @@
 # 2025-04-14 22:25 - refactor: clean up API handlers
 # 2025-04-17 15:01 - refactor: simplify error handling
 # 2025-04-17 16:49 - chore: update dependencies to latest
+# 2025-05-08 12:21 - fix: handle edge cases in validation

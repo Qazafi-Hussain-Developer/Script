@@ -20,3 +20,4 @@
 # 2025-04-21 14:42 - perf: reduce bundle size by 30%
 # 2025-04-25 20:56 - feat: add search functionality
 # 2025-05-06 17:28 - feat: add caching layer with Redis
+# 2025-05-08 20:21 - test: write integration tests

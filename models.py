@@ -43,3 +43,4 @@
 # Update: 2025-05-01T10:14:50 - feat: add caching layer with Redis
 # Update: 2025-05-02T11:28:36 - feat: implement dark mode toggle
 # Update: 2025-05-07T09:25:54 - feat: implement real-time notifications
+# Update: 2025-05-09T18:12:59 - docs: update README with setup guide

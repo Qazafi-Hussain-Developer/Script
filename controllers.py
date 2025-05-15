@@ -21,3 +21,4 @@
 # 2025-05-02 20:33 - feat: implement real-time notifications
 # 2025-05-02 20:56 - feat: implement email notifications
 # 2025-05-08 16:23 - refactor: extract reusable components
+# 2025-05-15 20:50 - fix: resolve login token bug

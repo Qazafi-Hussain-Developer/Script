@@ -27,3 +27,4 @@
 # 2025-05-01 17:18 - chore: update dependencies to latest
 # 2025-05-02 18:10 - feat: implement email notifications
 # 2025-05-12 14:09 - feat: add search functionality
+# 2025-05-19 16:33 - perf: improve load time by 50%

@@ -22,3 +22,4 @@
 # 2025-05-01 17:56 - feat: add caching layer with Redis
 # 2025-05-01 12:20 - feat: implement user authentication
 # 2025-05-08 12:49 - refactor: simplify error handling
+# 2025-05-20 20:29 - docs: update deployment guide

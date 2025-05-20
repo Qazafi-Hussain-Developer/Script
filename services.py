@@ -28,3 +28,4 @@
 # 2025-05-02 18:10 - feat: implement email notifications
 # 2025-05-12 14:09 - feat: add search functionality
 # 2025-05-19 16:33 - perf: improve load time by 50%
+# 2025-05-20 19:21 - fix: correct pagination bug

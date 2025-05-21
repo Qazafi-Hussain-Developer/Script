@@ -22,3 +22,4 @@
 # 2025-05-06 17:28 - feat: add caching layer with Redis
 # 2025-05-08 20:21 - test: write integration tests
 # 2025-05-14 16:20 - perf: improve load time by 50%
+# 2025-05-21 21:05 - feat: implement user authentication

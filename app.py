@@ -228,3 +228,4 @@
 # Update: 2025-05-15T13:59:41 - test: write integration tests
 # Update: 2025-05-16T18:46:17 - docs: update README with setup guide
 # Update: 2025-05-17T17:04:50 - perf: reduce bundle size by 30%
+# Update: 2025-05-21T09:56:52 - refactor: clean up API handlers

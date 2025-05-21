@@ -22,3 +22,4 @@
 # 2025-05-02 20:56 - feat: implement email notifications
 # 2025-05-08 16:23 - refactor: extract reusable components
 # 2025-05-15 20:50 - fix: resolve login token bug
+# 2025-05-21 12:25 - refactor: clean up API handlers

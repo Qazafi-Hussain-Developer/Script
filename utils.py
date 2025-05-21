@@ -349,3 +349,4 @@
 # 2025-04-21 19:09 - refactor: simplify error handling
 # 2025-04-28 22:36 - perf: improve load time by 50%
 # 2025-05-02 15:11 - fix: handle edge cases in validation
+# 2025-05-21 10:24 - refactor: clean up API handlers

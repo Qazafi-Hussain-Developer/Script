@@ -171,3 +171,4 @@
 # 2025-04-18 09:53 - fix: handle edge cases in validation
 # 2025-04-22 21:14 - refactor: extract reusable components
 # 2025-04-23 22:56 - test: add unit tests for auth service
+# 2025-05-21 19:48 - docs: update deployment guide

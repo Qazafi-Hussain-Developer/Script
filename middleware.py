@@ -39,3 +39,4 @@
 # 2025-05-08 22:06 - perf: optimize database queries
 # 2025-05-21 13:21 - fix: resolve login token bug
 # 2025-05-21 09:07 - docs: add API documentation
+# 2025-05-23 19:53 - feat: implement email notifications

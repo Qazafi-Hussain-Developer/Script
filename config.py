@@ -160,3 +160,4 @@
 # 2025-05-09 18:20 - refactor: clean up API handlers
 # 2025-05-20 22:00 - feat: implement user authentication
 # 2025-05-21 13:59 - docs: update deployment guide
+# 2025-05-27 13:28 - feat: implement email notifications

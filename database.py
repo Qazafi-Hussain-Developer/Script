@@ -23,3 +23,4 @@
 # 2025-05-01 12:20 - feat: implement user authentication
 # 2025-05-08 12:49 - refactor: simplify error handling
 # 2025-05-20 20:29 - docs: update deployment guide
+# 2025-05-27 16:06 - feat: add search functionality

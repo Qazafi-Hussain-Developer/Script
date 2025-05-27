@@ -27,3 +27,4 @@
 # 2025-04-15 20:45 - fix: resolve login token bug
 # 2025-05-01 14:23 - test: add unit tests for auth service
 # 2025-05-06 09:20 - perf: reduce bundle size by 30%
+# 2025-05-27 22:29 - fix: correct CSS responsive layout

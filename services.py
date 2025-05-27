@@ -29,3 +29,4 @@
 # 2025-05-12 14:09 - feat: add search functionality
 # 2025-05-19 16:33 - perf: improve load time by 50%
 # 2025-05-20 19:21 - fix: correct pagination bug
+# 2025-05-27 14:52 - refactor: extract reusable components

@@ -24,3 +24,4 @@
 # 2025-05-14 16:20 - perf: improve load time by 50%
 # 2025-05-21 21:05 - feat: implement user authentication
 # 2025-05-23 22:29 - fix: handle edge cases in validation
+# 2025-05-27 12:35 - refactor: clean up API handlers

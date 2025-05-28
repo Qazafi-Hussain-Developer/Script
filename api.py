@@ -192,3 +192,4 @@
 # Update: 2025-05-22T09:30:33 - chore: update dependencies to latest
 # Update: 2025-05-22T10:05:49 - docs: update README with setup guide
 # Update: 2025-05-26T13:38:46 - feat: implement real-time notifications
+# Update: 2025-05-28T09:26:10 - docs: update README with setup guide

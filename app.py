@@ -330,3 +330,4 @@
 # 2025-04-17 16:49 - chore: update dependencies to latest
 # 2025-05-08 12:21 - fix: handle edge cases in validation
 # 2025-05-27 19:09 - test: write integration tests
+# 2025-05-28 21:12 - fix: correct pagination bug

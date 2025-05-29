@@ -231,3 +231,4 @@
 # Update: 2025-05-16T14:03:37 - feat: implement user authentication
 # Update: 2025-05-19T15:08:32 - test: write integration tests
 # Update: 2025-05-22T09:08:35 - fix: resolve login token bug
+# Update: 2025-05-29T11:48:29 - docs: update README with setup guide

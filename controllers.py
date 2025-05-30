@@ -23,3 +23,4 @@
 # 2025-05-08 16:23 - refactor: extract reusable components
 # 2025-05-15 20:50 - fix: resolve login token bug
 # 2025-05-21 12:25 - refactor: clean up API handlers
+# 2025-05-30 19:42 - chore: update dependencies to latest

@@ -24,3 +24,4 @@
 # 2025-05-15 20:50 - fix: resolve login token bug
 # 2025-05-21 12:25 - refactor: clean up API handlers
 # 2025-05-30 19:42 - chore: update dependencies to latest
+# 2025-06-02 09:16 - feat: add file upload feature

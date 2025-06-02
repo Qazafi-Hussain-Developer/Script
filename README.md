@@ -280,3 +280,4 @@
 # 2025-05-02 18:48 - refactor: clean up API handlers
 # 2025-05-19 13:59 - feat: add search functionality
 # 2025-05-23 20:00 - refactor: extract reusable components
+# 2025-06-02 15:10 - feat: implement email notifications

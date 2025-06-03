@@ -42,3 +42,4 @@
 # 2025-05-23 19:53 - feat: implement email notifications
 # 2025-05-27 20:40 - test: write integration tests
 # 2025-06-02 10:04 - fix: handle edge cases in validation
+# 2025-06-03 12:11 - feat: add caching layer with Redis

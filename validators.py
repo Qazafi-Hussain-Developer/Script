@@ -30,3 +30,4 @@
 # 2025-05-27 22:29 - fix: correct CSS responsive layout
 # 2025-05-27 09:30 - fix: resolve login token bug
 # 2025-05-29 19:55 - feat: add payment gateway integration
+# 2025-06-03 16:24 - refactor: simplify error handling

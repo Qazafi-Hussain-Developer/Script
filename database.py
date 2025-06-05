@@ -25,3 +25,4 @@
 # 2025-05-20 20:29 - docs: update deployment guide
 # 2025-05-27 16:06 - feat: add search functionality
 # 2025-05-28 09:45 - fix: resolve memory leak issue
+# 2025-06-05 15:19 - perf: reduce bundle size by 30%

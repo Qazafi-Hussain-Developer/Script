@@ -43,3 +43,4 @@
 # 2025-05-27 20:40 - test: write integration tests
 # 2025-06-02 10:04 - fix: handle edge cases in validation
 # 2025-06-03 12:11 - feat: add caching layer with Redis
+# 2025-06-05 21:54 - refactor: simplify error handling

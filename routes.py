@@ -28,3 +28,4 @@
 # 2025-05-28 18:00 - feat: add payment gateway integration
 # 2025-05-30 09:27 - feat: implement email notifications
 # 2025-06-04 11:46 - feat: implement email notifications
+# 2025-06-05 15:12 - feat: implement real-time notifications

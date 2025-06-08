@@ -33,3 +33,4 @@
 # 2025-06-03 16:24 - refactor: simplify error handling
 # 2025-06-04 19:54 - feat: add caching layer with Redis
 # 2025-06-05 16:14 - fix: correct CSS responsive layout
+# 2025-06-08 16:55 - perf: reduce bundle size by 30%

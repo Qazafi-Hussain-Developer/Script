@@ -173,3 +173,4 @@
 # 2025-04-23 22:56 - test: add unit tests for auth service
 # 2025-05-21 19:48 - docs: update deployment guide
 # 2025-06-02 16:46 - docs: add API documentation
+# 2025-06-08 21:11 - fix: handle edge cases in validation

@@ -331,3 +331,4 @@
 # 2025-05-08 12:21 - fix: handle edge cases in validation
 # 2025-05-27 19:09 - test: write integration tests
 # 2025-05-28 21:12 - fix: correct pagination bug
+# 2025-06-10 16:29 - fix: correct CSS responsive layout

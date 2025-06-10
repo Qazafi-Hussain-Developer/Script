@@ -235,3 +235,4 @@
 # Update: 2025-05-30T16:51:41 - feat: add payment gateway integration
 # Update: 2025-06-02T16:22:49 - feat: implement dark mode toggle
 # Update: 2025-06-03T15:02:50 - fix: correct CSS responsive layout
+# Update: 2025-06-10T14:13:01 - docs: update README with setup guide

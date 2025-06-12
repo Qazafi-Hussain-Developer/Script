@@ -27,3 +27,4 @@
 # 2025-06-02 09:16 - feat: add file upload feature
 # 2025-06-05 13:36 - fix: correct CSS responsive layout
 # 2025-06-10 20:20 - test: write integration tests
+# 2025-06-12 17:30 - feat: add search functionality

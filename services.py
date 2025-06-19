@@ -33,3 +33,4 @@
 # 2025-05-27 21:38 - feat: implement email notifications
 # 2025-05-27 10:36 - fix: resolve login token bug
 # 2025-06-03 13:16 - fix: correct CSS responsive layout
+# 2025-06-19 10:00 - docs: update deployment guide

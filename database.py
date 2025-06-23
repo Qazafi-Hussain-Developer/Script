@@ -26,3 +26,4 @@
 # 2025-05-27 16:06 - feat: add search functionality
 # 2025-05-28 09:45 - fix: resolve memory leak issue
 # 2025-06-05 15:19 - perf: reduce bundle size by 30%
+# 2025-06-23 21:18 - fix: correct CSS responsive layout

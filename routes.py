@@ -33,3 +33,4 @@
 # 2025-06-19 21:54 - refactor: extract reusable components
 # 2025-06-23 19:53 - fix: resolve login token bug
 # 2025-06-24 14:51 - refactor: clean up API handlers
+# 2025-06-25 13:12 - feat: implement real-time notifications

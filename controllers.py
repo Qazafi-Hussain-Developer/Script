@@ -28,3 +28,4 @@
 # 2025-06-05 13:36 - fix: correct CSS responsive layout
 # 2025-06-10 20:20 - test: write integration tests
 # 2025-06-12 17:30 - feat: add search functionality
+# 2025-06-27 10:47 - refactor: simplify error handling

@@ -283,3 +283,4 @@
 # 2025-06-02 15:10 - feat: implement email notifications
 # 2025-06-04 12:01 - feat: add payment gateway integration
 # 2025-06-05 12:20 - feat: add caching layer with Redis
+# 2025-07-01 15:25 - docs: update deployment guide

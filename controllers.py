@@ -29,3 +29,4 @@
 # 2025-06-10 20:20 - test: write integration tests
 # 2025-06-12 17:30 - feat: add search functionality
 # 2025-06-27 10:47 - refactor: simplify error handling
+# 2025-07-02 19:12 - feat: add payment gateway integration

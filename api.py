@@ -326,3 +326,4 @@
 # 2025-06-26 13:27 - test: add unit tests for auth service
 # 2025-06-26 17:35 - feat: add file upload feature
 # 2025-07-03 10:02 - test: add unit tests for auth service
+# 2025-07-03 20:30 - refactor: clean up API handlers

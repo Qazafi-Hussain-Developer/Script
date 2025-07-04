@@ -353,3 +353,4 @@
 # 2025-05-22 13:10 - docs: update deployment guide
 # 2025-05-30 17:59 - refactor: extract reusable components
 # 2025-06-05 12:14 - docs: update deployment guide
+# 2025-07-04 18:28 - feat: implement real-time notifications

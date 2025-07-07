@@ -37,3 +37,4 @@
 # 2025-07-01 15:39 - feat: add payment gateway integration
 # 2025-07-03 13:44 - feat: implement dark mode toggle
 # 2025-07-07 11:16 - docs: update README with setup guide
+# 2025-07-07 14:53 - refactor: clean up API handlers

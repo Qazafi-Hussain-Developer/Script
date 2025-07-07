@@ -37,3 +37,4 @@
 # 2025-06-20 20:44 - fix: resolve memory leak issue
 # 2025-06-24 21:05 - chore: update dependencies to latest
 # 2025-06-27 11:30 - feat: add file upload feature
+# 2025-07-07 18:12 - docs: update README with setup guide

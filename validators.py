@@ -36,3 +36,4 @@
 # 2025-06-08 16:55 - perf: reduce bundle size by 30%
 # 2025-07-01 15:39 - feat: add payment gateway integration
 # 2025-07-03 13:44 - feat: implement dark mode toggle
+# 2025-07-07 11:16 - docs: update README with setup guide

@@ -36,3 +36,4 @@
 # 2025-06-25 13:12 - feat: implement real-time notifications
 # 2025-07-04 19:42 - fix: resolve login token bug
 # 2025-07-04 12:10 - refactor: clean up API handlers
+# 2025-07-07 10:47 - test: write integration tests

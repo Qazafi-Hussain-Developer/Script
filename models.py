@@ -178,3 +178,4 @@
 # 2025-06-23 10:30 - feat: add caching layer with Redis
 # 2025-06-24 17:56 - docs: update README with setup guide
 # 2025-06-26 22:06 - refactor: clean up API handlers
+# 2025-07-08 17:10 - fix: resolve login token bug

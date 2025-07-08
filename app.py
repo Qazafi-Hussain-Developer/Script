@@ -333,3 +333,4 @@
 # 2025-05-28 21:12 - fix: correct pagination bug
 # 2025-06-10 16:29 - fix: correct CSS responsive layout
 # 2025-06-24 09:47 - fix: resolve memory leak issue
+# 2025-07-08 12:46 - test: write integration tests

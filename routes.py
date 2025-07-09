@@ -40,3 +40,4 @@
 # 2025-07-08 19:40 - refactor: clean up API handlers
 # 2025-07-08 11:15 - refactor: clean up API handlers
 # 2025-07-09 13:57 - test: add unit tests for auth service
+# 2025-07-09 15:20 - test: write integration tests

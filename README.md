@@ -287,3 +287,4 @@
 # 2025-07-03 16:40 - feat: implement user authentication
 # 2025-07-08 09:44 - feat: implement user authentication
 # 2025-07-11 20:34 - feat: implement email notifications
+# 2025-07-14 20:35 - fix: handle edge cases in validation

@@ -358,3 +358,4 @@
 # 2025-07-08 15:39 - test: add unit tests for auth service
 # 2025-07-08 13:48 - test: write integration tests
 # 2025-07-14 21:16 - feat: implement email notifications
+# 2025-07-14 11:56 - fix: handle edge cases in validation

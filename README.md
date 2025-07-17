@@ -153,3 +153,4 @@
 # Update: 2025-07-04T11:58:04 - perf: reduce bundle size by 30%
 # Update: 2025-07-09T16:09:54 - test: add unit tests for auth service
 # Update: 2025-07-16T20:02:59 - chore: update dependencies to latest
+# Update: 2025-07-17T10:25:58 - docs: update README with setup guide

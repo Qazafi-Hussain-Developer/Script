@@ -247,3 +247,4 @@
 # Update: 2025-07-14T09:53:26 - fix: correct CSS responsive layout
 # Update: 2025-07-14T20:09:38 - test: write integration tests
 # Update: 2025-07-16T14:27:51 - fix: resolve memory leak issue
+# Update: 2025-07-17T20:08:42 - refactor: clean up API handlers

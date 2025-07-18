@@ -32,3 +32,4 @@
 # 2025-07-08 20:36 - fix: resolve memory leak issue
 # 2025-07-09 20:07 - perf: reduce bundle size by 30%
 # 2025-07-16 20:03 - fix: resolve memory leak issue
+# 2025-07-18 14:33 - feat: add file upload feature

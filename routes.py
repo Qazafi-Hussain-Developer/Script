@@ -42,3 +42,4 @@
 # 2025-07-09 13:57 - test: add unit tests for auth service
 # 2025-07-09 15:20 - test: write integration tests
 # 2025-07-24 17:55 - refactor: extract reusable components
+# 2025-07-25 15:19 - docs: update deployment guide

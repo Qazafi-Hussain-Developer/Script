@@ -41,3 +41,4 @@
 # 2025-07-08 22:25 - feat: add caching layer with Redis
 # 2025-07-09 13:03 - perf: optimize database queries
 # 2025-07-24 22:14 - feat: implement email notifications
+# 2025-07-29 15:50 - feat: implement dark mode toggle

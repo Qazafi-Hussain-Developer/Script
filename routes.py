@@ -44,3 +44,4 @@
 # 2025-07-24 17:55 - refactor: extract reusable components
 # 2025-07-25 15:19 - docs: update deployment guide
 # 2025-07-25 10:03 - docs: update README with setup guide
+# 2025-07-29 20:23 - test: write integration tests

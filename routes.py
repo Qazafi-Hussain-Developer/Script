@@ -47,3 +47,4 @@
 # 2025-07-29 20:23 - test: write integration tests
 # 2025-07-30 19:27 - docs: update README with setup guide
 # 2025-07-30 20:58 - feat: implement email notifications
+# 2025-08-07 22:53 - test: add unit tests for auth service

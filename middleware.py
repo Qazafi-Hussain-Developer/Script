@@ -45,3 +45,4 @@
 # 2025-06-03 12:11 - feat: add caching layer with Redis
 # 2025-06-05 21:54 - refactor: simplify error handling
 # 2025-06-23 19:27 - perf: optimize database queries
+# 2025-08-07 16:26 - fix: correct CSS responsive layout

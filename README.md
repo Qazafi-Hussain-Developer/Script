@@ -158,3 +158,4 @@
 # Update: 2025-07-17T16:51:27 - perf: optimize database queries
 # Update: 2025-07-18T20:42:42 - feat: add file upload feature
 # Update: 2025-08-03T17:53:46 - feat: add payment gateway integration
+# Update: 2025-08-07T12:49:47 - docs: update README with setup guide

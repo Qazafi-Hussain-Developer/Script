@@ -36,3 +36,4 @@
 # 2025-07-23 11:49 - feat: implement user authentication
 # 2025-07-30 15:24 - perf: improve load time by 50%
 # 2025-08-07 14:57 - feat: implement user authentication
+# 2025-08-08 17:00 - feat: implement email notifications

@@ -37,3 +37,4 @@
 # 2025-07-28 16:41 - fix: correct pagination bug
 # 2025-07-30 14:45 - perf: optimize database queries
 # 2025-08-07 20:45 - fix: correct pagination bug
+# 2025-08-12 12:30 - fix: resolve login token bug

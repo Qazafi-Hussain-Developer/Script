@@ -338,3 +338,4 @@
 # 2025-07-08 17:51 - feat: add caching layer with Redis
 # 2025-07-09 11:35 - chore: update dependencies to latest
 # 2025-08-08 18:18 - refactor: simplify error handling
+# 2025-08-12 16:02 - fix: correct pagination bug

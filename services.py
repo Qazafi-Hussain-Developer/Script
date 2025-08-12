@@ -40,3 +40,4 @@
 # 2025-07-07 18:12 - docs: update README with setup guide
 # 2025-07-07 17:25 - feat: implement real-time notifications
 # 2025-07-31 17:38 - test: add unit tests for auth service
+# 2025-08-12 12:55 - feat: add search functionality

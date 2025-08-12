@@ -44,3 +44,4 @@
 # 2025-07-29 15:50 - feat: implement dark mode toggle
 # 2025-07-31 18:52 - feat: implement real-time notifications
 # 2025-08-01 09:40 - feat: implement email notifications
+# 2025-08-12 22:21 - docs: update README with setup guide

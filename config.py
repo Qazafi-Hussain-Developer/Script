@@ -50,3 +50,4 @@
 # Update: 2025-08-07T19:57:51 - perf: reduce bundle size by 30%
 # Update: 2025-08-08T11:29:06 - fix: resolve login token bug
 # Update: 2025-08-13T17:02:24 - chore: update dependencies to latest
+# Update: 2025-08-14T17:21:37 - fix: resolve memory leak issue

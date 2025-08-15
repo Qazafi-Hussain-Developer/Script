@@ -47,3 +47,4 @@
 # 2025-06-23 19:27 - perf: optimize database queries
 # 2025-08-07 16:26 - fix: correct CSS responsive layout
 # 2025-08-07 17:29 - feat: implement email notifications
+# 2025-08-15 21:22 - perf: reduce bundle size by 30%

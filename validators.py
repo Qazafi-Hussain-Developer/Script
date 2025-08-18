@@ -46,3 +46,4 @@
 # 2025-08-01 09:40 - feat: implement email notifications
 # 2025-08-12 22:21 - docs: update README with setup guide
 # 2025-08-13 11:37 - refactor: clean up API handlers
+# 2025-08-18 15:55 - feat: implement real-time notifications

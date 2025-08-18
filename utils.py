@@ -257,3 +257,4 @@
 # Update: 2025-08-05T18:46:51 - fix: correct CSS responsive layout
 # Update: 2025-08-07T19:57:42 - feat: implement user authentication
 # Update: 2025-08-08T20:57:26 - test: add unit tests for auth service
+# Update: 2025-08-18T14:05:56 - docs: update README with setup guide

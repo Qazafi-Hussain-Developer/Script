@@ -161,3 +161,4 @@
 # Update: 2025-08-07T12:49:47 - docs: update README with setup guide
 # Update: 2025-08-08T13:28:44 - feat: implement real-time notifications
 # Update: 2025-08-18T12:22:17 - feat: implement real-time notifications
+# Update: 2025-08-19T15:04:40 - docs: update README with setup guide

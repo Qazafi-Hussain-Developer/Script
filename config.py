@@ -178,3 +178,4 @@
 # 2025-08-01 16:44 - refactor: simplify error handling
 # 2025-08-12 18:02 - fix: correct pagination bug
 # 2025-08-12 10:43 - fix: correct CSS responsive layout
+# 2025-08-21 21:06 - refactor: clean up API handlers

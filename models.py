@@ -81,3 +81,4 @@
 # Update: 2025-08-08T17:32:03 - fix: correct CSS responsive layout
 # Update: 2025-08-14T14:36:24 - feat: add file upload feature
 # Update: 2025-08-15T14:53:24 - docs: add API documentation
+# Update: 2025-08-27T10:01:15 - docs: update README with setup guide

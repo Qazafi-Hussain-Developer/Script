@@ -180,3 +180,4 @@
 # 2025-08-12 10:43 - fix: correct CSS responsive layout
 # 2025-08-21 21:06 - refactor: clean up API handlers
 # 2025-08-22 17:36 - fix: resolve memory leak issue
+# 2025-08-28 17:55 - test: write integration tests

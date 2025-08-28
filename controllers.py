@@ -39,3 +39,4 @@
 # 2025-08-08 17:00 - feat: implement email notifications
 # 2025-08-12 13:48 - feat: add payment gateway integration
 # 2025-08-12 09:24 - test: write integration tests
+# 2025-08-28 11:10 - feat: add payment gateway integration

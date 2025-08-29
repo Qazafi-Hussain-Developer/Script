@@ -52,3 +52,4 @@
 # 2025-08-15 11:29 - feat: add file upload feature
 # 2025-08-19 20:39 - feat: add caching layer with Redis
 # 2025-08-26 14:26 - feat: add file upload feature
+# 2025-08-29 12:33 - feat: implement dark mode toggle

@@ -43,3 +43,4 @@
 # 2025-08-12 12:55 - feat: add search functionality
 # 2025-08-15 17:46 - feat: add search functionality
 # 2025-08-29 09:14 - docs: update README with setup guide
+# 2025-08-29 21:17 - refactor: simplify error handling

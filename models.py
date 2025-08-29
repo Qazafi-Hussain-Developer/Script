@@ -188,3 +188,4 @@
 # 2025-08-14 17:37 - test: write integration tests
 # 2025-08-14 22:52 - feat: add payment gateway integration
 # 2025-08-22 21:26 - docs: add API documentation
+# 2025-08-29 22:51 - docs: update README with setup guide

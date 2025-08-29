@@ -42,3 +42,4 @@
 # 2025-07-31 17:38 - test: add unit tests for auth service
 # 2025-08-12 12:55 - feat: add search functionality
 # 2025-08-15 17:46 - feat: add search functionality
+# 2025-08-29 09:14 - docs: update README with setup guide

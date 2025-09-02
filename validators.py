@@ -48,3 +48,4 @@
 # 2025-08-13 11:37 - refactor: clean up API handlers
 # 2025-08-18 15:55 - feat: implement real-time notifications
 # 2025-08-22 20:19 - feat: add payment gateway integration
+# 2025-09-02 13:32 - docs: add API documentation

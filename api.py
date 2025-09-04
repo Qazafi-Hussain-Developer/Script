@@ -344,3 +344,4 @@
 # 2025-08-29 09:00 - feat: implement dark mode toggle
 # 2025-09-01 12:48 - perf: reduce bundle size by 30%
 # 2025-09-02 15:44 - feat: add payment gateway integration
+# 2025-09-04 19:40 - refactor: clean up API handlers

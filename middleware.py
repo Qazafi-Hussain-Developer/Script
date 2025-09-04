@@ -52,3 +52,4 @@
 # 2025-08-28 10:27 - fix: correct CSS responsive layout
 # 2025-08-29 15:13 - feat: implement email notifications
 # 2025-08-29 12:51 - refactor: simplify error handling
+# 2025-09-04 12:20 - feat: add caching layer with Redis

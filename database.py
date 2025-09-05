@@ -40,3 +40,4 @@
 # 2025-08-12 12:30 - fix: resolve login token bug
 # 2025-08-18 18:54 - docs: update deployment guide
 # 2025-08-29 13:22 - fix: resolve login token bug
+# 2025-09-05 10:34 - feat: implement real-time notifications

@@ -52,3 +52,4 @@
 # 2025-09-04 17:18 - fix: resolve login token bug
 # 2025-09-04 22:32 - docs: update README with setup guide
 # 2025-09-05 19:36 - feat: add search functionality
+# 2025-09-12 10:32 - feat: add caching layer with Redis

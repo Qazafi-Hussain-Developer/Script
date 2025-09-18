@@ -54,3 +54,4 @@
 # 2025-08-29 12:51 - refactor: simplify error handling
 # 2025-09-04 12:20 - feat: add caching layer with Redis
 # 2025-09-05 18:20 - feat: implement dark mode toggle
+# 2025-09-18 19:53 - fix: correct pagination bug

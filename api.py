@@ -348,3 +348,4 @@
 # 2025-09-11 10:36 - refactor: clean up API handlers
 # 2025-09-11 15:57 - feat: implement dark mode toggle
 # 2025-09-15 14:24 - docs: update README with setup guide
+# 2025-09-23 12:29 - feat: add search functionality

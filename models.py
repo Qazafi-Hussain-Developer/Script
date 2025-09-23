@@ -193,3 +193,4 @@
 # 2025-09-11 17:43 - perf: optimize database queries
 # 2025-09-11 19:27 - test: add unit tests for auth service
 # 2025-09-12 20:51 - feat: implement email notifications
+# 2025-09-23 22:43 - feat: add caching layer with Redis

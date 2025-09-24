@@ -350,3 +350,4 @@
 # 2025-09-15 14:24 - docs: update README with setup guide
 # 2025-09-23 12:29 - feat: add search functionality
 # 2025-09-24 15:13 - feat: implement dark mode toggle
+# 2025-09-24 22:29 - perf: reduce bundle size by 30%

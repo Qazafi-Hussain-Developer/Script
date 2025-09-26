@@ -56,3 +56,4 @@
 # 2025-09-05 18:20 - feat: implement dark mode toggle
 # 2025-09-18 19:53 - fix: correct pagination bug
 # 2025-09-23 17:26 - fix: handle edge cases in validation
+# 2025-09-26 14:47 - docs: update README with setup guide

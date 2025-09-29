@@ -178,3 +178,4 @@
 # Update: 2025-09-22T12:56:42 - docs: add API documentation
 # Update: 2025-09-24T14:39:08 - chore: update dependencies to latest
 # Update: 2025-09-29T17:01:52 - fix: handle edge cases in validation
+# Update: 2025-09-29T13:06:36 - docs: update README with setup guide

@@ -354,3 +354,4 @@
 # 2025-09-24 19:09 - fix: correct CSS responsive layout
 # 2025-09-26 13:06 - feat: implement email notifications
 # 2025-09-29 13:32 - perf: optimize database queries
+# 2025-10-01 21:47 - docs: update deployment guide

@@ -198,3 +198,4 @@
 # 2025-09-24 10:45 - perf: reduce bundle size by 30%
 # 2025-09-29 09:37 - refactor: clean up API handlers
 # 2025-10-03 19:32 - docs: update deployment guide
+# 2025-10-03 19:02 - fix: correct CSS responsive layout

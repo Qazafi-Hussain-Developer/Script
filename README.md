@@ -301,3 +301,4 @@
 # 2025-10-03 21:59 - docs: add API documentation
 # 2025-10-09 12:55 - fix: resolve login token bug
 # 2025-10-10 11:31 - test: write integration tests
+# 2025-10-10 21:13 - fix: resolve memory leak issue

@@ -58,3 +58,4 @@
 # 2025-09-24 19:22 - docs: update README with setup guide
 # 2025-10-03 20:28 - feat: add file upload feature
 # 2025-10-10 21:03 - fix: correct CSS responsive layout
+# 2025-10-12 18:59 - refactor: clean up API handlers

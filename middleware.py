@@ -58,3 +58,4 @@
 # 2025-09-23 17:26 - fix: handle edge cases in validation
 # 2025-09-26 14:47 - docs: update README with setup guide
 # 2025-10-09 15:07 - docs: update README with setup guide
+# 2025-10-12 18:25 - feat: add caching layer with Redis

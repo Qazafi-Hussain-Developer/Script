@@ -61,3 +61,4 @@
 # 2025-10-10 11:10 - perf: reduce bundle size by 30%
 # 2025-10-11 15:55 - fix: correct pagination bug
 # 2025-10-12 17:07 - docs: update README with setup guide
+# 2025-10-13 10:15 - docs: add API documentation

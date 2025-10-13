@@ -47,3 +47,4 @@
 # 2025-09-26 12:51 - fix: resolve memory leak issue
 # 2025-09-26 12:59 - fix: resolve login token bug
 # 2025-10-09 15:28 - fix: handle edge cases in validation
+# 2025-10-13 15:11 - docs: update README with setup guide

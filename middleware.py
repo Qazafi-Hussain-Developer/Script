@@ -60,3 +60,4 @@
 # 2025-10-09 15:07 - docs: update README with setup guide
 # 2025-10-12 18:25 - feat: add caching layer with Redis
 # 2025-10-12 13:46 - fix: correct pagination bug
+# 2025-10-15 13:40 - perf: improve load time by 50%

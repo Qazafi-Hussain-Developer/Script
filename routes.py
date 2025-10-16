@@ -62,3 +62,4 @@
 # 2025-10-13 15:32 - chore: update dependencies to latest
 # 2025-10-13 18:52 - test: write integration tests
 # 2025-10-13 09:35 - feat: add caching layer with Redis
+# 2025-10-16 13:32 - perf: reduce bundle size by 30%

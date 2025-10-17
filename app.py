@@ -351,3 +351,4 @@
 # 2025-10-03 15:53 - feat: add search functionality
 # 2025-10-03 09:42 - fix: resolve login token bug
 # 2025-10-11 21:04 - docs: add API documentation
+# 2025-10-17 13:32 - docs: update deployment guide

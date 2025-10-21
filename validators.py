@@ -63,3 +63,4 @@
 # 2025-10-12 17:07 - docs: update README with setup guide
 # 2025-10-13 10:15 - docs: add API documentation
 # 2025-10-13 11:04 - perf: reduce bundle size by 30%
+# 2025-10-21 12:07 - feat: implement dark mode toggle

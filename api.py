@@ -360,3 +360,4 @@
 # 2025-10-13 14:46 - fix: correct CSS responsive layout
 # 2025-10-13 09:38 - docs: update README with setup guide
 # 2025-10-13 16:49 - test: write integration tests
+# 2025-10-24 19:27 - feat: implement email notifications

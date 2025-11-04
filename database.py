@@ -52,3 +52,4 @@
 # 2025-10-15 13:13 - feat: implement dark mode toggle
 # 2025-10-30 11:03 - docs: update README with setup guide
 # 2025-11-03 21:16 - docs: add API documentation
+# 2025-11-04 18:01 - fix: resolve login token bug

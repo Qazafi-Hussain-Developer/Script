@@ -259,3 +259,4 @@
 # Update: 2025-10-28T17:52:03 - refactor: extract reusable components
 # Update: 2025-10-28T12:40:07 - fix: resolve memory leak issue
 # Update: 2025-10-28T13:08:24 - feat: implement real-time notifications
+# Update: 2025-11-04T20:08:18 - docs: update README with setup guide

@@ -52,3 +52,4 @@
 # 2025-10-15 17:02 - test: write integration tests
 # 2025-10-22 22:40 - test: add unit tests for auth service
 # 2025-10-27 19:27 - refactor: extract reusable components
+# 2025-11-05 20:26 - fix: resolve login token bug

@@ -309,3 +309,4 @@
 # 2025-10-31 16:49 - feat: implement user authentication
 # 2025-11-12 20:45 - feat: add search functionality
 # 2025-11-14 13:34 - feat: add search functionality
+# 2025-11-19 20:27 - docs: update deployment guide

@@ -367,3 +367,4 @@
 # 2025-11-11 11:46 - feat: add caching layer with Redis
 # 2025-11-14 18:16 - feat: add caching layer with Redis
 # 2025-11-14 19:32 - test: write integration tests
+# 2025-11-19 10:28 - feat: add file upload feature

@@ -55,3 +55,4 @@
 # 2025-11-04 18:01 - fix: resolve login token bug
 # 2025-11-06 11:53 - feat: add payment gateway integration
 # 2025-11-11 09:59 - perf: reduce bundle size by 30%
+# 2025-11-20 17:59 - feat: add caching layer with Redis

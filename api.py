@@ -368,3 +368,4 @@
 # 2025-11-14 18:16 - feat: add caching layer with Redis
 # 2025-11-14 19:32 - test: write integration tests
 # 2025-11-19 10:28 - feat: add file upload feature
+# 2025-11-20 16:51 - fix: resolve login token bug

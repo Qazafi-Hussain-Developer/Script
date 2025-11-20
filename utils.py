@@ -376,3 +376,4 @@
 # 2025-10-28 10:20 - test: write integration tests
 # 2025-10-30 13:59 - fix: resolve memory leak issue
 # 2025-11-06 17:11 - feat: add caching layer with Redis
+# 2025-11-20 12:20 - fix: resolve login token bug

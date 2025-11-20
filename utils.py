@@ -377,3 +377,4 @@
 # 2025-10-30 13:59 - fix: resolve memory leak issue
 # 2025-11-06 17:11 - feat: add caching layer with Redis
 # 2025-11-20 12:20 - fix: resolve login token bug
+# 2025-11-20 16:02 - test: add unit tests for auth service

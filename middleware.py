@@ -61,3 +61,4 @@
 # 2025-10-12 18:25 - feat: add caching layer with Redis
 # 2025-10-12 13:46 - fix: correct pagination bug
 # 2025-10-15 13:40 - perf: improve load time by 50%
+# 2025-11-21 10:48 - fix: handle edge cases in validation

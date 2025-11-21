@@ -195,3 +195,4 @@
 # 2025-10-30 11:29 - fix: resolve memory leak issue
 # 2025-11-02 15:22 - chore: update dependencies to latest
 # 2025-11-03 12:46 - fix: resolve memory leak issue
+# 2025-11-21 15:28 - test: write integration tests

@@ -65,3 +65,4 @@
 # 2025-10-13 11:04 - perf: reduce bundle size by 30%
 # 2025-10-21 12:07 - feat: implement dark mode toggle
 # 2025-11-19 20:23 - chore: update dependencies to latest
+# 2025-11-23 16:52 - feat: implement email notifications

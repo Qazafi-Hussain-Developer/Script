@@ -55,3 +55,4 @@
 # 2025-11-05 20:26 - fix: resolve login token bug
 # 2025-11-05 11:18 - feat: add caching layer with Redis
 # 2025-11-20 12:20 - perf: optimize database queries
+# 2025-11-23 16:51 - fix: correct pagination bug

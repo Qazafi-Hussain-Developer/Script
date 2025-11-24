@@ -58,3 +58,4 @@
 # 2025-11-07 13:30 - chore: update dependencies to latest
 # 2025-11-20 19:48 - chore: update dependencies to latest
 # 2025-11-23 17:31 - docs: update deployment guide
+# 2025-11-24 09:09 - fix: correct pagination bug

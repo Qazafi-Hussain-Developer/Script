@@ -67,3 +67,4 @@
 # 2025-11-19 20:23 - chore: update dependencies to latest
 # 2025-11-23 16:52 - feat: implement email notifications
 # 2025-11-25 11:21 - refactor: extract reusable components
+# 2025-11-25 09:57 - refactor: clean up API handlers

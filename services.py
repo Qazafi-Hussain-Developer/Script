@@ -57,3 +57,4 @@
 # 2025-11-20 12:20 - perf: optimize database queries
 # 2025-11-23 16:51 - fix: correct pagination bug
 # 2025-11-23 16:53 - perf: optimize database queries
+# 2025-11-25 20:57 - refactor: clean up API handlers

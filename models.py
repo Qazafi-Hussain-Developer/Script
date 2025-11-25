@@ -107,3 +107,4 @@
 # Update: 2025-11-20T15:50:00 - feat: implement real-time notifications
 # Update: 2025-11-21T10:24:24 - feat: implement real-time notifications
 # Update: 2025-11-22T11:41:44 - fix: correct CSS responsive layout
+# Update: 2025-11-25T10:13:05 - docs: update README with setup guide

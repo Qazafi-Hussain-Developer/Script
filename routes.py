@@ -69,3 +69,4 @@
 # 2025-10-28 17:01 - feat: add caching layer with Redis
 # 2025-11-11 19:53 - test: add unit tests for auth service
 # 2025-11-23 18:29 - feat: implement user authentication
+# 2025-11-25 21:10 - feat: add search functionality

@@ -87,3 +87,4 @@
 # Update: 2025-11-27T19:43:58 - chore: update dependencies to latest
 # Update: 2025-11-28T15:38:24 - test: add unit tests for auth service
 # Update: 2025-12-01T20:08:46 - test: add unit tests for auth service
+# Update: 2025-12-02T11:23:05 - refactor: clean up API handlers

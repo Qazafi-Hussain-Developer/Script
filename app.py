@@ -265,3 +265,4 @@
 # Update: 2025-11-12T12:51:04 - refactor: clean up API handlers
 # Update: 2025-11-18T12:47:11 - feat: implement dark mode toggle
 # Update: 2025-11-26T18:41:49 - feat: add payment gateway integration
+# Update: 2025-12-02T17:48:44 - docs: update README with setup guide

@@ -358,3 +358,4 @@
 # 2025-11-05 15:21 - feat: implement real-time notifications
 # 2025-11-05 11:30 - refactor: extract reusable components
 # 2025-11-20 18:49 - chore: update dependencies to latest
+# 2025-12-04 16:22 - refactor: clean up API handlers

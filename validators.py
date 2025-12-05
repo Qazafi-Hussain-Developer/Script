@@ -69,3 +69,4 @@
 # 2025-11-25 11:21 - refactor: extract reusable components
 # 2025-11-25 09:57 - refactor: clean up API handlers
 # 2025-12-04 11:43 - refactor: extract reusable components
+# 2025-12-05 11:39 - feat: add payment gateway integration

@@ -380,3 +380,4 @@
 # 2025-11-20 16:02 - test: add unit tests for auth service
 # 2025-12-04 15:02 - perf: improve load time by 50%
 # 2025-12-09 18:48 - fix: correct CSS responsive layout
+# 2025-12-10 16:13 - feat: add caching layer with Redis

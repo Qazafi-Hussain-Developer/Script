@@ -314,3 +314,4 @@
 # 2025-12-02 22:13 - perf: improve load time by 50%
 # 2025-12-02 12:51 - fix: correct pagination bug
 # 2025-12-09 17:23 - docs: update README with setup guide
+# 2025-12-15 15:34 - docs: update README with setup guide

@@ -60,3 +60,4 @@
 # 2025-11-25 20:57 - refactor: clean up API handlers
 # 2025-12-02 10:36 - chore: update dependencies to latest
 # 2025-12-09 10:42 - test: add unit tests for auth service
+# 2025-12-15 09:13 - feat: add file upload feature

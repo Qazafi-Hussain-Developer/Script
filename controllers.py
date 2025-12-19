@@ -60,3 +60,4 @@
 # 2025-11-23 17:31 - docs: update deployment guide
 # 2025-11-24 09:09 - fix: correct pagination bug
 # 2025-12-10 10:06 - perf: improve load time by 50%
+# 2025-12-19 15:13 - feat: add search functionality

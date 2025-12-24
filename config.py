@@ -95,3 +95,4 @@
 # Update: 2025-12-10T09:52:47 - feat: implement real-time notifications
 # Update: 2025-12-18T11:12:19 - fix: handle edge cases in validation
 # Update: 2025-12-18T19:25:57 - fix: resolve memory leak issue
+# Update: 2025-12-24T14:32:52 - docs: update README with setup guide

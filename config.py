@@ -96,3 +96,4 @@
 # Update: 2025-12-18T11:12:19 - fix: handle edge cases in validation
 # Update: 2025-12-18T19:25:57 - fix: resolve memory leak issue
 # Update: 2025-12-24T14:32:52 - docs: update README with setup guide
+# Update: 2025-12-29T17:45:05 - docs: add API documentation

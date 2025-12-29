@@ -74,3 +74,4 @@
 # 2025-12-19 11:10 - feat: implement email notifications
 # 2025-12-26 09:43 - docs: update README with setup guide
 # 2025-12-26 10:51 - feat: implement email notifications
+# 2025-12-29 10:11 - fix: correct pagination bug

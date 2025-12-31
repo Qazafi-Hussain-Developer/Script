@@ -249,3 +249,4 @@
 # Update: 2025-12-04T13:39:35 - refactor: extract reusable components
 # Update: 2025-12-09T18:57:54 - feat: add file upload feature
 # Update: 2025-12-29T15:59:21 - fix: resolve login token bug
+# Update: 2025-12-31T14:30:31 - docs: update README with setup guide

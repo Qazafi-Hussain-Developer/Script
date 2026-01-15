@@ -126,3 +126,4 @@
 # Update: 2026-01-09T12:41:30 - feat: add caching layer with Redis
 # Update: 2026-01-13T13:11:00 - fix: resolve login token bug
 # Update: 2026-01-15T16:08:03 - feat: add caching layer with Redis
+# Update: 2026-01-15T10:35:44 - docs: update README with setup guide

@@ -220,3 +220,4 @@
 # Update: 2026-01-15T18:11:25 - perf: optimize database queries
 # Update: 2026-01-19T12:48:43 - docs: add API documentation
 # Update: 2026-01-19T09:02:28 - feat: add file upload feature
+# Update: 2026-01-21T20:32:24 - refactor: clean up API handlers

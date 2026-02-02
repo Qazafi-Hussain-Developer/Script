@@ -111,3 +111,4 @@
 # Update: 2026-01-26T09:36:02 - test: add unit tests for auth service
 # Update: 2026-01-30T13:48:22 - fix: resolve memory leak issue
 # Update: 2026-01-30T19:55:29 - feat: add payment gateway integration
+# Update: 2026-02-02T15:18:53 - docs: update README with setup guide

@@ -119,3 +119,4 @@
 # Update: 2026-02-11T10:10:57 - test: write integration tests
 # Update: 2026-02-16T16:52:33 - fix: correct CSS responsive layout
 # Update: 2026-02-16T17:55:13 - fix: correct CSS responsive layout
+# Update: 2026-02-23T09:29:58 - docs: update README with setup guide

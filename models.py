@@ -145,3 +145,4 @@
 # Update: 2026-02-23T10:40:58 - test: write integration tests
 # Update: 2026-02-25T12:24:44 - docs: add API documentation
 # Update: 2026-02-26T15:26:39 - docs: update README with setup guide
+# Update: 2026-02-26T17:59:57 - refactor: clean up API handlers

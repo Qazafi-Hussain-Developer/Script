@@ -144,3 +144,4 @@
 # Update: 2026-02-19T15:09:50 - fix: resolve login token bug
 # Update: 2026-02-23T10:40:58 - test: write integration tests
 # Update: 2026-02-25T12:24:44 - docs: add API documentation
+# Update: 2026-02-26T15:26:39 - docs: update README with setup guide

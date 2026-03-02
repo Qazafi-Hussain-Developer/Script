@@ -239,3 +239,4 @@
 # Update: 2026-02-24T09:44:56 - test: write integration tests
 # Update: 2026-02-27T15:54:37 - perf: reduce bundle size by 30%
 # Update: 2026-02-27T10:55:05 - fix: resolve login token bug
+# Update: 2026-03-02T09:56:48 - refactor: clean up API handlers

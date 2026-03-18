@@ -248,3 +248,4 @@
 # Update: 2026-03-10T17:57:49 - fix: resolve memory leak issue
 # Update: 2026-03-13T20:15:55 - perf: improve load time by 50%
 # Update: 2026-03-13T14:05:36 - docs: add API documentation
+# Update: 2026-03-18T20:32:02 - docs: update README with setup guide

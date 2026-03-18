@@ -301,3 +301,4 @@
 # Update: 2026-03-12T17:11:05 - perf: optimize database queries
 # Update: 2026-03-17T09:27:15 - perf: reduce bundle size by 30%
 # Update: 2026-03-18T19:38:38 - test: add unit tests for auth service
+# Update: 2026-03-18T11:58:15 - docs: update README with setup guide

@@ -286,3 +286,4 @@
 # Update: 2026-03-13T10:46:17 - perf: reduce bundle size by 30%
 # Update: 2026-03-16T16:23:24 - feat: implement dark mode toggle
 # Update: 2026-03-19T10:43:38 - fix: handle edge cases in validation
+# Update: 2026-03-23T14:57:28 - docs: update README with setup guide

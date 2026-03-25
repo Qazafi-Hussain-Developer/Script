@@ -305,3 +305,4 @@
 # Update: 2026-03-19T12:42:52 - refactor: clean up API handlers
 # Update: 2026-03-20T17:45:06 - feat: add caching layer with Redis
 # Update: 2026-03-23T19:59:38 - feat: implement real-time notifications
+# Update: 2026-03-25T14:07:41 - docs: update README with setup guide

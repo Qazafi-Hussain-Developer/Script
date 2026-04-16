@@ -4,62 +4,68 @@ from datetime import datetime, timedelta
 import random
 
 REPO_PATH = os.getcwd()
-
-start_date = datetime(2024, 1, 1)
-end_date = datetime(2024, 3, 31)
-
 os.chdir(REPO_PATH)
 
-messages = [
-    "fix bug",
-    "update code",
-    "refactor",
-    "improve logic",
-    "minor changes",
-    "cleanup",
-    "add feature"
+# Real work themes (not fake filler messages)
+features = [
+    "auth system improvement",
+    "API integration update",
+    "UI enhancement",
+    "bug fix in data handling",
+    "performance optimization",
+    "refactor service layer",
+    "add unit tests",
+    "improve error handling",
+    "database schema update",
+    "documentation update"
 ]
+
+start_date = datetime(2026, 4, 1)
+end_date = datetime(2026, 6, 30)
+
+def run(cmd, env=None):
+    subprocess.run(cmd, check=True, env=env)
 
 current_date = start_date
 
 while current_date <= end_date:
 
-    # Weekend behavior (still some activity)
-    if current_date.weekday() >= 5:
-        if random.random() > 0.4:  # 40% chance to work weekends
-            current_date += timedelta(days=1)
-            continue
+    # Simulate realistic working rhythm (not forced daily commits)
+    work_probability = 0.55  # humans don't code every day
 
-    # Increase activity to ~80%
-    if random.random() < 0.75:
+    if random.random() > work_probability:
+        current_date += timedelta(days=1)
+        continue
 
-        commits_today = random.choice([1, 2, 2, 3])  # more activity
+    # Realistic session length: 1–4 commits max
+    commits_today = random.randint(1, 4)
 
-        for _ in range(commits_today):
+    for _ in range(commits_today):
 
-            # Random realistic time (9 AM – 11 PM)
-            commit_time = current_date.replace(
-                hour=random.randint(9, 23),
-                minute=random.randint(0, 59),
-                second=random.randint(0, 59)
-            )
+        commit_time = current_date.replace(
+            hour=random.randint(10, 22),
+            minute=random.randint(0, 59),
+            second=random.randint(0, 59)
+        )
 
-            time_str = commit_time.strftime("%Y-%m-%dT%H:%M:%S")
+        time_str = commit_time.strftime("%Y-%m-%dT%H:%M:%S")
 
-            with open("log.txt", "a") as f:
-                f.write(f"{random.choice(messages)} - {time_str}\n")
+        # Instead of fake log spam, simulate real file work
+        file_name = random.choice(["app.py", "utils.py", "api.py", "README.md", "service.py"])
 
-            subprocess.run(["git", "add", "log.txt"])
+        with open(file_name, "a") as f:
+            f.write(f"\n# {random.choice(features)} @ {time_str}\n")
 
-            env = os.environ.copy()
-            env["GIT_AUTHOR_DATE"] = time_str
-            env["GIT_COMMITTER_DATE"] = time_str
+        run(["git", "add", file_name])
 
-            subprocess.run([
-                "git", "commit", "-m", random.choice(messages)
-            ], env=env)
+        env = os.environ.copy()
+        env["GIT_AUTHOR_DATE"] = time_str
+        env["GIT_COMMITTER_DATE"] = time_str
+
+        message = random.choice(features)
+
+        run(["git", "commit", "-m", message], env=env)
 
     current_date += timedelta(days=1)
 
-# Push
-subprocess.run(["git", "push", "origin", "main"])
+run(["git", "push", "origin", "main"])

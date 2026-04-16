@@ -282,8 +282,8 @@ def simulate_merge_commit(date):
     run(["git", "merge", "--no-ff", "-m", message], env=env)
 
 # UPDATED DATE RANGE: March 1, 2024 to November 30, 2024
-start_date = datetime(2024, 3, 1)
-end_date = datetime(2024, 11, 30)
+start_date = datetime(2024, 10, 1)
+end_date = datetime(2024, 12, 30)
 
 def run(cmd, env=None):
     subprocess.run(cmd, check=True, env=env, capture_output=True)

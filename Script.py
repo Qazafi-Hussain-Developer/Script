@@ -200,20 +200,25 @@ for file_path in files:
 
 print(f"✅ Created {len(files)} files")
 
-# ============ DATE RANGE: Jan 1, 2025 to May 31, 2026 ============
+# ============ DATE RANGE: Jan 1, 2025 to May 31, 2026 ONLY ============
+# NO COMMITS AFTER MAY 31, 2026 (July-Dec 2026 will be EMPTY)
 start_date = datetime(2025, 1, 1)
-end_date = datetime(2026, 5, 31)
+end_date = datetime(2026, 5, 31)  # STOPS HERE - June-Dec 2026 has NO commits
 
 total_days = (end_date - start_date).days + 1
 target_work_days = int(total_days * 0.80)  # 80% activity
 
 print("=" * 70)
-print("🚀 80% FILLED: 2025 to MAY 2026")
+print("🚀 80% FILLED: 2025 to MAY 2026 ONLY")
 print("=" * 70)
 print(f"📅 From: {start_date.strftime('%Y-%m-%d')}")
 print(f"📅 To: {end_date.strftime('%Y-%m-%d')}")
-print(f"📊 Total days: {total_days}")
+print(f"📊 Total days in range: {total_days}")
 print(f"🎯 Target activity: 80% (~{target_work_days} days with commits)")
+print("")
+print("⚠️ IMPORTANT: NO commits will be made for:")
+print("   • June 1, 2026 - December 31, 2026 (COMPLETELY EMPTY)")
+print("   • July-Dec 2026 = NO GREEN SQUARES")
 print("=" * 70)
 
 current_date = start_date
@@ -221,9 +226,8 @@ commit_count = 0
 day_count = 0
 work_days = 0
 super_days = 0
-vacation_days = []
 
-# Generate random vacation periods (2 weeks per quarter)
+# Vacation periods (no commits)
 vacations = [
     (datetime(2025, 4, 7), datetime(2025, 4, 18)),   # Spring break
     (datetime(2025, 7, 21), datetime(2025, 8, 1)),   # Summer vacation
@@ -319,13 +323,17 @@ print("\n" + "=" * 70)
 print("📊 GENERATION COMPLETE!")
 print("=" * 70)
 print(f"✅ Total commits: {commit_count}")
-print(f"📅 Date range: {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}")
-print(f"📆 Total days: {total_days}")
+print(f"📅 Date range WITH commits: {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}")
+print(f"📆 Total days in range: {total_days}")
 print(f"💼 Days with commits: {work_days}")
 print(f"📈 Activity rate: {actual_activity:.1f}% (Target: 80%)")
 print(f"🌟 Super productive days: {super_days} (9-15 commits each)")
 print(f"📁 Files used: {len(files)}")
 print(f"💬 Unique messages: {len(commit_messages)}")
+print("")
+print("⚠️ NO COMMITS created for:")
+print("   • June 1, 2026 - December 31, 2026")
+print("   • July, August, September, October, November, December 2026 are EMPTY")
 print("=" * 70)
 
 # Push to GitHub
@@ -338,23 +346,166 @@ else:
     
 print("\n✨ CONTRIBUTION GRAPH IS READY!")
 print("=" * 70)
-print("EXPECTED GITHUB GRAPH (80% filled):")
+print("EXPECTED GITHUB GRAPH (80% filled Jan 2025 - May 2026):")
 print("")
 print("   2025:")
 print("   Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec")
 print("   ███ ███ ███ ███ ███ ███ ███ ███ ███ ███ ███ ███")
 print("   (80% green - some empty days for realism)")
 print("")
-print("   2026 (Jan-May only):")
-print("   Jan Feb Mar Apr May")
-print("   ███ ███ ███ ███ ███")
-print("   (80% green - first 5 months only)")
+print("   2026:")
+print("   Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec")
+print("   ███ ███ ███ ███ ███ ░░░ ░░░ ░░░ ░░░ ░░░ ░░░ ░░░")
+print("   (Jan-May 80% green | June-Dec COMPLETELY EMPTY)")
 print("")
 print("   Vacation periods (no commits):")
 print("   • Apr 7-18, 2025 (Spring break)")
 print("   • Jul 21 - Aug 1, 2025 (Summer vacation)")
-print("   • Dec 22 - Jan 2 (Christmas/New Year)")
+print("   • Dec 22, 2025 - Jan 2, 2026 (Christmas/New Year)")
+print("   • Mar 16-27, 2026 (Spring break 2026)")
+print("")
+print("   ⚠️ July - December 2026 = NO ACTIVITY (future months)")
 print("=" * 70)
 
 
 
+
+
+
+
+
+
+
+# import os
+# import subprocess
+# from datetime import datetime, timedelta
+# import random
+# import time
+
+# REPO_PATH = os.getcwd()
+# os.chdir(REPO_PATH)
+
+# # ============ COMMIT MESSAGES ============
+# commit_messages = [
+#     "feat(auth): implement JWT refresh token rotation",
+#     "feat(api): add GraphQL endpoint with resolvers",
+#     "feat(database): implement connection pooling",
+#     "feat(frontend): add dark mode toggle",
+#     "feat(security): add rate limiting middleware",
+#     "feat(cache): implement Redis caching layer",
+#     "feat(devops): add Docker multi-stage builds",
+#     "feat(monitoring): add Prometheus metrics",
+#     "feat(queue): implement background job processor",
+#     "feat(api): add RESTful CRUD operations",
+#     "feat(auth): add OAuth2 Google login",
+#     "feat(database): add query optimization",
+#     "feat(frontend): implement responsive navbar",
+#     "feat(security): add CORS configuration",
+#     "feat(cache): implement cache invalidation",
+#     "fix(auth): resolve token expiration bug",
+#     "fix(api): handle null responses properly",
+#     "fix(database): fix connection leak",
+#     "fix(frontend): resolve infinite re-render",
+#     "fix(security): patch XSS vulnerability",
+#     "perf(api): reduce response time by 40%",
+#     "perf(database): add missing indexes",
+#     "perf(frontend): reduce bundle size by 30%",
+#     "refactor(auth): extract service layer",
+#     "refactor(api): standardize responses",
+#     "docs(readme): update installation guide",
+#     "docs(api): add OpenAPI documentation",
+#     "test(auth): add unit tests",
+#     "test(api): add integration tests",
+#     "chore(deps): update dependencies",
+#     "chore(ci): update GitHub Actions workflow"
+# ]
+
+# # ============ FILES ============
+# files = [
+#     "app.py", "api.py", "auth.py", "database.py", 
+#     "models.py", "utils.py", "config.py", "README.md"
+# ]
+
+# # Create files if they don't exist
+# for file in files:
+#     if not os.path.exists(file):
+#         with open(file, "w") as f:
+#             f.write(f"# {file}\n\n")
+
+# print("=" * 60)
+# print("🚀 35 CONTRIBUTIONS GENERATOR")
+# print("=" * 60)
+# print("📅 Total commits to create: 35")
+# print("=" * 60)
+
+# # ============ CREATE 35 COMMITS SPREAD ACROSS 2025 TO MAY 2026 ============
+# start_date = datetime(2025, 1, 1)
+# end_date = datetime(2026, 5, 31)
+
+# total_days = (end_date - start_date).days + 1  # ~517 days
+
+# # Pick 35 random days within the date range
+# random_days = sorted(random.sample(range(total_days), 35))
+
+# commit_count = 0
+
+# for day_offset in random_days:
+#     commit_date = start_date + timedelta(days=day_offset)
+    
+#     # Random time between 9 AM - 8 PM
+#     hour = random.randint(9, 20)
+#     minute = random.randint(0, 59)
+#     second = random.randint(0, 59)
+    
+#     commit_time = commit_date.replace(hour=hour, minute=minute, second=second)
+#     time_str = commit_time.strftime("%Y-%m-%dT%H:%M:%S")
+    
+#     # Random file
+#     file_name = random.choice(files)
+    
+#     # Write to file
+#     with open(file_name, "a") as f:
+#         f.write(f"# Commit on {commit_time.strftime('%Y-%m-%d %H:%M')}\n")
+    
+#     # Git add
+#     subprocess.run(["git", "add", file_name], capture_output=True)
+    
+#     # Git commit with custom date
+#     commit_msg = random.choice(commit_messages)
+#     subprocess.run([
+#         "git", "commit", "-m", commit_msg,
+#         "--date", time_str
+#     ], capture_output=True)
+    
+#     commit_count += 1
+#     print(f"✅ Commit {commit_count:2d}/35: {commit_time.strftime('%Y-%m-%d')} - {commit_msg[:40]}...")
+
+# print("\n" + "=" * 60)
+# print("📊 COMPLETE!")
+# print("=" * 60)
+# print(f"✅ Total commits created: {commit_count}/35")
+# print(f"📅 Date range: {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}")
+# print("=" * 60)
+
+# # Push to GitHub
+# print("\n🚀 Pushing to GitHub...")
+# result = subprocess.run(["git", "push", "origin", "main"], capture_output=True)
+# if result.returncode == 0:
+#     print("✅ Push successful! 35 contributions added to your graph.")
+# else:
+#     print("⚠️ Push failed. Try running: git push origin main")
+
+# print("\n✨ DONE! Your GitHub graph now has 35 new contributions!")
+# print("=" * 60)
+# print("EXPECTED GITHUB GRAPH:")
+# print("")
+# print("   2025:")
+# print("   Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec")
+# print("   ░ █ ░ █ ░ █ ░ █ ░ █ ░ █ ░ █ ░ █ ░ █ ░ █ ░ █ ░")
+# print("   (Random 35 commits across the year)")
+# print("")
+# print("   2026 (Jan-May only):")
+# print("   Jan Feb Mar Apr May")
+# print("   ░ █ ░ █ ░ █ ░ █ ░")
+# print("   (Random commits in first 5 months)")
+# print("=" * 60)

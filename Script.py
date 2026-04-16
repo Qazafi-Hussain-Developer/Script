@@ -2,326 +2,335 @@ import os
 import subprocess
 from datetime import datetime, timedelta
 import random
-import string
 import time
+import json
+from collections import defaultdict
 
 REPO_PATH = os.getcwd()
 os.chdir(REPO_PATH)
 
-# Production-level realistic features and tasks
-features = {
+# ============ ADVANCED PATTERN GENERATOR ============
+
+class WorkPatternGenerator:
+    """Generates realistic changing work patterns over time"""
+    
+    def __init__(self):
+        self.current_pattern = None
+        self.pattern_switch_date = None
+        self.sprint_schedule = []
+        
+    def get_pattern_for_date(self, date):
+        """Returns work pattern based on date with evolving habits"""
+        
+        # Define pattern eras (changing work habits)
+        patterns = {
+            "new_dev_enthusiastic": {
+                "work_probability": 0.75,
+                "weekend_work": 0.25,
+                "avg_commits": (2, 6),
+                "crunch_days": [0, 1, 2, 3, 4],  # All weekdays
+                "timezone": "standard"
+            },
+            "balanced_dev": {
+                "work_probability": 0.65,
+                "weekend_work": 0.10,
+                "avg_commits": (1, 4),
+                "crunch_days": [0, 2],  # Mon & Wed
+                "timezone": "standard"
+            },
+            "night_owl": {
+                "work_probability": 0.70,
+                "weekend_work": 0.20,
+                "avg_commits": (2, 5),
+                "crunch_days": [1, 3, 4],  # Tue, Thu, Fri
+                "timezone": "night"
+            },
+            "remote_first": {
+                "work_probability": 0.80,
+                "weekend_work": 0.15,
+                "avg_commits": (1, 5),
+                "crunch_days": [0, 3],  # Mon & Thu
+                "timezone": "flexible"
+            },
+            "burnout_recovery": {
+                "work_probability": 0.45,
+                "weekend_work": 0.05,
+                "avg_commits": (1, 2),
+                "crunch_days": [1, 3],  # Tue & Thu
+                "timezone": "standard"
+            },
+            "super_active": {
+                "work_probability": 0.90,
+                "weekend_work": 0.40,
+                "avg_commits": (4, 12),
+                "crunch_days": [0, 1, 2, 3, 4],  # All days
+                "timezone": "night"
+            }
+        }
+        
+        # Define when patterns change (every ~40 days but random)
+        if not self.pattern_switch_date or date >= self.pattern_switch_date:
+            # Choose new pattern (avoid same pattern twice)
+            available = [p for p in patterns.keys() if p != self.current_pattern]
+            self.current_pattern = random.choice(available)
+            
+            # Next change in 35-50 days
+            change_days = random.randint(35, 50)
+            self.pattern_switch_date = date + timedelta(days=change_days)
+            
+            print(f"📊 Pattern changed to '{self.current_pattern}' for next {change_days} days")
+        
+        return patterns[self.current_pattern]
+    
+    def is_super_active_period(self, date):
+        """Every 15 days, there's a 3-day super active sprint"""
+        
+        # Check if we're in a super active window
+        for sprint_start, sprint_end in self.sprint_schedule:
+            if sprint_start <= date <= sprint_end:
+                return True
+        
+        # Randomly generate super active periods
+        if random.random() < 0.08:  # 8% chance to start a sprint
+            sprint_length = random.randint(2, 5)
+            sprint_start = date
+            sprint_end = date + timedelta(days=sprint_length)
+            self.sprint_schedule.append((sprint_start, sprint_end))
+            print(f"🚀 SUPER ACTIVE SPRINT: {sprint_start.date()} to {sprint_end.date()}")
+            return True
+        
+        return False
+
+# Initialize pattern generator
+pattern_gen = WorkPatternGenerator()
+
+# ============ REALISTIC FEATURES BY YEAR ============
+
+features_2024 = {
     "backend": [
         "Add JWT refresh token rotation",
         "Implement rate limiting middleware",
-        "Optimize database query with join fetching",
-        "Add Redis caching for user sessions",
-        "Fix N+1 query problem in user service",
-        "Implement idempotency key for payments",
-        "Add request ID tracing through services",
-        "Migrate from bcrypt to Argon2 for password hashing",
-        "Add connection pooling for PostgreSQL",
-        "Implement circuit breaker for external API",
-        "Add structured logging with JSON format",
-        "Implement graceful shutdown handling",
-        "Add health check endpoint for k8s",
-        "Fix memory leak in WebSocket handler",
-        "Add transactional outbox pattern"
+        "Optimize database query with join fetching"
     ],
     "frontend": [
         "Add responsive design for mobile breakpoints",
         "Implement virtual scrolling for large lists",
-        "Add optimistic UI updates for likes",
-        "Fix infinite re-render in React component",
-        "Add lazy loading for images and routes",
-        "Implement WebSocket reconnection logic",
-        "Add form validation with Zod schema",
-        "Fix flash of unstyled content",
-        "Add dark mode theme persistence",
-        "Implement drag-and-drop file upload",
-        "Add skeleton loading states",
-        "Fix focus trap in modal component",
-        "Implement debounced search input",
-        "Add toast notifications system",
-        "Fix CSS grid layout in Safari"
+        "Fix infinite re-render in React component"
     ],
     "devops": [
         "Add Docker multi-stage builds",
         "Configure GitHub Actions for CI/CD",
-        "Add Prometheus metrics endpoint",
-        "Set up Grafana dashboards",
-        "Add Kubernetes liveness probes",
-        "Configure NGINX rate limiting",
-        "Add database backup automation",
-        "Set up log rotation with logrotate",
-        "Add Terraform for infrastructure",
-        "Configure Vault for secret management",
-        "Add Sentry error tracking",
-        "Set up Datadog APM monitoring",
-        "Add auto-scaling policy for ECS",
-        "Configure WAF rules for CloudFront",
-        "Add blue-green deployment script"
-    ],
-    "security": [
-        "Add CORS with specific origins",
-        "Implement CSP headers for XSS protection",
-        "Add SQL injection prevention in raw queries",
-        "Fix exposed environment variables in client",
-        "Implement audit logging for sensitive actions",
-        "Add CSRF token validation",
-        "Fix path traversal vulnerability",
-        "Add request size limiting middleware",
-        "Implement brute force protection for login",
-        "Add session fixation prevention",
-        "Fix insecure direct object references",
-        "Add security.txt with contact info",
-        "Implement API key rotation mechanism",
-        "Add IP whitelisting for admin endpoints",
-        "Fix Open Redirect vulnerability"
-    ],
-    "testing": [
-        "Add unit tests for auth service",
-        "Add integration tests for payment flow",
-        "Add E2E tests with Playwright",
-        "Fix flaky test in notification service",
-        "Add load testing with k6 script",
-        "Add mutation testing with Stryker",
-        "Add contract tests for API versioning",
-        "Add performance regression tests",
-        "Add snapshot tests for UI components",
-        "Add property-based tests for validators",
-        "Add chaos testing for resilience",
-        "Fix test isolation issues",
-        "Add accessibility tests with axe",
-        "Add security tests with OWASP ZAP",
-        "Add coverage reporting to 85%"
-    ],
-    "refactoring": [
-        "Extract service layer from controllers",
-        "Replace callbacks with async/await",
-        "Add DTOs with class-validator",
-        "Convert to TypeScript strict mode",
-        "Remove dead code and unused imports",
-        "Split large component into hooks",
-        "Add repository pattern for data layer",
-        "Implement strategy pattern for payments",
-        "Replace moment.js with date-fns",
-        "Add error boundary for React components",
-        "Standardize API response format",
-        "Extract environment config to module",
-        "Replace custom logger with Winston",
-        "Add dependency injection container",
-        "Migrate from Webpack to Vite"
-    ],
-    "documentation": [
-        "Add JSDoc for API endpoints",
-        "Update README with setup instructions",
-        "Add architecture decision records",
-        "Write API documentation with OpenAPI",
-        "Add contributing guidelines",
-        "Add troubleshooting guide",
-        "Update migration guide for v2.0",
-        "Add code of conduct",
-        "Write deployment checklist",
-        "Add security policy to SECURITY.md",
-        "Document environment variables",
-        "Add sequence diagrams for auth flow",
-        "Update changelog for recent releases",
-        "Add performance tuning guide",
-        "Write disaster recovery plan"
+        "Add Prometheus metrics endpoint"
     ]
 }
 
-# Realistic file structure
+features_2025 = {
+    "ai_integration": [
+        "Integrate GPT-4 API for content generation",
+        "Add ML-based recommendation engine",
+        "Implement sentiment analysis for comments",
+        "Add AI-powered search with embeddings",
+        "Integrate OpenAI for code completion"
+    ],
+    "performance": [
+        "Implement edge caching with CloudFlare",
+        "Add HTTP/3 support",
+        "Optimize bundle size with tree shaking",
+        "Add database read replicas",
+        "Implement CDN invalidation strategy"
+    ],
+    "web3": [
+        "Add wallet connection (MetaMask)",
+        "Implement smart contract interaction",
+        "Add NFT minting functionality",
+        "Integrate IPFS for decentralized storage",
+        "Add blockchain transaction tracking"
+    ],
+    "mobile": [
+        "Add PWA support with offline mode",
+        "Implement React Native components",
+        "Add push notifications",
+        "Implement biometric authentication",
+        "Add mobile-specific gestures"
+    ],
+    "analytics": [
+        "Add Mixpanel event tracking",
+        "Implement custom dashboards",
+        "Add funnel analysis",
+        "Implement A/B testing framework",
+        "Add user behavior analytics"
+    ]
+}
+
+# Merge features
+all_features = {**features_2024, **features_2025}
+
+# Realistic file structure for 2024-2025
 file_structure = {
     "src/": [
         "server.py", "app.py", "config.py", "database.py", "middleware.py",
         "routes/api/auth.py", "routes/api/users.py", "routes/api/payments.py",
         "services/auth_service.py", "services/user_service.py", "services/email_service.py",
-        "services/payment_service.py", "models/user.py", "models/session.py", "models/payment.py",
+        "services/ai_service.py", "services/blockchain.py",
+        "models/user.py", "models/session.py", "models/payment.py", "models/analytics.py",
         "utils/validators.py", "utils/helpers.py", "utils/logger.py", "utils/cache.py",
-        "controllers/auth_controller.py", "controllers/user_controller.py"
+        "utils/ai_utils.py", "controllers/auth_controller.py", "controllers/user_controller.py"
     ],
     "src/frontend/": [
         "App.jsx", "index.jsx", "main.css", "components/Header.jsx", "components/Footer.jsx",
         "components/Modal.jsx", "pages/Home.jsx", "pages/Login.jsx", "pages/Dashboard.jsx",
-        "hooks/useAuth.js", "hooks/useDebounce.js", "store/store.js", "store/userSlice.js",
-        "services/api.js", "services/auth.js", "utils/formatDate.js", "utils/validation.js"
+        "hooks/useAuth.js", "hooks/useDebounce.js", "hooks/useWeb3.js",
+        "store/store.js", "store/userSlice.js", "services/api.js", "services/auth.js",
+        "services/web3.js", "utils/formatDate.js", "utils/validation.js"
     ],
     "tests/": [
         "test_auth.py", "test_api.py", "test_models.py", "test_services.py",
-        "e2e/login.spec.js", "e2e/payment.spec.js", "integration/test_payment_flow.py",
-        "unit/test_helpers.py", "performance/load_test.js", "security/security_test.py"
+        "test_ai.py", "test_blockchain.py", "e2e/login.spec.js", "e2e/payment.spec.js"
     ],
     "infra/": [
         "Dockerfile", "docker-compose.yml", "nginx.conf", "prometheus.yml",
-        "kubernetes/deployment.yaml", "kubernetes/service.yaml", "kubernetes/ingress.yaml",
-        "terraform/main.tf", "terraform/variables.tf", "ansible/playbook.yml"
+        "kubernetes/deployment.yaml", "terraform/main.tf"
     ],
     "docs/": [
-        "README.md", "CONTRIBUTING.md", "ARCHITECTURE.md", "API.md",
-        "DEPLOYMENT.md", "SECURITY.md", "CHANGELOG.md", "CODE_OF_CONDUCT.md"
+        "README.md", "API.md", "AI_GUIDE.md", "WEB3_SETUP.md", "DEPLOYMENT_2025.md"
     ],
-    ".github/workflows/": [
-        "ci.yml", "cd.yml", "security-scan.yml", "deploy-staging.yml", "deploy-prod.yml"
+    "scripts/": [
+        "migration_2025.py", "backup.py", "analytics_export.py", "ai_training.py"
     ]
 }
 
-# Flatten file list
+# Create files
 all_files = []
 for dir_path, files in file_structure.items():
     for file in files:
         full_path = os.path.join(dir_path, file)
         all_files.append(full_path)
-        # Create directory if it doesn't exist
         os.makedirs(os.path.dirname(full_path), exist_ok=True)
-        # Create file if it doesn't exist
         if not os.path.exists(full_path):
             with open(full_path, 'w') as f:
-                f.write(f"// Initial file: {file}\n")
+                f.write(f"// Project file: {file}\n// Created: {datetime.now()}\n")
 
-def generate_realistic_diff(file_path, feature):
-    """Generate realistic code changes"""
-    templates = {
-        "backend": [
-            f"def {feature.split()[1].lower() if len(feature.split()) > 1 else 'handle'}_logic(data):\n    # TODO: Add validation\n    return processed_data\n\n",
-            f"async def {feature.split()[0].lower()}_handler(request):\n    try:\n        result = await service.process(request)\n        return {{'status': 'success', 'data': result}}\n    except Exception as e:\n        logger.error(f'Failed: {{e}}')\n        raise\n\n",
-            f"# {feature}\n# Implementation status: In progress\n# PR: https://github.com/org/repo/pull/{random.randint(100, 999)}\n\n"
-        ],
-        "frontend": [
-            f"const {''.join(feature.split()[:2]).lower()} = () => {{\n  const [state, setState] = useState(null);\n  \n  useEffect(() => {{\n    // {feature}\n    fetchData().then(setState);\n  }}, []);\n  \n  return <div>{{state}}</div>;\n}};\n\n",
-            f"// {feature}\nexport const use{''.join(feature.split()[:2])} = () => {{\n  return useCallback(() => {{\n    console.log('Implement {feature}');\n  }}, []);\n}};\n\n",
-            f"/* {feature} */\n.component-{random.randint(100, 999)} {{\n  transition: all 0.3s ease;\n  /* TODO: Add proper styling */\n}}\n\n"
-        ],
-        "testing": [
-            f"def test_{feature.split()[2].lower() if len(feature.split()) > 2 else 'feature'}():\n    # Arrange\n    mock_data = {{'key': 'value'}}\n    \n    # Act\n    result = function_under_test(mock_data)\n    \n    # Assert\n    assert result is not None\n    assert 'expected' in result\n\n",
-            f"describe('{feature}', () => {{\n  it('should work correctly', async () => {{\n    const result = await myFunction();\n    expect(result).toBeDefined();\n  }});\n}});\n\n"
-        ],
-        "default": [
-            f"# {feature}\n# Author: dev{random.randint(1, 20)}@company.com\n# Date: {datetime.now().strftime('%Y-%m-%d')}\n\n",
-            f"// {feature}\n// Ticket: PROJ-{random.randint(1000, 9999)}\n// Reviewer: {random.choice(['alice', 'bob', 'charlie', 'diana'])}\n\n"
+def generate_realistic_diff(file_path, feature, date):
+    """Generate year-appropriate code changes"""
+    
+    if date.year == 2025:
+        # 2025: More advanced features
+        templates = [
+            f"# {feature}\n# AI Integration {date.year}\n# Using new stack\n\n",
+            f"const web3 = new Web3(window.ethereum);\n// {feature}\n",
+            f"// {feature}\n// Implemented with React 19\n// Date: {date}\n\n"
         ]
-    }
-    
-    category = "default"
-    for key in templates:
-        if key in feature.lower() or any(word in feature.lower() for word in ["auth", "api", "database", "service"]):
-            category = key
-            break
-    
-    return random.choice(templates.get(category, templates["default"]))
-
-def should_work_today(date):
-    """More realistic work pattern with weekends and occasional days off"""
-    weekday = date.weekday()
-    
-    # Rarely work on weekends (15% chance)
-    if weekday >= 5:  # Saturday or Sunday
-        return random.random() < 0.15
-    
-    # Sometimes take random weekdays off (20% chance)
-    if random.random() < 0.20:
-        return False
-    
-    # Work more on Mondays and Wednesdays (crunch days)
-    if weekday in [0, 2]:  # Monday, Wednesday
-        return random.random() < 0.85
-    
-    return random.random() < 0.65
-
-def generate_commit_message():
-    """Generate realistic, detailed commit messages"""
-    categories = list(features.keys())
-    category = random.choice(categories)
-    action = random.choice(features[category])
-    
-    templates = [
-        f"{action}\n\n- Implements core functionality\n- Adds unit tests\n- Updates documentation\n\nCloses #{random.randint(100, 999)}",
-        f"fix: {action}\n\nResolves issue where users experienced {random.choice(['timeouts', 'data loss', 'slow loading', 'incorrect validation'])}\n\n- Adds regression tests\n- Updates error handling\n\nCo-authored-by: {random.choice(['alice@example.com', 'bob@example.com', 'charlie@example.com'])}",
-        f"refactor: {action}\n\n- Extracts logic into separate service\n- Improves type safety\n- Reduces complexity by {random.randint(20, 50)}%\n- Adds JSDoc comments",
-        f"feat: {action}\n\nBREAKING CHANGE: {random.choice(['API response format updated', 'Configuration structure changed', 'Database schema migration required'])}\n\nMigration guide:\n1. Update environment variables\n2. Run migration script\n3. Deploy with blue-green strategy",
-        f"docs: {action}\n\n- Updates README with new setup steps\n- Adds API examples\n- Fixes typos in documentation\n- Adds troubleshooting section",
-        f"perf: {action}\n\nImproves {random.choice(['load time', 'memory usage', 'response latency', 'database queries'])} by {random.randint(15, 60)}%\n\nBenchmarks:\n- Before: {random.randint(100, 500)}ms\n- After: {random.randint(50, 150)}ms",
-        f"test: {action}\n\n- Adds {random.randint(5, 20)} new test cases\n- Increases coverage by {random.randint(2, 8)}%\n- Fixes flaky tests\n- Adds integration tests for critical paths",
-        f"chore: {action}\n\n- Updates dependencies\n- Bumps version to {random.randint(1, 3)}.{random.randint(0, 9)}.{random.randint(0, 9)}\n- Updates CI pipeline\n- Adds pre-commit hooks"
-    ]
+    else:
+        # 2024: Standard features
+        templates = [
+            f"# {feature}\n# Legacy support\n\n",
+            f"// {feature}\n// Standard implementation\n"
+        ]
     
     return random.choice(templates)
 
-def generate_complex_change():
-    """Sometimes make changes to multiple files at once"""
-    num_files = random.randint(2, 5)
-    changed_files = random.sample(all_files, min(num_files, len(all_files)))
+def should_work_today(date, pattern, is_super_active):
+    """Advanced work pattern with super-active periods"""
     
-    for file_path in changed_files:
-        category = random.choice(list(features.keys()))
-        action = random.choice(features[category])
-        
-        with open(file_path, "a") as f:
-            f.write(generate_realistic_diff(file_path, action))
-        
-        run(["git", "add", file_path])
+    # Super active period overrides everything
+    if is_super_active:
+        return True
     
-    return changed_files
+    weekday = date.weekday()
+    
+    # Weekend work based on current pattern
+    if weekday >= 5:
+        return random.random() < pattern["weekend_work"]
+    
+    # Normal work day probability
+    return random.random() < pattern["work_probability"]
 
-def simulate_merge_commit(date):
-    """Simulate merge commits occasionally"""
-    merge_time = date.replace(
-        hour=random.randint(14, 18),
-        minute=random.randint(0, 59),
-        second=random.randint(0, 59)
-    )
-    time_str = merge_time.strftime("%Y-%m-%dT%H:%M:%S")
+def get_commits_for_day(date, pattern, is_super_active):
+    """Determine number of commits for the day"""
     
-    env = os.environ.copy()
-    env["GIT_AUTHOR_DATE"] = time_str
-    env["GIT_COMMITTER_DATE"] = time_str
+    if is_super_active:
+        return random.randint(6, 15)  # Heavy commit days
     
-    branch_name = f"feature/{random.choice(['auth', 'payment', 'ui', 'api', 'perf'])}-{random.randint(100, 999)}"
-    message = f"Merge branch '{branch_name}' into main\n\n{generate_commit_message()}"
+    base_min, base_max = pattern["avg_commits"]
     
-    run(["git", "merge", "--no-ff", "-m", message], env=env)
+    # Crunch days get more commits
+    if date.weekday() in pattern["crunch_days"]:
+        return random.randint(base_min, base_max + 2)
+    
+    return random.randint(base_min, base_max)
 
-# UPDATED DATE RANGE: March 1, 2024 to November 30, 2024
-start_date = datetime(2024, 10, 1)
-end_date = datetime(2024, 12, 30)
+def generate_commit_message(date):
+    """Generate year-appropriate commit messages"""
+    
+    if date.year == 2025:
+        templates = [
+            f"feat(ai): Integrate {random.choice(['GPT-4', 'Claude', 'Llama 3'])} for smart features\n\n- Add API integration\n- Implement caching\n- Add fallback mechanisms\n\nCloses #{random.randint(1000, 9999)}",
+            f"feat(web3): Add blockchain integration\n\n- Connect to {random.choice(['Ethereum', 'Solana', 'Polygon'])} network\n- Add wallet connection\n- Implement smart contract calls",
+            f"perf: Major performance overhaul\n\nImproves {random.choice(['TTFB', 'FCP', 'LCP'])} by {random.randint(30, 70)}%\n- Implement edge functions\n- Add CDN optimization\n- Optimize database queries",
+            f"feat(mobile): Add React Native components\n\n- Share business logic\n- Add mobile-specific UI\n- Implement native modules"
+        ]
+    else:
+        templates = [
+            f"fix: Resolve {random.choice(['auth', 'payment', 'routing'])} issue\n\n- Fix edge case\n- Add error handling\n- Update tests",
+            f"feat: Add {random.choice(['dashboard', 'profile', 'settings'])} page\n\n- Implement UI components\n- Add API integration\n- Add unit tests",
+            f"refactor: Improve code quality\n\n- Extract services\n- Add type hints\n- Reduce complexity"
+        ]
+    
+    return random.choice(templates)
 
 def run(cmd, env=None):
     subprocess.run(cmd, check=True, env=env, capture_output=True)
 
+# ============ MAIN EXECUTION ============
+
+# Timeline: Dec 15, 2024 to Feb 10, 2025
+start_date = datetime(2024, 12, 15)
+end_date = datetime(2025, 2, 10)
+
 current_date = start_date
 commit_count = 0
+daily_log = defaultdict(list)
 
-print("Starting realistic commit generation...")
-print(f"Date range: {start_date.strftime('%B %d, %Y')} to {end_date.strftime('%B %d, %Y')}")
-print(f"Total days: {(end_date - start_date).days} days")
-print("-" * 50)
+print("🎯 ADVANCED REALISTIC COMMIT GENERATOR")
+print("=" * 60)
+print(f"📅 Date range: {start_date.strftime('%B %d, %Y')} to {end_date.strftime('%B %d, %Y')}")
+print(f"📊 Total days: {(end_date - start_date).days} days")
+print("=" * 60)
 
 while current_date <= end_date:
-    if not should_work_today(current_date):
+    # Get pattern for this date
+    pattern = pattern_gen.get_pattern_for_date(current_date)
+    is_super_active = pattern_gen.is_super_active_period(current_date)
+    
+    # Special handling for Dec 20-31 (end of year crunch)
+    if current_date.month == 12 and current_date.day >= 20:
+        is_super_active = True
+        print(f"🎄 Year-end crunch: {current_date.date()}")
+    
+    # Special handling for Jan 1-10 (New Year resolutions)
+    if current_date.month == 1 and current_date.day <= 10:
+        is_super_active = True
+        print(f"🎆 New Year sprint: {current_date.date()}")
+    
+    if not should_work_today(current_date, pattern, is_super_active):
         current_date += timedelta(days=1)
         continue
     
-    # Determine how many commits today (1-5, sometimes more during crunch)
-    if current_date.weekday() in [0, 2]:  # Monday/Wednesday crunch
-        commits_today = random.randint(2, 7)
-    else:
-        commits_today = random.randint(1, 4)
-    
-    # Sometimes have a big commit day
-    if random.random() < 0.1:
-        commits_today += random.randint(3, 8)
+    commits_today = get_commits_for_day(current_date, pattern, is_super_active)
     
     for commit_num in range(commits_today):
-        # Time distribution throughout the work day
-        if commit_num == 0:
-            # Morning commit
-            hour = random.randint(9, 12)
-        elif commit_num == commits_today - 1:
-            # Late afternoon commit
-            hour = random.randint(15, 18)
+        # Time distribution with realistic breaks
+        if is_super_active:
+            # Can commit any time during super active periods
+            hour = random.randint(8, 23)
         else:
-            # Mid-day commits
-            hour = random.randint(13, 17)
+            # Normal work hours
+            if commit_num == 0:
+                hour = random.randint(9, 11)  # Morning
+            elif commit_num == commits_today - 1:
+                hour = random.randint(16, 18)  # Late afternoon
+            else:
+                hour = random.randint(11, 16)  # Mid day
         
         commit_time = current_date.replace(
             hour=hour,
@@ -331,52 +340,55 @@ while current_date <= end_date:
         
         time_str = commit_time.strftime("%Y-%m-%dT%H:%M:%S")
         
-        # 30% chance of complex change (multiple files)
-        if random.random() < 0.3:
-            changed_files = generate_complex_change()
-            print(f"Complex commit: {len(changed_files)} files @ {time_str}")
+        # Choose file and make changes
+        file_path = random.choice(all_files)
+        
+        # Get year-appropriate features
+        if commit_time.year == 2025:
+            category = random.choice(list(features_2025.keys()))
+            action = random.choice(features_2025[category])
         else:
-            # Single file change
-            file_path = random.choice(all_files)
-            category = random.choice(list(features.keys()))
-            action = random.choice(features[category])
-            
-            with open(file_path, "a") as f:
-                f.write(generate_realistic_diff(file_path, action))
-            
-            run(["git", "add", file_path])
-            print(f"Changed: {file_path}")
+            category = random.choice(list(features_2024.keys()))
+            action = random.choice(features_2024[category])
+        
+        with open(file_path, "a") as f:
+            f.write(generate_realistic_diff(file_path, action, commit_time))
+        
+        run(["git", "add", file_path])
         
         env = os.environ.copy()
         env["GIT_AUTHOR_DATE"] = time_str
         env["GIT_COMMITTER_DATE"] = time_str
         
-        message = generate_commit_message()
+        message = generate_commit_message(commit_time)
         
         run(["git", "commit", "-m", message], env=env)
         commit_count += 1
+        daily_log[current_date.date()].append(commit_time.time())
         
-        # Small delay to simulate realistic commit timing
         if commit_num < commits_today - 1:
-            time.sleep(random.uniform(0.5, 2.0))
+            time.sleep(random.uniform(0.3, 1.5))
     
-    # 10% chance of a merge commit at end of day
-    if random.random() < 0.1:
-        simulate_merge_commit(current_date)
-        commit_count += 1
+    # Progress update
+    if (current_date - start_date).days % 5 == 0:
+        print(f"📈 {current_date.date()}: {commits_today} commits | Pattern: {pattern_gen.current_pattern} | Sprint: {is_super_active}")
     
     current_date += timedelta(days=1)
-    
-    # Progress indicator every 30 days
-    if (current_date - start_date).days % 30 == 0 and (current_date - start_date).days > 0:
-        progress_pct = ((current_date - start_date).days / (end_date - start_date).days) * 100
-        print(f"Progress: {progress_pct:.1f}% - {commit_count} commits so far")
 
-print("\n" + "=" * 50)
-print(f"✅ Generated {commit_count} commits over {(end_date - start_date).days} days")
-print(f"Average: {commit_count / (end_date - start_date).days:.2f} commits/day")
-print("=" * 50)
-print("Pushing to remote repository...")
+# Final statistics
+print("\n" + "=" * 60)
+print("📊 FINAL STATISTICS")
+print("=" * 60)
+print(f"✅ Total commits: {commit_count}")
+print(f"📅 Total days: {(end_date - start_date).days}")
+print(f"📈 Average commits/day: {commit_count / (end_date - start_date).days:.2f}")
 
+# Show most active days
+sorted_days = sorted(daily_log.items(), key=lambda x: len(x[1]), reverse=True)[:5]
+print("\n🔥 TOP 5 MOST ACTIVE DAYS:")
+for date, times in sorted_days:
+    print(f"   {date}: {len(times)} commits")
+
+print("\n🚀 Pushing to GitHub...")
 run(["git", "push", "origin", "main"])
-print("✅ Done! Your GitHub contribution graph should look realistic now.")
+print("✅ DONE! Your dynamic contribution graph is ready!")

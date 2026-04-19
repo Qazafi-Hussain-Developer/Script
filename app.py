@@ -12,3 +12,5 @@
 # database schema update @ 2026-04-15T13:14:10
 
 # UI enhancement @ 2026-04-15T13:51:23
+
+# bug fix in data handling @ 2026-04-19T14:36:20

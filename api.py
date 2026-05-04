@@ -6,3 +6,5 @@
 # auth system improvement @ 2026-05-01T16:36:58
 
 # auth system improvement @ 2026-05-02T10:27:55
+
+# improve error handling @ 2026-05-04T15:48:17

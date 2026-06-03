@@ -34,3 +34,5 @@
 # refactor service layer @ 2026-05-30T16:18:10
 
 # auth system improvement @ 2026-06-03T20:05:43
+
+# improve error handling @ 2026-06-03T14:11:53

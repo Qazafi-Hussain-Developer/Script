@@ -44,3 +44,5 @@
 # bug fix in data handling @ 2026-06-07T19:48:35
 
 # bug fix in data handling @ 2026-06-10T18:16:28
+
+# UI enhancement @ 2026-06-25T13:22:59

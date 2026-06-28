@@ -24,3 +24,5 @@
 # add unit tests @ 2026-06-13T17:41:08
 
 # refactor service layer @ 2026-06-25T10:55:25
+
+# improve error handling @ 2026-06-28T22:02:49

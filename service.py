@@ -44,3 +44,5 @@
 # database schema update @ 2026-06-28T13:56:56
 
 # add unit tests @ 2026-06-29T12:16:46
+
+# improve error handling @ 2026-06-30T21:11:39
